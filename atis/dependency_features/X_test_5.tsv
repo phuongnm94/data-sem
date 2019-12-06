@@ -1,0 +1,448 @@
+list|NN|compound|airport airport|NN|root|ROOT
+list|NN|compound|airport airport|NN|root|ROOT
+list|NN|root|ROOT ci0|.|punct|list
+list|NN|root|ROOT ci0|.|punct|list
+list|NN|compound|airport st0|NNP|compound|airport airport|NN|root|ROOT
+list|NN|compound|airport st0|NNP|compound|airport airport|NN|root|ROOT
+what|WP|nsubj|ap0 is|VBZ|cop|ap0 ap0|JJ|root|ROOT
+ci0|NN|root|ROOT to|IN|case|c c|NNP|nmod|ci0 i1|NNP|nmod|ci0
+what|WP|nsubj|ac0 is|VBZ|cop|ac0 ac0|JJ|root|ROOT
+what|WP|nsubj|ap0 is|VBZ|cop|ap0 ap0|JJ|root|ROOT
+list|VB|root|ROOT the|DT|det|airport st0|NNP|compound|airport airport|NN|obj|list
+what|WP|nsubj|restrict are|VBP|aux|restrict restrict|VBP|root|ROOT rc0|.|punct|restrict
+what|WP|root|ROOT airlin|NN|nsubj|what is|VBZ|cop|what al0|.|punct|what
+which|WDT|det|airlin airlin|NN|nsubj|is is|VBZ|root|ROOT al0|.|punct|is
+ci0|VB|root|ROOT to|IN|case|ci1 ci1|NNP|obl|ci0 economi|NNP|flat|ci1
+ci0|VB|root|ROOT to|IN|case|ci1 ci1|NNP|obl|ci0 economi|NNP|flat|ci1
+what|WP|root|ROOT airlin|NN|nsubj|what is|VBZ|cop|what al0|.|punct|what
+ground|NN|compound|transport transport|NN|root|ROOT in|IN|case|ci0 ci0|NNP|nmod|transport
+ground|NN|compound|transport transport|NN|root|ROOT for|IN|case|ci0 ci0|NNP|nmod|transport
+ci0|VB|root|ROOT to|IN|case|ci1 ci1|NNP|obl|ci0 economi|NNP|flat|ci1
+ci0|VB|root|ROOT to|IN|case|ci1 ci1|NNP|obl|ci0 economi|NNP|flat|ci1
+ci1|VB|root|ROOT to|IN|case|ci0 ci0|NNP|obl|ci1 economi|NNP|flat|ci0
+what|WP|root|ROOT airlin|NN|nsubj|what is|VBZ|cop|what al0|.|punct|what
+which|WDT|det|airlin airlin|NN|nsubj|is is|VBZ|root|ROOT al0|.|punct|is
+which|WDT|det|airlin airlin|NN|nsubj|is is|VBZ|root|ROOT al0|.|punct|is
+which|WDT|det|airlin airlin|NN|nsubj|is is|VBZ|root|ROOT al0|.|punct|is
+which|WDT|det|airlin airlin|NN|nsubj|is is|VBZ|root|ROOT al0|.|punct|is
+what|WP|root|ROOT airlin|NN|nsubj|what is|VBZ|cop|what al0|.|punct|what
+what|WP|root|ROOT airlin|NN|nsubj|what is|VBZ|cop|what al0|.|punct|what
+what|WP|root|ROOT airlin|NN|nsubj|what is|VBZ|cop|what al0|.|punct|what
+what|WP|root|ROOT airlin|NN|nsubj|what is|VBZ|cop|what al0|.|punct|what
+what|WP|root|ROOT airlin|NN|nsubj|what is|VBZ|cop|what al0|.|punct|what
+what|WP|root|ROOT airlin|NN|nsubj|what is|VBZ|cop|what al0|.|punct|what
+what|WP|root|ROOT airlin|NN|nsubj|what is|VBZ|cop|what al0|.|punct|what
+list|NN|compound|airport airport|NN|root|ROOT in|IN|case|ci0 ci0|NNP|nmod|airport
+list|NN|compound|airport airport|NN|root|ROOT in|IN|case|ci0 ci0|NNP|nmod|airport
+list|NN|compound|airport airport|NN|root|ROOT in|IN|case|ci0 ci0|NNP|nmod|airport
+list|NN|compound|airport airport|NN|root|ROOT in|IN|case|ci0 ci0|NNP|nmod|airport
+list|NN|compound|airport airport|NN|root|ROOT in|IN|case|ci0 ci0|NNP|nmod|airport
+what|WP|root|ROOT is|VBZ|cop|what a|DT|det|ac0 ac0|NN|nsubj|what
+what|WP|root|ROOT is|VBZ|cop|what a|DT|det|ac0 ac0|NN|nsubj|what
+what|WDT|det|serv airlin|NN|compound|serv serv|NN|root|ROOT ci0|.|punct|serv
+which|WDT|det|airlin airlin|NN|nsubj|is is|VBZ|root|ROOT al0|.|punct|is
+list|VB|root|ROOT all|DT|det|flight al0|DT|det|flight flight|NN|obj|list
+flight|NN|root|ROOT from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|nmod|flight
+flight|NN|root|ROOT from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|nmod|flight
+flight|NN|root|ROOT from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|nmod|flight
+list|NN|compound|st st|NNP|root|ROOT 0|CD|nummod|st st|NNP|compound|airport 1|CD|nummod|st st2|NNP|compound|airport airport|NN|appos|st
+list|VB|root|ROOT the|DT|det|airport airport|NN|obj|list in|IN|case|ci0 ci0|NNP|obl|list
+list|NN|compound|ground ground|NN|compound|transport transport|NN|root|ROOT in|IN|case|ci0 ci0|NNP|nmod|transport
+ci0|VB|root|ROOT to|TO|mark|ci1 ci1|VB|xcomp|ci0 on|IN|case|da0 da0|NNP|obl|ci1
+ci0|VB|root|ROOT to|IN|case|ci1 ci1|NNP|obl|ci0 da0|NNP|flat|ci1 morn|NN|obl|ci0
+ci0|VB|root|ROOT to|TO|mark|ci1 ci1|VB|xcomp|ci0 on|IN|case|da0 da0|NNP|obl|ci1
+ci0|VB|root|ROOT to|IN|case|ci1 ci1|NNP|obl|ci0 da0|NNP|flat|ci1 morn|NN|obl|ci0
+ci0|VB|root|ROOT to|TO|mark|ci1 ci1|VB|xcomp|ci0 after|RB|advmod|ti0 ti0|NNP|obl|ci1
+ci0|VB|root|ROOT to|IN|mark|ci1 ci1|VB|advcl|ci0 befor|IN|case|ti0 ti0|NNP|obl|ci1
+ci0|VB|root|ROOT to|IN|mark|ci1 ci1|VB|advcl|ci0 mn0|NN|obj|ci1 dn0|.|punct|ci0
+ci0|VB|root|ROOT to|IN|mark|ci1 ci1|VB|advcl|ci0 da0|NNP|compound|afternoon afternoon|NN|obj|ci1
+ci0|VB|root|ROOT to|IN|mark|ci1 ci1|VB|advcl|ci0 da0|NNP|compound|afternoon afternoon|NN|obj|ci1
+ci1|VB|root|ROOT to|IN|mark|ci0 ci0|VB|advcl|ci1 da0|NNP|compound|afternoon afternoon|NN|obj|ci0
+ci0|VB|root|ROOT to|IN|case|ci1 ci1|NNP|obl|ci0 da0|NNP|flat|ci1 morn|NN|obl|ci0
+ci1|VB|root|ROOT to|IN|mark|ci0 ci0|VB|advcl|ci1 da0|NNP|compound|morn morn|NN|obj|ci0
+ci0|VB|root|ROOT to|IN|case|afternoon ci1|DT|det|afternoon afternoon|NN|obl|ci0 da0|.|punct|ci0
+ci1|VB|root|ROOT to|IN|mark|ci0 ci0|VB|advcl|ci1 da0|NN|obj|ci0 even|RB|advmod|ci0
+ci0|VB|root|ROOT to|TO|mark|ci1 ci1|VB|xcomp|ci0 on|IN|case|da0 da0|NNP|obl|ci1
+ci0|VB|root|ROOT to|TO|mark|ci1 ci1|VB|xcomp|ci0 on|IN|case|da0 da0|NNP|obl|ci1
+ci0|VB|root|ROOT to|TO|mark|ci1 ci1|VB|xcomp|ci0 on|IN|case|da0 da0|NNP|obl|ci1
+how|WRB|advmod|leav mani|NNP|nsubj|leav al0|VBZ|cop|leav leav|NN|root|ROOT ci0|.|punct|leav
+how|WRB|advmod|leav mani|NNP|nsubj|leav al0|VBZ|cop|leav leav|NN|root|ROOT ci0|.|punct|leav
+are|VBP|cop|serv snack|NN|compound|serv serv|NN|root|ROOT on|IN|case|al0 al0|NNP|nmod|serv
+what|WP|nsubj|fli airlin|VBP|aux|fli fli|VBP|root|ROOT into|IN|obl|fli ci0|.|punct|fli
+is|VBZ|cop|avail ground|NN|compound|avail transport|NN|compound|avail avail|NN|root|ROOT in|IN|case|ci0 ci0|NNP|nmod|avail
+get|VB|root|ROOT fare|NN|obj|get from|IN|case|ci0 ci0|NN|obl|get to|IN|case|ci1 ci1|NNP|obl|get
+get|VB|root|ROOT fare|NN|obj|get from|IN|case|ci0 ci0|NN|obl|get to|IN|case|ci1 ci1|NNP|obl|get
+get|VB|root|ROOT flight|NN|obj|get from|IN|case|ci0 ci0|NNP|obl|get to|IN|case|ap0 ap0|NNP|obl|get
+list|NN|compound|flight flight|NN|root|ROOT from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|nmod|flight
+get|VB|root|ROOT flight|NN|obj|get from|IN|case|ci0 ci0|NNP|obl|get to|IN|case|ci1 ci1|NNP|obl|get
+get|VB|root|ROOT flight|NN|obj|get from|IN|case|ci0 ci0|NNP|obl|get to|IN|case|ci1 ci1|NNP|obl|get
+get|VB|root|ROOT flight|NN|obj|get between|IN|case|ci0 ci0|NNP|nmod|flight and|CC|cc|ci1 ci1|NNP|conj|ci0
+list|NN|compound|flight flight|NN|root|ROOT from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|nmod|flight
+what|WDT|det|code doe|NN|compound|code fare|NN|compound|code code|NN|nsubj|mean fb0|MD|aux|mean mean|VBP|root|ROOT
+what|WP|obj|stand the|DT|det|abbrevi abbrevi|NN|nsubj|stand al0|MD|aux|stand stand|VB|root|ROOT for|IN|punct|stand
+what|WDT|det|code doe|NN|compound|code fare|NN|compound|code code|NN|nsubj|mean fb0|MD|aux|mean mean|VBP|root|ROOT
+what|WDT|det|code doe|NN|compound|code fare|NN|compound|code code|NN|nsubj|mean fb0|MD|aux|mean mean|VBP|root|ROOT
+what|WDT|det|code doe|NN|compound|code fare|NN|compound|code code|NN|nsubj|mean fb0|MD|aux|mean mean|VBP|root|ROOT
+what|WDT|det|code doe|NN|compound|code fare|NN|compound|code code|NN|nsubj|mean fb0|MD|aux|mean mean|VBP|root|ROOT
+what|WDT|det|code doe|NN|compound|code fare|NN|compound|code code|NN|nsubj|mean fb0|MD|aux|mean mean|VBP|root|ROOT
+what|WDT|det|code doe|NN|compound|code fare|NN|compound|code code|NN|nsubj|mean fb0|MD|aux|mean mean|VBP|root|ROOT
+what|WDT|det|code doe|NN|compound|code fare|NN|compound|code code|NN|nsubj|mean fb0|MD|aux|mean mean|VBP|root|ROOT
+what|WDT|det|code doe|NN|compound|code fare|NN|compound|code code|NN|nsubj|mean fb0|MD|aux|mean mean|VBP|root|ROOT
+show|VB|root|ROOT me|PRP|iobj|show ground|NN|compound|transport transport|NN|obj|show in|IN|case|ci0 ci0|NNP|obl|show
+show|VB|root|ROOT me|PRP|iobj|show ground|NN|compound|transport transport|NN|obj|show in|IN|case|ci0 ci0|NNP|obl|show
+what|WDT|det|code doe|NN|compound|code fare|NN|compound|code code|NN|nsubj|mean fb0|MD|aux|mean mean|VBP|root|ROOT
+what|WDT|root|ROOT doe|VBP|cop|what the|DT|det|restrict restrict|NN|nsubj|what rc0|PRP|nsubj|mean mean|VBP|acl:relcl|restrict
+what|WDT|det|code doe|NN|compound|code fare|NN|compound|code code|NN|nsubj|mean fb0|MD|aux|mean mean|VBP|root|ROOT
+what|WDT|det|airlin airlin|NN|nsubj|al0 is|VBZ|aux|al0 al0|VBG|root|ROOT in|IN|case|sam sam|NNP|obl|al0
+list|NN|compound|flight flight|NN|root|ROOT from|IN|case|ci1 ci1|NNP|nmod|flight to|IN|case|ci0 ci0|NNP|nmod|flight
+list|NN|compound|flight flight|NN|root|ROOT from|IN|case|ci1 ci1|NNP|nmod|flight to|IN|case|ci0 ci0|NNP|nmod|flight
+list|NN|compound|flight flight|NN|root|ROOT from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|nmod|flight
+list|NN|compound|flight flight|NN|root|ROOT from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|nmod|flight
+list|NN|compound|flight flight|NN|root|ROOT from|IN|case|ci1 ci1|NNP|nmod|flight to|IN|case|ci0 ci0|NNP|nmod|flight
+list|NN|compound|flight flight|NN|root|ROOT from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|nmod|flight
+list|NN|compound|flight flight|NN|root|ROOT from|IN|case|ci1 ci1|NNP|nmod|flight to|IN|case|ci0 ci0|NNP|nmod|flight
+list|NN|compound|flight flight|NN|root|ROOT from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|nmod|flight
+list|NN|compound|flight flight|NN|root|ROOT from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|nmod|flight
+list|NN|compound|flight flight|NN|root|ROOT from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|nmod|flight
+list|NN|compound|flight flight|NN|root|ROOT from|IN|case|ap0 ap0|NNP|nmod|flight to|IN|case|ci0 ci0|NNP|nmod|flight
+list|NN|compound|flight flight|NN|root|ROOT from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|nmod|flight
+what|WDT|det|class class|NN|nsubj|code is|VBZ|cop|code fare|NN|compound|code code|NN|root|ROOT fb0|.|punct|code
+list|NN|compound|al0 al0|NN|root|ROOT from|IN|case|ci1 ci1|NN|nmod|al0 to|IN|case|ci0 ci0|NNP|nmod|al0
+flight|NN|compound|number number|NN|root|ROOT from|IN|case|ci0 ci0|NN|nmod|number to|IN|case|ci1 ci1|NNP|nmod|number
+flight|NN|compound|number number|NN|root|ROOT from|IN|case|ci0 ci0|NN|nmod|number to|IN|case|ci1 ci1|NNP|nmod|number
+flight|NN|compound|number number|NN|root|ROOT from|IN|case|ci0 ci0|NN|nmod|number to|IN|case|ci1 ci1|NNP|nmod|number
+ci0|VB|root|ROOT to|TO|mark|ci1 ci1|VB|xcomp|ci0 on|IN|case|afternoon da0|NNP|compound|afternoon afternoon|NN|obl|ci1
+ci0|VB|root|ROOT to|IN|case|afternoon ci1|DT|det|afternoon afternoon|NN|obl|ci0 on|IN|case|da0 da0|NNP|obl|ci0
+what|WP|obj|al0 citi|NNP|compound|doe doe|NNP|nsubj|al0 al0|VBZ|root|ROOT fli|NN|obj|al0 to|.|punct|al0
+are|VBP|aux|serv meal|NN|nsubj|serv ever|RB|advmod|serv serv|VB|root|ROOT on|IN|obl|serv al0|.|punct|serv
+show|VB|root|ROOT al0|NN|obj|show from|IN|case|ci1 ci1|NN|obl|show to|IN|case|ci0 ci0|NNP|obl|show
+tell|VB|root|ROOT me|PRP|obj|tell about|IN|case|aircraft the|DT|det|aircraft ac0|NN|compound|aircraft aircraft|NN|obl|tell
+tell|VB|root|ROOT me|PRP|obj|tell about|IN|case|aircraft the|DT|det|aircraft ac0|NN|compound|aircraft aircraft|NN|obl|tell
+list|VB|root|ROOT the|DT|det|flight al0|JJ|amod|flight flight|NN|obj|list from|IN|case|ci0 ci0|NNP|nmod|flight
+list|VB|root|ROOT all|DT|det|flight flight|NN|obj|list depart|VBP|parataxis|list from|IN|case|ci0 ci0|NNP|obl|depart
+what|WDT|det|flight flight|NN|nsubj|go go|VBP|root|ROOT from|IN|case|ci0 ci0|NN|obl|go to|IN|case|ci1 ci1|NNP|obl|go
+what|WDT|det|flight flight|NN|nsubj|go go|VBP|root|ROOT from|IN|case|ci1 ci1|NNP|obl|go to|IN|case|ci0 ci0|NNP|obl|go
+get|VB|root|ROOT da0|DT|det|fare fare|NN|obj|get from|IN|case|ci0 ci0|NN|obl|get to|IN|case|ci1 ci1|NNP|obl|get
+get|VB|root|ROOT da0|DT|det|fare fare|NN|obj|get from|IN|case|ci0 ci0|NN|obl|get to|IN|case|ci1 ci1|NNP|obl|get
+get|VB|root|ROOT da0|DT|det|fare fare|NN|obj|get from|IN|case|ci0 ci0|NN|obl|get to|IN|case|ci1 ci1|NNP|obl|get
+list|NN|compound|flight da0|JJ|amod|flight flight|NN|root|ROOT from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|nmod|flight
+list|NN|compound|flight da0|JJ|amod|flight flight|NN|root|ROOT from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|nmod|flight
+which|WDT|det|fli airlin|NN|compound|fli fli|NN|root|ROOT between|IN|case|ci1 ci1|NNP|nmod|fli and|CC|cc|ci0 ci0|NNP|conj|ci1
+show|VB|root|ROOT me|PRP|iobj|show flight|NN|obj|show from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|obl|show
+ci0|VB|root|ROOT to|TO|mark|ci1 ci1|VB|xcomp|ci0 one|CD|nummod|way way|NN|obj|ci1 befor|RB|advmod|ci1 ti0|.|punct|ci0
+show|VB|root|ROOT me|PRP|iobj|show flight|NN|obj|show from|IN|case|ci1 ci1|NNP|nmod|flight to|IN|case|ci0 ci0|NNP|obl|show
+show|VB|root|ROOT me|PRP|iobj|show flight|NN|obj|show from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|obl|show
+list|NN|compound|flight flight|NN|root|ROOT from|IN|case|california ci0|NNP|compound|california california|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|nmod|flight
+list|NN|compound|flight flight|NN|root|ROOT from|IN|case|california ci0|NNP|compound|california california|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|nmod|flight
+list|NN|compound|flight flight|NN|root|ROOT from|IN|case|ci0 ci0|NNP|nmod|flight on|IN|case|afternoon da0|NNP|compound|afternoon afternoon|NN|nmod|flight
+what|WDT|det|transport ground|NN|compound|transport transport|NN|nsubj|there is|VBZ|cop|there there|RB|root|ROOT in|IN|case|ci0 ci0|NN|obl|there
+what|WP|obj|fli citi|NNP|compound|doe doe|NNP|nsubj|fli al0|VBZ|aux|fli fli|VB|root|ROOT out|IN|case|of of|IN|obl|fli
+list|VB|root|ROOT the|DT|det|citi citi|NN|obj|list from|IN|case|which which|WDT|obl|list al0|NNP|compound|fli fli|NNP|flat|which
+what|WDT|det|type type|NN|nsubj|ac0 of|IN|case|plane plane|NN|nmod|type is|VBZ|cop|ac0 a|DT|det|ac0 ac0|NN|root|ROOT
+show|VB|root|ROOT me|PRP|iobj|show the|DT|det|servic airport|NN|compound|servic servic|NN|obj|show by|IN|case|al0 al0|NNP|nmod|servic
+show|VB|root|ROOT al0|DT|det|flight flight|NN|obj|show from|IN|case|ap0 ap0|NNP|obl|show to|IN|case|ci0 ci0|NNP|obl|show
+show|VB|root|ROOT al0|DT|det|flight flight|NN|obj|show from|IN|case|ci1 ci1|NNP|obl|show to|IN|case|ci0 ci0|NNP|obl|show
+show|VB|root|ROOT al0|DT|det|flight flight|NN|obj|show from|IN|case|ci1 ci1|NNP|obl|show to|IN|case|ci0 ci0|NNP|obl|show
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|capac capac|NN|nsubj|what of|IN|case|ac0 the|DT|det|ac0 ac0|NN|nmod|capac
+how|WRB|advmod|hold mani|NN|compound|peopl peopl|NNS|nsubj|hold will|MD|aux|hold a|DT|det|hold ac0|NN|compound|hold hold|NN|root|ROOT
+list|VB|root|ROOT the|DT|det|arriv al0|JJ|amod|arriv flight|NN|compound|arriv arriv|NN|obj|list in|IN|case|ci0 ci0|NNP|obl|list
+list|VB|root|ROOT the|DT|det|flight al0|NNP|compound|flight flight|NN|obj|list depart|VB|parataxis|list from|IN|case|ci0 ci0|NNP|obl|depart
+what|WDT|det|flight flight|NN|nsubj|go go|VBP|root|ROOT from|IN|case|ci0 ci0|NN|obl|go to|IN|case|ci1 ci1|NNP|obl|go
+is|VBZ|root|ROOT there|PRP$|nmod:poss|servic taxi|NN|compound|servic servic|NN|nsubj|is at|IN|case|ap0 the|DT|det|ap0 ap0|NN|nmod|servic
+tell|VB|root|ROOT me|PRP|iobj|tell all|PDT|det:predet|airport the|DT|det|airport airport|NN|obj|tell near|RB|advmod|tell ci0|.|punct|tell
+get|VB|root|ROOT the|DT|det|fare da0|NN|compound|fare fare|NN|obj|get from|IN|case|ci0 ci0|NN|obl|get to|IN|case|ci1 ci1|NNP|obl|get
+list|NN|root|ROOT last|JJ|amod|flight da0|NN|compound|flight flight|NN|appos|list from|IN|case|ci1 ci1|NNP|nmod|flight to|IN|case|ci0 ci0|NNP|nmod|flight
+is|VBZ|root|ROOT there|PRP$|nmod:poss|ground ground|NN|nsubj|is transport|NN|nsubj|avail avail|VB|ccomp|is at|IN|case|ap0 the|DT|det|ap0 ap0|NN|obl|avail
+is|VBZ|root|ROOT there|PRP$|nmod:poss|ground ground|NN|nsubj|is transport|NN|nsubj|avail avail|VB|ccomp|is at|IN|case|ap0 the|DT|det|ap0 ap0|NN|obl|avail
+is|VBZ|root|ROOT there|PRP$|nmod:poss|ground ground|NN|nsubj|is transport|NN|nsubj|avail avail|VB|ccomp|is at|IN|case|ap0 the|DT|det|ap0 ap0|NN|obl|avail
+is|VBZ|root|ROOT there|PRP$|nmod:poss|ground ground|NN|nsubj|is transport|NN|nsubj|avail avail|VB|ccomp|is at|IN|case|ap0 the|DT|det|ap0 ap0|NN|obl|avail
+list|NN|compound|airport airport|NN|root|ROOT in|IN|case|st1 st0|NN|compound|st1 st1|NN|nmod|airport and|CC|cc|pleas st2|NN|compound|pleas pleas|NNS|conj|st1
+list|NN|root|ROOT da0|CD|nummod|night night|NN|compound|flight flight|NN|appos|list from|IN|case|ci1 ci1|NNP|nmod|flight to|IN|case|ci0 ci0|NNP|nmod|flight
+pleas|NNS|compound|flight list|NN|compound|flight afternoon|NN|compound|flight flight|NN|root|ROOT between|IN|case|ci0 ci0|NNP|nmod|flight and|CC|cc|ci1 ci1|NN|conj|ci0
+what|WP|root|ROOT are|VBP|cop|what the|DT|det|flight flight|NN|nsubj|what from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|obl|what
+i|PRP|nsubj|need need|VBP|root|ROOT a|DT|det|flight flight|NN|obj|need from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|obl|need
+i|PRP|nsubj|need need|VBP|root|ROOT a|DT|det|ticket ticket|NN|obj|need from|IN|case|ci0 ci0|NN|obl|need to|IN|case|ci1 ci1|NNP|obl|need
+i|PRP|nsubj|need need|VBP|root|ROOT flight|NN|compound|inform inform|NN|obj|need from|IN|case|ci0 ci0|NNP|nmod|inform to|IN|case|ci1 ci1|NNP|obl|need
+i|PRP|nsubj|need need|VBP|root|ROOT to|TO|mark|rent rent|VB|xcomp|need a|DT|det|car car|NN|obj|rent at|IN|case|ci0 ci0|NN|obl|rent
+i|PRP|nsubj|want want|VBP|root|ROOT a|DT|det|flight flight|NN|obj|want from|IN|case|ci1 ci1|NNP|nmod|flight to|IN|case|ci0 ci0|NNP|obl|want
+round|JJ|amod|trip trip|NN|compound|flight flight|NN|root|ROOT from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|pleas ci1|NNP|compound|pleas pleas|NNS|nmod|flight
+show|VB|root|ROOT me|PRP|iobj|show the|DT|det|flight flight|NN|obj|show from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|obl|show
+show|VB|root|ROOT me|PRP|iobj|show nonstop|JJ|amod|flight flight|NN|obj|show from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|obl|show
+show|VB|root|ROOT me|PRP|iobj|show round|JJ|amod|trip trip|NN|obj|show between|IN|case|ci0 ci0|NNP|nmod|trip and|CC|cc|ci1 ci1|NNP|conj|ci0
+and|CC|cc|ci0 from|IN|case|ci0 ci0|NN|root|ROOT to|IN|case|ci1 ci1|NNP|nmod|ci0 befor|IN|case|ti0 ti0|NN|nmod|ci0 daili|.|punct|and
+show|VB|root|ROOT me|PRP|iobj|show all|DT|det|flight flight|NN|obj|show from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|obl|show
+show|VB|root|ROOT me|PRP|iobj|show all|DT|det|flight flight|NN|obj|show from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|obl|show
+show|VB|root|ROOT me|PRP|iobj|show nonstop|JJ|amod|flight flight|NN|obj|show from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|obl|show
+show|VB|root|ROOT me|PRP|iobj|show nonstop|JJ|amod|flight flight|NN|obj|show from|IN|case|ci1 ci1|NNP|nmod|flight to|IN|case|ci0 ci0|NNP|obl|show
+list|NN|compound|flight flight|NN|root|ROOT from|IN|case|ci1 ci1|NNP|nmod|flight to|IN|case|ci0 ci0|NNP|nmod|flight on|IN|case|da0 da0|NNP|nmod|flight
+list|NN|compound|flight flight|NN|root|ROOT from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|nmod|flight on|IN|case|da0 da0|NNP|nmod|flight
+list|NN|compound|flight flight|NN|root|ROOT from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|nmod|flight on|IN|case|da0 da0|NNP|nmod|flight
+list|NN|compound|flight flight|NN|root|ROOT from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|nmod|flight on|IN|case|da0 da0|NNP|nmod|flight
+list|NN|compound|flight flight|NN|root|ROOT from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|nmod|flight on|IN|case|da0 da0|NNP|nmod|flight
+list|NN|compound|flight flight|NN|root|ROOT from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|nmod|flight on|IN|case|da0 da0|NNP|nmod|flight
+list|NN|compound|flight flight|NN|root|ROOT befor|IN|case|ti0 ti0|NN|nmod|flight from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|nmod|flight
+list|NN|compound|flight flight|NN|root|ROOT from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|nmod|flight befor|IN|case|ti0 ti0|NNP|nmod|flight
+list|NN|compound|flight flight|NN|root|ROOT from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|nmod|flight after|RB|advmod|ti0 ti0|NNP|nmod|flight
+list|NN|compound|airlin airlin|NN|root|ROOT that|DT|det|fli fli|NN|appos|airlin from|IN|case|ci1 ci1|NNP|nmod|airlin to|IN|case|ci0 ci0|NNP|nmod|airlin
+list|NN|compound|flight flight|NN|root|ROOT from|IN|case|ci1 ci1|NNP|nmod|flight to|IN|case|ci0 ci0|NNP|nmod|flight on|IN|case|da0 da0|NNP|nmod|flight
+give|VB|root|ROOT me|PRP|iobj|give the|DT|det|flight flight|NN|obj|give from|IN|case|ci0 ci0|NN|nmod|flight to|IN|case|ci1 ci1|NNP|obl|give
+da0|JJ|amod|flight flight|NN|root|ROOT on|IN|case|al0 al0|NNP|nmod|flight from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|nmod|flight
+flight|NN|compound|number number|NN|root|ROOT on|IN|case|al0 al0|NN|nmod|number from|IN|case|ci0 ci0|NNP|nmod|number to|IN|case|ci1 ci1|NNP|nmod|number
+flight|NN|compound|number number|NN|root|ROOT from|IN|case|ci0 ci0|NN|nmod|number to|IN|case|ci1 ci1|NNP|nmod|number on|IN|case|al0 al0|NNP|nmod|number
+flight|NN|compound|number number|NN|root|ROOT from|IN|case|ci0 ci0|NN|nmod|number to|IN|case|ci1 ci1|NNP|nmod|number on|IN|case|al0 al0|NNP|nmod|number
+ci0|VB|root|ROOT to|TO|mark|ci1 ci1|VB|xcomp|ci0 on|IN|case|arriv da0|NNP|compound|arriv arriv|NN|obl|ci1 befor|RB|advmod|ci1 ti0|NNP|parataxis|ci0
+how|WRB|advmod|have mani|NNP|compound|al0 flight|NN|compound|al0 doe|NN|compound|al0 al0|NNS|nsubj|have have|VB|root|ROOT leav|NN|obj|have ap0|.|punct|have
+show|VB|root|ROOT me|PRP|iobj|show the|DT|det|flight flight|NN|obj|show between|IN|case|ci0 ci0|NNP|nmod|flight and|CC|cc|ci1 ci1|NNP|conj|ci0
+show|VB|root|ROOT me|PRP|iobj|show the|DT|det|flight flight|NN|obj|show between|IN|case|ci0 ci0|NNP|nmod|flight and|CC|cc|ci1 ci1|NNP|conj|ci0
+show|VB|root|ROOT me|PRP|iobj|show the|DT|det|flight flight|NN|obj|show from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|obl|show
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|capac seat|NN|compound|capac capac|NN|nsubj|what of|IN|case|ac0 a|DT|det|ac0 ac0|NN|nmod|capac
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|capac seat|NN|compound|capac capac|NN|nsubj|what of|IN|case|ac0 an|DT|det|ac0 ac0|NN|nmod|capac
+what|WP|root|ROOT is|VBZ|cop|what seat|NN|compound|capac capac|NN|nsubj|what on|IN|case|aircraft the|DT|det|aircraft aircraft|NN|nmod|capac ac0|.|punct|what
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|capac seat|NN|compound|capac capac|NN|nsubj|what of|IN|case|ac0 a|DT|det|ac0 ac0|NN|nmod|capac
+how|WRB|advmod|fli mani|NN|compound|passeng passeng|NN|nsubj|fli can|MD|aux|fli fli|VB|root|ROOT on|IN|case|ac0 a|DT|det|ac0 ac0|NN|obl|fli
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|capac seat|NN|compound|capac capac|NN|nsubj|what of|IN|case|ac0 the|DT|det|ac0 ac0|NN|nmod|capac
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|capac seat|NN|compound|capac capac|NN|nsubj|what of|IN|case|ac0 the|DT|det|ac0 ac0|NN|nmod|capac
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|capac seat|NN|compound|capac capac|NN|nsubj|what of|IN|case|ac0 the|DT|det|ac0 ac0|NN|nmod|capac
+tell|VB|root|ROOT me|PRP|obj|tell about|IN|case|transport the|DT|det|transport ground|NN|compound|transport transport|NN|obl|tell from|IN|case|ap0 ap0|NNP|nmod|transport
+how|WRB|advmod|have mani|NNP|compound|doe flight|NN|compound|doe doe|NN|nsubj|have al0|MD|aux|have have|VB|root|ROOT to|TO|mark|ci0 ci0|VB|xcomp|have
+list|VB|root|ROOT the|DT|det|flight al0|JJ|amod|flight flight|NN|obj|list from|IN|case|ci0 ci0|NNP|obl|list to|IN|case|anywher anywher|NNP|obl|list
+list|VB|root|ROOT the|DT|det|fare cheapest|JJS|amod|fare fare|NN|obj|list from|IN|case|ci1 ci1|NN|obl|list to|IN|case|ci0 ci0|NNP|obl|list
+what|WP|root|ROOT are|VBP|cop|what the|DT|det|flight flight|NN|nsubj|what from|IN|case|ci1 ci1|NNP|nmod|flight to|IN|case|ci0 ci0|NNP|obl|what
+what|WP|root|ROOT are|VBP|cop|what the|DT|det|flight flight|NN|nsubj|what from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|obl|what
+what|WP|root|ROOT are|VBP|cop|what the|DT|det|flight flight|NN|nsubj|what from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|obl|what
+what|WP|root|ROOT are|VBP|cop|what the|DT|det|flight flight|NN|nsubj|what from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|obl|what
+what|WP|root|ROOT are|VBP|cop|what the|DT|det|flight flight|NN|nsubj|what from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|obl|what
+what|WP|root|ROOT are|VBP|cop|what the|DT|det|al0 al0|NNS|nsubj|what from|IN|case|ci0 ci0|NN|nmod|al0 to|IN|case|ci1 ci1|NNP|obl|what
+pleas|NNS|nsubj|list list|VBP|root|ROOT the|DT|det|flight flight|NN|obj|list from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|obl|list
+pleas|NNS|nsubj|list list|VBP|root|ROOT the|DT|det|flight flight|NN|obj|list from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|obl|list
+pleas|NNS|nsubj|list list|VBP|root|ROOT the|DT|det|flight flight|NN|obj|list from|IN|case|ci1 ci1|NNP|nmod|flight to|IN|case|ci0 ci0|NNP|obl|list
+i|PRP|nsubj|like 'd|MD|aux|like like|VB|root|ROOT to|TO|mark|travel travel|VB|xcomp|like from|IN|case|ci0 ci0|NNP|obl|travel to|IN|case|ci1 ci1|NNP|obl|travel
+find|VB|root|ROOT flight|NN|obj|find from|IN|case|ci0 ci0|NNP|obl|find to|IN|case|ci1 ci1|NNP|obl|find on|IN|case|da0 da0|NNP|obl|find
+find|VB|root|ROOT flight|NN|obj|find from|IN|case|ci1 ci1|NNP|obl|find to|TO|case|ci0 ci0|NNP|obl|find on|IN|case|da0 da0|NNP|nmod|ci0
+find|VB|root|ROOT flight|NN|obj|find from|IN|case|ci1 ci1|NNP|obl|find to|TO|case|ci0 ci0|NNP|obl|find on|IN|case|da0 da0|NNP|nmod|ci0
+find|VB|root|ROOT flight|NN|obj|find from|IN|case|ci0 ci0|NNP|obl|find to|IN|case|ci1 ci1|NNP|obl|find on|IN|case|da0 da0|NNP|obl|find
+find|VB|root|ROOT flight|NN|obj|find from|IN|case|ci0 ci0|NNP|obl|find to|IN|case|ci1 ci1|NNP|obl|find on|IN|case|da0 da0|NNP|obl|find
+find|VB|root|ROOT flight|NN|obj|find from|IN|case|ci0 ci0|NNP|obl|find to|IN|case|ci1 ci1|NNP|obl|find on|IN|case|da0 da0|NNP|obl|find
+find|VB|root|ROOT al0|NN|obj|find from|IN|case|ci0 ci0|NN|obl|find to|TO|mark|ci1 ci1|VB|advcl|find around|RB|advmod|ci1 ti0|.|punct|find
+i|PRP|nsubj|like 'd|MD|aux|like like|VB|root|ROOT to|TO|mark|book book|VB|xcomp|like two|CD|nummod|flight flight|NN|obj|book to|IN|case|ci0 ci0|NNP|obl|book
+i|PRP|nsubj|need need|VBP|root|ROOT an|DT|det|flight earli|JJ|amod|flight flight|NN|obj|need from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|obl|need
+what|WDT|det|type type|NN|nsubj|avail of|IN|case|ground ground|NN|compound|transport transport|NN|nsubj|avail are|VBP|aux|avail avail|VB|root|ROOT in|IN|obl|avail ci0|.|punct|avail
+i|PRP|nsubj|like would|MD|aux|like like|VB|root|ROOT flight|NN|nsubj|inform inform|VB|xcomp|like from|IN|case|ci0 ci0|NNP|obl|inform to|IN|case|ci1 ci1|NNP|obl|inform
+get|VB|root|ROOT first|JJ|amod|flight flight|NN|obj|get from|IN|case|ci1 ci1|NNP|obl|get to|TO|case|ci0 ci0|NNP|obl|get on|IN|case|da0 da0|NNP|nmod|ci0
+get|VB|root|ROOT last|JJ|amod|flight flight|NN|obj|get from|IN|case|ci1 ci1|NNP|obl|get to|TO|case|ci0 ci0|NNP|obl|get on|IN|case|da0 da0|NNP|nmod|ci0
+get|VB|root|ROOT flight|NN|obj|get from|IN|case|ci1 ci1|NNP|obl|get to|IN|case|stop ci0|DT|det|stop stop|NN|obl|get at|IN|case|ap0 ap0|NNP|nmod|stop
+i|PRP|nsubj|need need|VBP|root|ROOT inform|VB|xcomp|need on|IN|case|flight flight|NN|obl|inform from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|obl|inform
+i|PRP|nsubj|need need|VBP|root|ROOT a|DT|det|ticket ticket|NN|obj|need from|IN|case|tennesse ci0|DT|det|tennesse tennesse|NN|nmod|ticket to|IN|case|ci1 ci1|NNP|obl|need
+i|PRP|nsubj|need need|VBP|root|ROOT a|DT|det|flight daili|JJ|amod|flight flight|NN|obj|need from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|obl|need
+i|PRP|nsubj|need need|VBP|root|ROOT flight|NN|nsubj|depart depart|VB|xcomp|need from|IN|case|ci1 ci1|NNP|obl|depart and|CC|cc|arriv arriv|NNP|conj|ci1 ci0|.|punct|need
+i|PRP|nsubj|need need|VBP|root|ROOT inform|VB|xcomp|need on|IN|case|flight flight|NN|obl|inform from|IN|case|ci1 ci1|NNP|nmod|flight to|IN|case|ci0 ci0|NNP|obl|inform
+i|PRP|nsubj|need need|VBP|root|ROOT inform|VB|xcomp|need on|IN|case|flight flight|NN|obl|inform from|IN|case|ci1 ci1|NNP|nmod|flight to|IN|case|ci0 ci0|NNP|obl|inform
+i|PRP|nsubj|need need|VBP|root|ROOT inform|VB|xcomp|need on|IN|case|flight flight|NN|obl|inform between|IN|case|ci0 ci0|NNP|nmod|flight and|CC|cc|ci1 ci1|NNP|conj|ci0
+which|WDT|det|flight flight|NN|nsubj|go go|VBP|root|ROOT from|IN|case|ci0 ci0|NN|obl|go to|IN|case|ci1 ci1|NNP|obl|go and|CC|cc|back back|NN|conj|ci1
+show|VB|root|ROOT me|PRP|iobj|show flight|NN|obj|show from|IN|case|ci0 ci0|NNP|obl|show to|IN|case|way ci1|DT|det|way one|CD|nummod|way way|NN|obl|show
+show|VB|root|ROOT me|PRP|iobj|show all|PDT|det:predet|flight al0|DT|det|flight flight|NN|obj|show from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|obl|show
+show|VB|root|ROOT me|PRP|iobj|show all|DT|det|flight flight|NN|obj|show from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|pleas ci1|PRP$|nmod:poss|pleas pleas|NNS|obl|show
+show|VB|root|ROOT me|PRP|iobj|show round|JJ|amod|flight trip|NN|compound|flight flight|NN|obj|show from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|obl|show
+show|VB|root|ROOT me|PRP|iobj|show round|JJ|amod|flight trip|NN|compound|flight flight|NN|obj|show from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|obl|show
+show|VB|root|ROOT me|PRP|iobj|show round|JJ|amod|flight trip|NN|compound|flight flight|NN|obj|show from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|obl|show
+from|IN|case|ci0 ci0|NN|root|ROOT to|TO|mark|ci1 ci1|VB|acl|ci0 one|CD|nummod|way way|NN|obj|ci1 after|IN|case|ti0 ti0|NN|obl|ci1 da0|.|punct|ci0
+show|VB|root|ROOT me|PRP|iobj|show round|JJ|amod|flight trip|NN|compound|flight flight|NN|obj|show from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|obl|show
+show|VB|root|ROOT me|PRP|iobj|show the|DT|det|flight nonstop|JJ|amod|flight flight|NN|obj|show from|IN|case|ci1 ci1|NNP|nmod|flight to|IN|case|ci0 ci0|NNP|obl|show
+list|NN|compound|flight flight|NN|root|ROOT from|IN|case|ci1 ci1|NNP|nmod|flight to|IN|case|ci0 ci0|NNP|nmod|flight in|IN|case|morn the|DT|det|morn morn|NN|nmod|flight
+list|NN|compound|type type|NN|root|ROOT of|IN|case|aircraft aircraft|NN|nmod|type for|IN|case|flight all|DT|det|flight flight|NN|nmod|type from|IN|case|ci0 ci0|NNP|nmod|flight
+list|NN|compound|coach coach|NN|root|ROOT round|JJ|amod|trip trip|NN|compound|airfar airfar|NN|list|coach from|IN|case|ci1 ci1|NN|nmod|airfar to|IN|case|ci0 ci0|NNP|nmod|ci1
+list|NN|compound|flight flight|NN|root|ROOT from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|nmod|flight on|IN|case|morn da0|NNP|compound|morn morn|NN|nmod|flight
+list|NN|compound|seat seat|NN|compound|capac capac|NN|root|ROOT of|IN|case|al0 al0|NN|nmod|capac from|IN|case|ci1 ci1|NNP|nmod|capac to|IN|case|ci0 ci0|NNP|nmod|capac
+list|NN|compound|al0 al0|NN|root|ROOT from|IN|case|ci1 ci1|NN|nmod|al0 to|IN|case|ci0 ci0|NN|nmod|al0 with|IN|case|type aircraft|NN|compound|type type|NN|nmod|al0
+give|VB|root|ROOT me|PRP|iobj|give the|DT|det|flight flight|NN|obj|give from|IN|case|ci0 ci0|NN|nmod|flight to|IN|case|ci1 ci1|NNP|obl|give nonstop|RB|advmod|give
+give|VB|root|ROOT me|PRP|iobj|give the|DT|det|flight flight|NN|obj|give from|IN|case|ci1 ci1|NNP|nmod|flight to|IN|case|ci0 ci0|NNP|obl|give nonstop|RB|advmod|give
+i|PRP|nsubj|need need|VBP|root|ROOT a|DT|det|flight da0|JJ|amod|flight flight|NN|obj|need from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|obl|need
+i|PRP|nsubj|need need|VBP|root|ROOT a|DT|det|flight da0|JJ|amod|flight flight|NN|obj|need from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|obl|need
+how|WRB|advmod|much much|JJ|root|ROOT is|VBZ|cop|much coach|NN|compound|flight flight|NN|nsubj|much from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|nmod|flight
+pleas|NNS|nsubj|list list|VBP|root|ROOT all|PDT|det:predet|flight the|DT|det|flight flight|NN|obj|list from|IN|case|ci1 ci1|NNP|nmod|flight to|IN|case|ci0 ci0|NNP|obl|list
+what|WP|root|ROOT are|VBP|cop|what the|DT|det|fare lowest|JJS|amod|fare fare|NN|nsubj|what from|IN|case|ci1 ci1|NN|nmod|fare to|IN|case|ci0 ci0|NNP|nmod|fare
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|fare lowest|JJS|amod|fare fare|NN|nsubj|what from|IN|case|ap0 ap0|NN|nmod|fare to|IN|case|ci0 ci0|NNP|nmod|fare
+what|WP|root|ROOT the|DT|det|flight earliest|JJS|amod|flight arriv|NN|compound|flight flight|NN|nsubj|what between|IN|case|ci1 ci1|NNP|nmod|flight and|CC|cc|ci0 ci0|NNP|conj|ci1
+list|VB|root|ROOT all|DT|det|ci0 flight|NN|compound|leav leav|NN|compound|ci0 ci0|NN|obj|list between|IN|case|ti0 ti0|NN|nmod|ci0 and|CC|cc|ti1 ti1|NN|conj|ti0
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|capac seat|NN|compound|capac capac|NN|nsubj|what on|IN|case|aircraft the|DT|det|aircraft aircraft|NN|nmod|capac ac0|.|punct|what
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|capac seat|NN|compound|capac capac|NN|nsubj|what of|IN|case|aircraft the|DT|det|aircraft aircraft|NN|nmod|capac ac0|.|punct|what
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|capac seat|NN|compound|capac capac|NN|nsubj|what of|IN|case|aircraft the|DT|det|aircraft aircraft|NN|nmod|capac ac0|.|punct|what
+list|VB|root|ROOT the|DT|det|airlin airlin|NN|obj|list with|IN|case|flight flight|NN|obl|list to|IN|nmod|flight or|CC|cc|ci0 from|IN|case|ci0 ci0|NNP|obl|list
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|capac seat|NN|compound|capac capac|NN|nsubj|what on|IN|case|aircraft the|DT|det|aircraft aircraft|NN|nmod|capac ac0|.|punct|what
+is|VBZ|root|ROOT there|PRP$|nmod:poss|ground ground|NN|nsubj|is transport|NN|nsubj|is from|IN|case|ap0 ap0|NNP|nmod|transport into|IN|case|citi ci0|NNP|obl|is citi|NNP|obl|is
+pleas|NNS|root|ROOT list|NN|compound|ground ground|NN|compound|transport transport|NN|list|pleas from|IN|case|ap0 ap0|NNP|nmod|transport into|IN|case|ci0 ci0|NNP|compound|citi citi|NNP|nmod|pleas
+i|PRP|nsubj|like 'd|MD|aux|like like|VB|root|ROOT a|DT|det|flight morn|NN|compound|flight flight|NN|obj|like from|IN|case|ci1 ci1|NNP|nmod|flight to|IN|case|ci0 ci0|NNP|obl|like
+i|PRP|nsubj|like 'd|MD|aux|like like|VB|root|ROOT an|DT|det|flight even|JJ|amod|flight flight|NN|obj|like from|IN|case|ci1 ci1|NNP|nmod|flight to|IN|case|ci0 ci0|NNP|obl|like
+what|WP|root|ROOT are|VBP|cop|what the|DT|det|flight nonstop|JJ|amod|flight flight|NN|nsubj|what between|IN|case|ci0 ci0|NNP|nmod|flight and|CC|cc|ci1 ci1|NNP|conj|ci0
+find|VB|root|ROOT flight|NN|obj|find from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|obl|find on|IN|case|am da0|CD|nummod|am am|NN|obl|find
+like|VB|root|ROOT to|TO|mark|book book|VB|xcomp|like a|DT|det|flight flight|NN|obj|book from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|obl|book
+show|VB|root|ROOT me|PRP|iobj|show all|PDT|det:predet|flight the|DT|det|flight flight|NN|obj|show from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|obl|show
+find|VB|root|ROOT me|PRP|iobj|find all|PDT|det:predet|flight the|DT|det|flight flight|NN|obj|find from|IN|case|ci1 ci1|NNP|nmod|flight to|IN|case|ci0 ci0|NNP|obl|find
+what|WDT|det|flight flight|NN|nsubj|go go|VBP|root|ROOT from|IN|case|ci1 ci1|NNP|obl|go to|IN|case|ci0 ci0|NNP|obl|go on|IN|case|morn da0|NNP|compound|morn morn|NN|obl|go
+i|PRP|nsubj|need need|VBP|root|ROOT a|DT|det|flight flight|NN|obj|need from|IN|case|ci1 ci1|NNP|nmod|flight to|TO|mark|ci0 ci0|VB|advcl|need on|IN|case|da0 da0|NNP|obl|ci0
+list|NN|compound|flight flight|NN|root|ROOT from|IN|case|ci1 ci1|NNP|nmod|flight to|IN|case|ci0 ci0|NNP|nmod|flight befor|IN|case|ti0 ti0|NNP|nmod|flight da0|NNP|compound|morn morn|NN|nmod|flight
+show|VB|root|ROOT me|PRP|iobj|show a|DT|det|flight return|NN|compound|flight flight|NN|obj|show from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|pleas ap0|NNP|compound|pleas pleas|NNS|obl|show
+show|VB|root|ROOT me|PRP|iobj|show the|DT|det|flight cheapest|JJS|amod|flight economi|NN|compound|flight flight|NN|obj|show from|IN|case|ci1 ci1|NNP|nmod|flight to|IN|case|ci0 ci0|NNP|obl|show
+show|VB|root|ROOT me|PRP|iobj|show weekday|NN|compound|flight flight|NN|obj|show from|IN|case|ci0 ci0|NNP|obl|show to|IN|case|way ci1|DT|det|way one|CD|nummod|way way|NN|obl|show
+show|VB|root|ROOT me|PRP|iobj|show weekday|NN|compound|flight flight|NN|obj|show from|IN|case|ci0 ci0|NNP|obl|show to|IN|case|way ci1|DT|det|way one|CD|nummod|way way|NN|obl|show
+list|NN|compound|distanc distanc|NN|root|ROOT from|IN|case|airport ap0|DT|det|airport airport|NN|nmod|distanc to|IN|case|downtown ci0|NNP|compound|downtown downtown|NN|nmod|distanc in|IN|case|ci0 ci0|NNP|nmod|distanc
+list|NN|compound|flight flight|NN|root|ROOT from|IN|case|ci0 ci0|NNP|nmod|flight to|TO|mark|ci1 ci1|VB|acl|flight with|IN|case|fare fare|NN|obl|ci1 on|IN|case|da0 da0|NN|obl|ci1
+give|VB|root|ROOT me|PRP|iobj|give the|DT|det|flight flight|NN|obj|give from|IN|case|ci0 ci0|NN|nmod|flight to|TO|mark|ci1 ci1|VB|advcl|give on|IN|case|da0 da0|NNP|obl|ci1
+give|VB|root|ROOT me|PRP|iobj|give the|DT|det|flight flight|NN|obj|give from|IN|case|ci1 ci1|NNP|nmod|flight to|IN|case|da0 ci0|NNP|compound|da0 da0|NN|obl|give even|RB|advmod|da0
+give|VB|root|ROOT me|PRP|iobj|give the|DT|det|fare fare|NN|obj|give from|IN|case|ci0 ci0|NN|nmod|fare to|IN|case|da0 ci1|DT|det|da0 next|JJ|amod|da0 da0|NN|obl|give
+give|VB|root|ROOT me|PRP|iobj|give the|DT|det|flight flight|NN|obj|give from|IN|case|ci0 ci0|NN|nmod|flight to|TO|mark|ci1 ci1|VB|advcl|give on|IN|case|al0 al0|NNP|obl|ci1
+is|VBZ|root|ROOT there|EX|expl|is a|DT|det|fare fare|NN|nsubj|is from|IN|case|ci0 ci0|NN|nmod|fare to|TO|mark|ci1 ci1|VB|acl|fare under|IN|case|do0 do0|NNP|obl|ci1
+cheapest|JJS|amod|fare fare|NN|root|ROOT from|IN|case|ci0 ci0|NN|nmod|fare to|IN|case|ci1 ci1|NNP|nmod|fare on|IN|case|dn0 dn0|NN|nmod|fare of|IN|case|mn0 mn0|NNP|nmod|dn0
+ci0|VB|root|ROOT citi|NNP|obj|ci0 to|IN|case|ci1 ci1|NNP|obl|ci0 and|CC|cc|ci2 ci2|VB|conj|ci0 to|TO|mark|ci1 ci1|VB|xcomp|ci2 on|IN|case|da0 da0|NNP|obl|ci1
+ci0|VB|root|ROOT citi|NNP|obj|ci0 to|IN|case|ci1 ci1|NNP|obl|ci0 and|CC|cc|ci2 ci2|VB|conj|ci0 to|TO|mark|ci1 ci1|VB|xcomp|ci2 on|IN|case|da0 da0|NNP|obl|ci1
+what|WP|root|ROOT are|VBP|cop|what the|DT|det|fare fare|NN|nsubj|what for|IN|case|flight flight|NN|nmod|fare between|IN|case|ci1 ci1|NNP|nmod|flight and|CC|cc|ci0 ci0|NNP|conj|ci1
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|fare least|RBS|nmod|fare expens|NN|compound|fare fare|NN|nsubj|what from|IN|case|ci1 ci1|NNP|nmod|fare to|IN|case|ci0 ci0|NNP|nmod|fare
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|flight earliest|JJS|amod|flight arriv|NN|compound|flight flight|NN|nsubj|what from|IN|case|ci1 ci1|NNP|nmod|flight to|IN|case|ci0 ci0|NNP|nmod|flight
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|flight earliest|JJS|amod|flight arriv|NN|compound|flight flight|NN|nsubj|what between|IN|case|ci1 ci1|NNP|nmod|flight and|CC|cc|ci0 ci0|NNP|conj|ci1
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|flight earliest|JJS|amod|flight arriv|NN|compound|flight flight|NN|nsubj|what from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|nmod|flight
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|flight earliest|JJS|amod|flight arriv|NN|compound|flight flight|NN|nsubj|what from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|nmod|flight
+list|VB|root|ROOT all|DT|det|arriv flight|NN|compound|arriv arriv|NNS|obj|list in|IN|case|ci0 ci0|NN|obl|list between|IN|case|ti0 ti0|NN|obl|list and|CC|cc|ti1 ti1|NNP|conj|ti0
+tell|VB|root|ROOT me|PRP|obj|tell about|IN|case|type the|DT|det|type type|NN|obl|tell of|IN|case|call aircraft|NN|compound|call call|NN|nmod|type an|DT|det|ac0 ac0|NN|parataxis|tell
+list|VB|root|ROOT all|DT|det|arriv flight|NN|compound|arriv arriv|NNS|obj|list in|IN|case|ci0 ci0|NN|obl|list between|IN|case|ti0 ti0|NN|obl|list and|CC|cc|ti1 ti1|NNP|conj|ti0
+what|WDT|det|ground ground|NN|compound|transport transport|NN|nsubj|avail is|VBZ|aux|avail avail|VBN|root|ROOT from|IN|case|ap0 ap0|NN|obl|avail into|IN|case|citi ci0|NNP|obl|avail citi|NNP|obl|avail
+pleas|NNS|nsubj|list list|VBP|root|ROOT the|DT|det|ground ground|NN|obj|list transport|NN|obj|list from|IN|case|ap0 ap0|NNP|nmod|transport into|IN|case|ci0 ci0|NNP|obl|list citi|NNP|obl|list
+show|VB|root|ROOT me|PRP|iobj|show the|DT|det|flight morn|NN|compound|flight flight|NN|obj|show from|IN|case|ci1 ci1|NNP|nmod|flight to|IN|case|citi ci0|NNP|compound|citi citi|NNP|obl|show
+i|PRP|nsubj|like would|MD|aux|like like|VB|root|ROOT a|DT|det|flight morn|NN|compound|flight flight|NN|obj|like from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|obl|like
+what|WP|root|ROOT are|VBP|cop|what the|DT|det|flight flight|NN|nsubj|what from|IN|case|ap0 ap0|NNP|nmod|flight to|TO|mark|ci0 ci0|VB|acl|flight on|IN|obl|ci0 al0|.|punct|what
+what|WP|root|ROOT are|VBP|cop|what the|DT|det|flight nonstop|JJ|amod|flight flight|NN|nsubj|what between|IN|case|ci0 ci0|NNP|nmod|flight and|CC|cc|ci1 ci1|NN|conj|ci0 texa|.|punct|what
+what|WP|root|ROOT are|VBP|cop|what the|DT|det|flight flight|NN|nsubj|what between|IN|case|ci0 ci0|NN|nmod|flight and|CC|cc|ci1 ci1|NN|conj|ci0 on|IN|case|ci0 da0|.|punct|what
+the|DT|det|flight flight|NN|root|ROOT from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|nmod|flight that|WDT|nsubj|stop stop|VBP|acl:relcl|flight in|IN|obl|stop ci2|.|punct|flight
+pleas|NNS|nsubj|list list|VBP|root|ROOT the|DT|det|flight flight|NN|obj|list from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|obl|list on|IN|case|al0 al0|NNP|obl|list
+i|PRP|nsubj|like 'd|MD|aux|like like|VB|root|ROOT to|TO|mark|travel travel|VB|xcomp|like from|IN|case|ci0 ci0|NNP|obl|travel to|IN|case|da0 ci1|DT|det|da0 next|JJ|amod|da0 da0|NN|obl|travel
+now|RB|advmod|show show|VB|root|ROOT me|PRP|iobj|show all|PDT|det:predet|flight the|DT|det|flight flight|NN|obj|show from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|obl|show
+i|PRP|nsubj|want want|VBP|root|ROOT to|TO|mark|book book|VB|xcomp|want a|DT|det|flight flight|NN|obj|book from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|obl|book
+tell|VB|root|ROOT me|PRP|iobj|tell all|PDT|det:predet|airport the|DT|det|airport airport|NN|obj|tell in|IN|case|area the|DT|det|area ci0|NNP|compound|area citi|NNP|compound|area area|NN|nmod|airport
+i|PRP|nsubj|like 'd|MD|aux|like like|VB|root|ROOT to|TO|mark|fli fli|VB|xcomp|like from|IN|case|ci0 ci0|NNP|obl|fli to|TO|mark|ci1 ci1|VB|advcl|fli on|IN|case|al0 al0|NNP|obl|ci1
+find|VB|root|ROOT me|PRP|iobj|find a|DT|det|flight flight|NN|obj|find that|WDT|nsubj|fli fli|VBZ|acl:relcl|flight from|IN|case|ci0 ci0|NNP|obl|fli to|IN|case|ci1 ci1|NNP|obl|fli
+i|PRP|nsubj|need need|VBP|root|ROOT to|TO|mark|fli fli|VB|xcomp|need from|IN|case|ci0 ci0|NNP|obl|fli to|IN|case|ci1 ci1|NNP|obl|fli on|IN|case|afternoon da0|NNP|compound|afternoon afternoon|NN|obl|fli
+i|PRP|nsubj|like would|MD|aux|like like|VB|root|ROOT inform|VB|xcomp|like on|IN|case|leav flight|NN|compound|leav leav|NN|obl|inform from|IN|case|ci0 ci0|NNP|nmod|leav to|IN|case|ci1 ci1|NNP|obl|inform
+i|PRP|nsubj|need need|VBP|root|ROOT the|DT|det|flight flight|NN|obj|need from|IN|case|ci0 ci0|NNP|nmod|flight to|TO|mark|ci1 ci1|VB|advcl|need on|IN|case|da0 a|DT|det|da0 da0|NN|obl|ci1
+i|PRP|nsubj|want want|VBP|root|ROOT to|TO|mark|go go|VB|xcomp|want from|IN|case|ci0 ci0|NNP|obl|go to|TO|mark|ci1 ci1|VB|advcl|go on|IN|case|da0 a|DT|det|da0 da0|NN|obl|ci1
+show|VB|root|ROOT me|PRP|iobj|show the|DT|det|flight cheapest|JJS|amod|flight one|CD|nummod|way way|NN|compound|flight flight|NN|obj|show from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|obl|show
+show|VB|root|ROOT me|PRP|iobj|show the|DT|det|flight cheapest|JJS|amod|flight one|CD|nummod|way way|NN|compound|flight flight|NN|obj|show from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|obl|show
+show|VB|root|ROOT me|PRP|iobj|show first|JJ|amod|flight class|NN|compound|flight flight|NN|obj|show from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|trip ci1|DT|det|trip round|JJ|amod|trip trip|NN|obl|show
+show|VB|root|ROOT me|PRP|iobj|show first|JJ|amod|flight class|NN|compound|flight flight|NN|obj|show from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|trip ci1|DT|det|trip round|JJ|amod|trip trip|NN|obl|show
+show|VB|root|ROOT me|PRP|iobj|show all|DT|det|flight round|JJ|amod|trip trip|NN|compound|flight flight|NN|obj|show from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|obl|show nonstop|RB|advmod|show
+show|VB|root|ROOT me|PRP|iobj|show all|DT|det|flight round|JJ|amod|trip trip|NN|compound|flight flight|NN|obj|show from|IN|case|ci1 ci1|NNP|nmod|flight to|IN|case|ci0 ci0|NNP|obl|show nonstop|RB|advmod|show
+show|VB|root|ROOT me|PRP|iobj|show the|DT|det|flight nonstop|JJ|amod|flight flight|NN|obj|show and|CC|cc|fare fare|NN|conj|flight from|IN|case|ci1 ci1|NN|obl|show to|IN|case|ci0 ci0|NNP|obl|show
+list|NN|compound|airfar airfar|NN|root|ROOT for|IN|case|trip first|JJ|amod|trip class|NN|compound|round round|NN|compound|trip trip|NN|nmod|airfar from|IN|case|ci1 ci1|NNP|nmod|airfar to|IN|case|ci0 ci0|NNP|nmod|airfar
+give|VB|root|ROOT me|PRP|iobj|give the|DT|det|flight flight|NN|obj|give from|IN|case|ci0 ci0|NN|nmod|flight to|TO|mark|ci1 ci1|VB|advcl|give on|IN|case|da0 da0|NN|obl|ci1 even|RB|advmod|ci1
+give|VB|root|ROOT me|PRP|iobj|give a|DT|det|flight flight|NN|obj|give from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|obl|give on|IN|case|morn da0|NNP|compound|morn morn|NN|obl|give
+can|MD|aux|have i|PRP|nsubj|have have|VB|root|ROOT a|DT|det|flight morn|NN|compound|flight flight|NN|obj|have from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|pleas ci1|NNP|compound|pleas pleas|NNS|obl|have
+cheapest|JJS|amod|trip round|JJ|amod|trip trip|NN|compound|fare fare|NN|root|ROOT from|IN|case|ci0 ci0|NNP|nmod|fare to|IN|case|ci1 ci1|NNP|nmod|fare on|IN|case|mn0 mn0|NNP|nmod|fare dn0|.|punct|fare
+cheapest|JJS|amod|way one|CD|nummod|way way|NN|nsubj|fare fare|VBP|root|ROOT from|IN|case|ci0 ci0|NN|obl|fare to|IN|case|ci1 ci1|NNP|obl|fare on|IN|case|mn0 mn0|NNP|obl|fare dn0|.|punct|fare
+cheapest|JJS|amod|trip fare|NN|compound|trip round|JJ|amod|trip trip|NN|root|ROOT from|IN|case|ci0 ci0|NNP|nmod|trip to|IN|case|ci1 ci1|NNP|nmod|trip on|IN|case|mn0 mn0|NNP|nmod|trip dn0|.|punct|trip
+a|DT|det|flight flight|NN|root|ROOT from|IN|case|ci1 ci1|NNP|nmod|flight to|IN|case|arriv ci0|NNP|compound|arriv arriv|NN|nmod|flight between|IN|case|ti0 ti0|NNP|nmod|arriv and|CC|cc|ti1 ti1|NNP|conj|ti0
+tell|VB|root|ROOT me|PRP|iobj|tell the|DT|det|flight flight|NN|obj|tell that|WDT|nsubj|ci0 leav|VBP|acl:relcl|flight ci0|VB|acl:relcl|flight and|CC|cc|go go|VB|conj|ci0 to|IN|obl|go ci1|.|punct|tell
+show|VB|root|ROOT me|PRP|iobj|show first|JJ|amod|class class|NN|obj|show and|CC|cc|flight coach|NN|compound|flight flight|NN|conj|class between|IN|case|ap0 ap0|NNP|nmod|flight and|CC|cc|ci0 ci0|NNP|conj|ap0
+show|VB|root|ROOT me|PRP|iobj|show first|JJ|amod|class class|NN|obj|show and|CC|cc|flight coach|NN|compound|flight flight|NN|conj|class from|IN|case|ap0 ap0|NNP|obl|show to|IN|case|ci0 ci0|NNP|obl|show
+show|VB|root|ROOT me|PRP|iobj|show first|JJ|amod|class class|NN|obj|show and|CC|cc|flight coach|NN|compound|flight flight|NN|conj|class from|IN|case|ap0 ap0|NNP|obl|show to|IN|case|ci0 ci0|NNP|obl|show
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|capac seat|NN|compound|capac capac|NN|nsubj|what of|IN|case|type the|DT|det|type type|NN|nmod|capac of|IN|case|aircraft aircraft|NN|nmod|type ac0|.|punct|what
+list|VB|root|ROOT all|DT|det|arriv flight|NN|compound|arriv arriv|NNS|obj|list or|CC|cc|ci0 leav|NN|compound|ci0 ci0|NN|conj|arriv between|IN|case|ti0 ti0|NN|obl|list and|CC|cc|ti1 ti1|NN|conj|ti0
+pleas|NNS|nsubj|list list|VBP|root|ROOT all|DT|det|flight flight|NN|obj|list from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|obl|list on|IN|case|morn da0|NNP|compound|morn morn|NN|obl|list
+pleas|NNS|nsubj|list list|VBP|root|ROOT the|DT|det|flight flight|NN|obj|list from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|obl|list on|IN|case|morn da0|NNP|compound|morn morn|NN|obl|list
+list|VB|root|ROOT the|DT|det|flight flight|NN|obj|list from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|obl|list that|WDT|nsubj|leav leav|VBP|acl:relcl|flight befor|RB|advmod|leav ti0|.|punct|list
+i|PRP|nsubj|like would|MD|aux|like like|VB|root|ROOT to|TO|mark|leav leav|VB|xcomp|like da0|DT|det|morn morn|NN|obj|leav from|IN|case|ci0 ci0|NNP|obl|leav to|IN|case|ci1 ci1|NNP|obl|leav
+i|PRP|nsubj|like would|MD|aux|like like|VB|root|ROOT a|DT|det|flight flight|NN|obj|like from|IN|case|ci0 ci0|NNP|nmod|flight to|TO|mark|ci1 ci1|VB|advcl|like on|IN|case|al0 al0|NNP|obl|ci1
+what|WDT|det|type type|NN|nsubj|there of|IN|case|ground ground|NN|compound|transport transport|NN|nsubj|there is|VBZ|cop|there there|RB|root|ROOT at|IN|case|airport the|DT|det|airport ci0|NNP|compound|airport airport|NN|obl|there
+and|CC|cc|leav a|DT|det|flight flight|NN|root|ROOT from|IN|case|ci0 ci0|NNP|nmod|flight to|TO|mark|ci1 ci1|VB|acl|flight that|DT|det|afternoon leav|VB|ccomp|ci1 da0|NN|compound|afternoon afternoon|NN|obj|ci1
+how|WRB|root|ROOT about|IN|case|leav a|DT|det|leav flight|NN|compound|leav leav|NN|obl|how da0|JJ|amod|night night|NN|nmod:tmod|leav from|IN|case|ci0 ci0|NN|nmod|leav to|IN|case|ci1 ci1|NNP|nmod|leav
+are|VBP|cop|dn0 there|PRP$|nmod:poss|flight ani|JJ|amod|flight flight|NN|compound|dn0 on|IN|case|dn0 m|NN|compound|dn0 n0|NN|compound|dn0 dn0|NN|root|ROOT from|IN|case|ci0 ci0|NNP|nmod|dn0 to|IN|case|ci1 ci1|NNP|nmod|dn0
+could|MD|aux|have i|PRP|nsubj|have have|VB|root|ROOT flight|NN|nsubj|inform inform|VB|xcomp|have on|IN|case|flight flight|NN|obl|inform from|IN|case|ci0 ci0|NNP|obl|inform to|IN|case|pleas ci1|NNP|compound|pleas pleas|NNS|obl|inform
+could|MD|aux|have i|PRP|nsubj|have have|VB|root|ROOT flight|NN|nsubj|inform inform|VB|xcomp|have on|IN|case|flight flight|NN|obl|inform from|IN|case|ci0 ci0|NNP|obl|inform to|IN|case|pleas ci1|NNP|compound|pleas pleas|NNS|obl|inform
+i|PRP|nsubj|need need|VBP|root|ROOT a|DT|det|flight flight|NN|obj|need from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|obl|need leav|IN|case|da0 da0|NN|obl|need befor|RB|advmod|need ti0|.|punct|need
+i|PRP|nsubj|need need|VBP|root|ROOT a|DT|det|flight flight|NN|obj|need from|IN|case|ci0 ci0|NNP|nmod|flight to|TO|mark|depart ci1|RB|advmod|depart depart|VB|advcl|need da0|RB|advmod|after after|RB|advmod|depart ti0|.|punct|need
+what|WDT|det|type type|NN|nsubj|fli of|IN|case|aircraft aircraft|NN|nmod|type are|VBP|aux|fli fli|VBN|root|ROOT from|IN|case|ci0 ci0|NN|obl|fli to|IN|case|ci1 ci1|NNP|obl|fli befor|RB|advmod|fli ti0|.|punct|fli
+give|VB|root|ROOT me|PRP|iobj|give the|DT|det|flight round|JJ|amod|flight trip|NN|compound|flight flight|NN|obj|give from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|da0 ci1|DT|det|da0 next|JJ|amod|da0 da0|NN|obl|give
+give|VB|root|ROOT me|PRP|iobj|give the|DT|det|flight flight|NN|obj|give from|IN|case|ci0 ci0|NN|nmod|flight to|TO|mark|ci1 ci1|VB|advcl|give on|IN|case|da0 da0|NN|obl|ci1 on|IN|case|al0 al0|NNP|obl|ci1
+give|VB|root|ROOT me|PRP|iobj|give flight|NN|obj|give from|IN|case|ci0 ci0|NN|nmod|flight to|IN|case|ci1 ci1|NNS|obl|give that|WDT|nsubj|have have|VBP|acl:relcl|ci1 meal|NN|obj|have on|RB|advmod|have al0|.|punct|give
+give|VB|root|ROOT me|PRP|iobj|give the|DT|det|flight da0|NN|compound|flight morn|NN|compound|flight flight|NN|obj|give with|IN|case|meal meal|NN|nmod|flight from|IN|case|ci0 ci0|NN|obl|give to|IN|case|ci1 ci1|NNP|obl|give
+tell|VB|root|ROOT me|PRP|obj|tell again|RB|advmod|tell the|DT|det|flight morn|NN|compound|flight flight|NN|obj|tell on|IN|case|al0 al0|NNP|nmod|flight from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|obl|tell
+i|PRP|nsubj|want want|VBP|root|ROOT a|DT|det|flight flight|NN|obj|want from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|earli ci1|NNP|compound|earli earli|NN|obl|want in|IN|case|morn the|DT|det|morn morn|NN|obl|want
+i|PRP|nsubj|like would|MD|aux|like like|VB|root|ROOT a|DT|det|flight flight|NN|obj|like on|IN|case|morn da0|NNP|compound|morn morn|NN|nmod|flight from|IN|case|ci0 ci0|NNP|obl|like to|IN|case|ci1 ci1|NNP|obl|like
+what|WDT|det|type type|NN|nsubj|use of|IN|case|aircraft aircraft|NN|nmod|type is|VBZ|aux|use use|VBN|root|ROOT for|IN|case|leav the|DT|det|leav al0|NN|compound|leav leav|NN|obl|use at|IN|case|ti0 ti0|NN|nmod|leav
+what|WP|root|ROOT are|VBP|cop|what the|DT|det|flight flight|NN|nsubj|what from|IN|case|arizona ci1|NNP|compound|arizona arizona|NNP|nmod|flight to|IN|case|minnesota ci0|NNP|compound|minnesota minnesota|NNP|nmod|flight on|IN|case|da0 da0|NNP|nmod|minnesota
+what|WP|root|ROOT are|VBP|cop|what the|DT|det|flight flight|NN|nsubj|what on|IN|case|leav da0|NNP|compound|leav leav|NN|nmod|flight from|IN|case|minnesota ci0|NNP|compound|minnesota minnesota|NNP|nmod|leav to|IN|case|ci1 ci1|NNP|nmod|minnesota
+what|WP|root|ROOT are|VBP|cop|what the|DT|det|flight flight|NN|nsubj|what from|IN|case|ci1 ci1|NNP|nmod|flight to|IN|case|ci2 ci2|NN|nmod|flight that|WDT|nsubj|stop stop|VBP|acl:relcl|flight in|IN|obl|stop ci0|.|punct|what
+i|PRP|nsubj|need need|VBP|root|ROOT a|DT|det|flight morn|NN|compound|flight flight|NN|obj|need from|IN|case|ci0 ci0|NNP|nmod|flight to|TO|mark|ci1 ci1|NNP|obl|need on|RB|advmod|ci1 next|JJ|amod|da0 da0|NN|obl:tmod|need
+how|WRB|root|ROOT about|IN|case|flight a|DT|det|flight flight|NN|obl|how from|IN|case|ci1 ci1|NNP|nmod|flight to|TO|mark|ci0 ci0|VB|acl|flight that|DT|det|leav leav|NN|obj|ci0 da0|JJ|amod|night night|NN|obl:tmod|ci0
+i|PRP|nsubj|need need|VBP|root|ROOT a|DT|det|flight flight|NN|obj|need from|IN|case|ci1 ci1|NNP|nmod|flight to|IN|mark|ci2 ci2|VB|advcl|need that|WDT|nsubj|goe goe|VBP|ccomp|ci2 through|IN|obl|goe ci0|.|punct|need
+pleas|NNS|nsubj|give give|VBP|root|ROOT me|PRP|iobj|give the|DT|det|flight flight|NN|obj|give from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|obl|give on|IN|case|mn0 mn0|NNP|obl|give dn0|.|punct|give
+pleas|NNS|nsubj|give give|VBP|root|ROOT me|PRP|iobj|give the|DT|det|flight flight|NN|obj|give from|IN|case|ci1 ci1|NNP|nmod|flight to|IN|case|ci0 ci0|NNP|obl|give on|IN|case|mn0 mn0|NNP|obl|give dn0|.|punct|give
+pleas|NNS|nsubj|list list|VBP|root|ROOT all|PDT|det:predet|flight the|DT|det|flight flight|NN|obj|list from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|obl|list on|IN|case|mn0 mn0|NNP|obl|list dn0|.|punct|list
+pleas|NNS|nsubj|list list|VBP|root|ROOT all|PDT|det:predet|flight the|DT|det|flight flight|NN|obj|list from|IN|case|ci1 ci1|NNP|nmod|flight to|IN|case|ci0 ci0|NNP|obl|list on|IN|case|mn0 mn0|NNP|obl|list dn0|.|punct|list
+i|PRP|nsubj|need need|VBP|root|ROOT the|DT|det|fare fare|NN|obj|need on|IN|case|flight flight|NN|nmod|fare from|IN|case|ci0 ci0|NNP|nmod|flight to|TO|mark|ci1 ci1|VB|advcl|need on|IN|case|da0 a|DT|det|da0 da0|NN|obl|ci1
+i|PRP|nsubj|need need|VBP|root|ROOT a|DT|det|flight flight|NN|obj|need depart|VB|xcomp|need from|IN|case|ci0 ci0|NNP|obl|depart to|IN|case|ci1 ci1|NNP|obl|depart leav|IN|case|da0 da0|NN|obl|depart befor|RB|advmod|depart ti0|.|punct|need
+i|PRP|nsubj|need need|VBP|root|ROOT a|DT|det|flight flight|NN|obj|need from|IN|case|ci1 ci1|NNP|nmod|flight to|TO|mark|ci0 ci0|VB|advcl|need on|IN|case|depart da0|DT|det|depart depart|VB|obl|ci0 after|RB|advmod|ci0 ti0|.|punct|need
+pleas|NNS|compound|list list|NN|nsubj|leav onli|IN|case|flight the|DT|det|flight flight|NN|nmod|list from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|nmod|flight that|DT|nsubj|leav leav|VBP|root|ROOT befor|RB|advmod|leav ti0|.|punct|list
+pleas|NNS|nsubj|list list|VBP|root|ROOT all|DT|det|flight flight|NN|obj|list from|IN|case|ci0 ci0|NN|nmod|flight to|IN|case|type ci1|DT|det|type ani|NN|compound|ani ani|NN|compound|type type|NN|obl|list of|IN|case|class class|NN|nmod|type
+show|VB|root|ROOT me|PRP|iobj|show one|CD|nummod|way way|NN|compound|flight flight|NN|obj|show from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|obl|show after|IN|mark|ti0 ti0|VBG|advcl|show on|RB|advmod|ti0 da0|.|punct|show
+give|VB|root|ROOT me|PRP|iobj|give the|DT|det|flight flight|NN|obj|give from|IN|case|ci0 ci0|NN|nmod|flight to|IN|case|morn ci1|DT|det|morn da0|NN|compound|morn morn|NN|obl|give that|WDT|nsubj|have have|VBP|acl:relcl|morn meal|NN|obj|have
+list|VB|root|ROOT all|DT|obj|list of|IN|case|arriv the|DT|det|arriv daili|JJ|amod|arriv flight|NN|compound|arriv arriv|NNS|nmod|all in|IN|case|ci0 ci0|NN|obl|list between|IN|case|ti0 ti0|NN|nmod|ci0 and|CC|cc|ti1 ti1|NNP|conj|ti0
+list|VB|root|ROOT all|DT|obj|list of|IN|case|arriv the|DT|det|arriv daili|JJ|amod|arriv flight|NN|compound|arriv arriv|NNS|nmod|all in|IN|case|ci0 ci0|NN|obl|list from|IN|case|ti0 ti0|NNP|obl|list to|IN|case|ti1 ti1|NNP|obl|list
+pleas|NNS|nsubj|list list|VBP|root|ROOT the|DT|det|flight flight|NN|obj|list from|IN|case|ci1 ci1|NNP|nmod|flight to|IN|case|citi ci0|NNP|compound|citi citi|NNP|obl|list on|IN|case|night a|DT|det|night da0|JJ|amod|night night|NN|obl|list
+what|WP|root|ROOT are|VBP|cop|what the|DT|det|flight flight|NN|nsubj|what from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|leav ci1|DT|det|leav north|NNP|compound|carolina carolina|NNP|compound|leav leav|NN|nmod|flight on|IN|case|da0 da0|NNP|nmod|leav
+what|WP|root|ROOT are|VBP|cop|what the|DT|det|flight flight|NN|nsubj|what between|IN|case|ci1 ci1|NNP|nmod|flight and|CC|cc|ci0 ci0|VBP|conj|what california|NNP|obj|ci0 which|WDT|nsubj|leav leav|VBP|acl:relcl|california after|RB|advmod|leav ti0|.|punct|what
+i|PRP|nsubj|like would|MD|aux|like like|VB|root|ROOT to|TO|mark|book book|VB|xcomp|like a|DT|det|flight round|JJ|amod|trip trip|NN|compound|flight flight|NN|obj|book from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|obl|book
+i|PRP|nsubj|need need|VBP|root|ROOT inform|VB|xcomp|need on|IN|case|flight flight|NN|obl|inform from|IN|case|ci0 ci0|NNP|nmod|flight to|TO|mark|ci1 ci1|NNP|obl|inform that|DT|nsubj|leav leav|VBP|advcl|inform on|IN|case|da0 a|DT|det|da0 da0|NN|obl|leav
+i|PRP|nsubj|need need|VBP|root|ROOT the|DT|det|number flight|NN|compound|number number|NN|obj|need of|IN|case|leav flight|NN|compound|leav leav|NN|nmod|number from|IN|case|ci0 ci0|NN|obl|need and|CC|cc|arriv arriv|NN|conj|ci0 at|IN|case|ci1 ci1|NNP|nmod|ci0
+show|VB|root|ROOT me|PRP|iobj|show one|CD|nummod|way way|NN|compound|flight flight|NN|obj|show from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|obl|show befor|IN|case|ti0 ti0|NN|obl|show on|IN|case|day ani|NNP|compound|day day|NN|obl|show
+list|NN|compound|flight flight|NN|root|ROOT from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|nmod|flight on|IN|case|da0 da0|NN|nmod|flight of|IN|case|code fare|NN|compound|basi basi|NN|compound|code code|NN|nmod|da0 of|IN|case|fb0 fb0|NN|nmod|code
+give|VB|root|ROOT me|PRP|iobj|give the|DT|det|fare fare|NN|obj|give for|IN|case|flight round|JJ|amod|trip trip|NN|compound|flight flight|NN|nmod|fare from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|da0 ci1|DT|det|da0 next|JJ|amod|da0 da0|NN|obl|give
+give|VB|root|ROOT me|PRP|iobj|give the|DT|det|flight flight|NN|obj|give from|IN|case|ci0 ci0|NN|nmod|flight to|TO|mark|ci1 ci1|VB|advcl|give on|IN|case|da0 da0|NN|obl|ci1 or|CC|cc|da1 da1|VB|conj|ci1 on|IN|obl|da1 al0|.|punct|give
+give|VB|root|ROOT me|PRP|iobj|give the|DT|det|flight meal|NN|compound|flight flight|NN|obj|give depart|VB|parataxis|give earli|IN|case|morn da0|NN|compound|morn morn|NN|obl|depart from|IN|case|ci0 ci0|NN|obl|depart to|IN|case|ci1 ci1|NNP|obl|depart nonstop|RB|advmod|ci1
+give|VB|root|ROOT me|PRP|iobj|give the|DT|det|flight cheapest|JJS|amod|flight round|JJ|amod|flight trip|NN|compound|flight flight|NN|obj|give from|IN|case|ci0 ci0|NNP|nmod|flight to|TO|mark|ci1 ci1|VB|advcl|give around|RB|advmod|m m|NN|compound|n0 n0|NN|obj|ci1 dn0|.|punct|give
+i|PRP|nsubj|like would|MD|aux|like like|VB|root|ROOT a|DT|det|flight connect|NN|compound|flight flight|NN|obj|like from|IN|case|ci1 ci1|NNP|nmod|flight to|IN|case|leav ci0|NNP|compound|leav leav|NN|obl|like after|IN|case|o'clock ti0|CD|nummod|o'clock o'clock|NN|obl|like
+show|VB|root|ROOT me|PRP|iobj|show all|DT|obj|show of|IN|case|arriv the|DT|det|arriv daili|JJ|amod|arriv flight|NN|compound|arriv arriv|NNS|nmod|all in|IN|case|ci0 ci0|NN|obl|show between|IN|case|ti0 ti0|NN|nmod|ci0 and|CC|cc|ti1 ti1|NNP|conj|ti0
+give|VB|root|ROOT me|PRP|iobj|give the|DT|det|flight flight|NN|obj|give from|IN|case|citi ci0|NNP|compound|citi citi|NNP|nmod|flight to|IN|case|leav ci1|NNP|compound|leav leav|NN|obl|give after|IN|mark|ti0 ti0|VBG|advcl|give on|RB|advmod|ti0 da0|.|punct|give
+i|PRP|nsubj|need need|VBP|root|ROOT a|DT|det|flight flight|NN|obj|need from|IN|case|ci0 ci0|NNP|nmod|flight to|TO|mark|ap0 ap0|VB|advcl|need that|DT|det|arriv arriv|NN|obj|ap0 on|IN|case|da0 da0|NNP|obl|ap0 befor|RB|advmod|ap0 ti0|.|punct|need
+i|PRP|nsubj|like 'd|MD|aux|like like|VB|root|ROOT a|DT|det|flight flight|NN|obj|like from|IN|case|ci0 ci0|NNP|nmod|flight to|TO|mark|ap0 ap0|VB|advcl|like that|DT|det|arriv arriv|NN|obj|ap0 on|IN|case|da0 da0|NNP|obl|ap0 befor|RB|advmod|ap0 ti0|.|punct|like
+i|PRP|nsubj|need need|VBP|root|ROOT a|DT|det|flight flight|NN|obj|need on|IN|case|al0 al0|NN|nmod|flight from|IN|case|ci0 ci0|NNP|obl|need to|TO|case|ci1 ci1|NNP|obl|need that|WDT|nsubj|arriv arriv|VBP|acl:relcl|flight around|RB|advmod|arriv ti0|.|punct|need
+can|MD|aux|find you|PRP|nsubj|find find|VB|root|ROOT me|PRP|iobj|find anoth|NNP|compound|flight flight|NN|obj|find from|IN|case|ci1 ci1|NNP|nmod|flight to|IN|case|ci0 ci0|NNP|nmod|flight on|IN|case|da0 da0|NNP|obl|find befor|RB|advmod|find ti0|.|punct|find
+i|PRP|nsubj|like 'd|MD|aux|like like|VB|root|ROOT to|TO|mark|fli fli|VB|xcomp|like from|IN|case|ci0 ci0|NNP|obl|fli to|TO|mark|ci1 ci1|VB|advcl|fli on|RB|advmod|ci1 on|IN|case|around al0|DT|det|arriv arriv|NN|obl|ci1 around|RB|obl|ci1 ti0|.|punct|like
+yes|UH|discourse|like i|PRP|nsubj|like 'd|MD|aux|like like|VB|root|ROOT to|TO|mark|find find|VB|xcomp|like a|DT|det|flight flight|NN|obj|find from|IN|case|ci1 ci1|NNP|nmod|flight to|TO|mark|stop ci2|PRP$|nsubj|stop stop|VB|advcl|find in|RB|advmod|stop ci0|.|punct|like
+find|VB|root|ROOT me|PRP|iobj|find all|PDT|det:predet|flight the|DT|det|flight round|JJ|amod|trip trip|NN|compound|flight flight|NN|obj|find from|IN|case|ci1 ci1|NNP|nmod|flight to|TO|mark|stop ci2|PRP|nsubj|stop stop|VB|advcl|find in|IN|obl|stop ci0|.|punct|find
+find|VB|root|ROOT me|PRP|iobj|find a|DT|det|flight flight|NN|obj|find from|IN|case|ci1 ci1|NNP|nmod|flight to|IN|case|airport ani|NNP|compound|airport airport|NNP|nmod|flight in|IN|case|area the|DT|det|area ci0|NNP|compound|area citi|NNP|compound|area area|NN|obl|find
+i|PRP|nsubj|need need|VBP|root|ROOT flight|NN|compound|inform inform|NN|obj|need for|IN|case|flight a|DT|det|flight flight|NN|nmod|inform depart|VB|acl|inform from|IN|case|ci0 ci0|NNP|obl|depart to|IN|case|da0 ci1|NNP|compound|da0 da0|NN|obl|depart after|RB|advmod|depart ti0|.|punct|need
+i|PRP|nsubj|need need|VBP|root|ROOT flight|NN|compound|inform inform|NN|obj|need for|IN|case|depart flight|NN|compound|depart depart|NN|nmod|inform from|IN|case|ci0 ci0|NNP|nmod|depart to|IN|case|ci1 ci1|NNP|obl|need on|IN|case|da0 da0|NNP|obl|need after|RB|advmod|need ti0|.|punct|need
+i|PRP|nsubj|need need|VBP|root|ROOT flight|NN|compound|inform inform|NN|obj|need for|IN|case|depart flight|NN|compound|depart depart|NN|nmod|inform from|IN|case|ci0 ci0|NNP|nmod|depart to|IN|case|ci1 ci1|NNP|obl|need on|IN|case|da0 da0|NNP|obl|need after|RB|advmod|need ti0|.|punct|need
+i|PRP|nsubj|need need|VBP|root|ROOT flight|NN|obj|need and|CC|cc|fare fare|NN|conj|flight inform|VB|xcomp|need depart|VB|xcomp|inform from|IN|case|ci1 ci1|NNP|obl|depart to|IN|case|ci0 ci0|NNP|obl|depart on|IN|case|da0 da0|NNP|obl|depart befor|RB|advmod|depart ti0|.|punct|need
+pleas|NNS|nsubj|show show|VBP|root|ROOT me|PRP|iobj|show first|JJ|amod|flight class|NN|compound|flight flight|NN|obj|show from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|way ci1|DT|det|way one|CD|nummod|way way|NN|obl|show leav|IN|case|befor befor|RB|nmod|way ti0|.|punct|show
+list|NN|compound|flight flight|NN|root|ROOT and|CC|cc|fare fare|NN|conj|flight from|IN|case|ci0 ci0|NN|nmod|flight to|IN|case|trip ci1|DT|det|trip round|JJ|amod|trip trip|NN|nmod|flight leav|IN|case|return da0|NN|compound|return return|NN|nmod|trip next|RB|case|da0 da0|NN|nmod|flight
+give|VB|root|ROOT me|PRP|iobj|give the|DT|det|flight flight|NN|obj|give and|CC|cc|fare fare|NN|conj|flight for|IN|case|trip a|DT|det|trip trip|NN|nmod|flight to|IN|case|ci0 ci0|NNP|nmod|trip from|IN|case|ci1 ci1|NNP|nmod|trip on|IN|case|da0 da0|NNP|obl|give
+give|VB|root|ROOT me|PRP|iobj|give the|DT|det|flight flight|NN|obj|give from|IN|case|ci0 ci0|NN|nmod|flight to|IN|case|ci1 ci1|NN|obl|give that|WDT|nsubj|have have|VBP|acl:relcl|flight meal|NN|obj|have on|IN|case|morn al0|DT|det|morn da0|NN|compound|morn morn|NN|obl|have
+give|VB|root|ROOT me|PRP|iobj|give the|DT|det|flight da0|NN|compound|flight morn|NN|compound|flight flight|NN|obj|give on|IN|case|al0 al0|NN|nmod|flight that|WDT|nsubj|have have|VBP|acl:relcl|flight meal|NN|obj|have from|IN|case|ci0 ci0|NN|obl|have to|IN|case|ci1 ci1|NNP|obl|have
+give|VB|root|ROOT me|PRP|iobj|give the|DT|det|flight da0|NN|compound|flight morn|NN|compound|flight flight|NN|obj|give from|IN|case|ci1 ci1|NNP|nmod|flight to|IN|case|ci0 ci0|NNP|nmod|flight on|IN|case|al0 al0|NN|obl|give that|WDT|nsubj|have have|VBP|acl:relcl|flight meal|NN|obj|have
+show|VB|root|ROOT me|PRP|iobj|show the|DT|det|cost cost|NN|obj|show of|IN|case|ticket a|DT|det|ticket first|JJ|amod|class class|NN|compound|ticket ticket|NN|nmod|cost from|IN|case|ci1 ci1|NN|nmod|ticket to|IN|case|ci0 ci0|NN|obl|show and|CC|cc|back back|RB|conj|ci0
+list|VB|root|ROOT all|DT|det|flight flight|NN|obj|list on|IN|case|type all|DT|det|type type|NN|obl|list of|IN|case|arriv aircraft|NN|compound|arriv arriv|NNS|nmod|type in|IN|case|ci0 ci0|NN|obl|list between|IN|case|ti0 ti0|NN|nmod|ci0 and|CC|cc|ti1 ti1|NN|conj|ti0
+i|PRP|nsubj|like would|MD|aux|like like|VB|root|ROOT a|DT|det|flight flight|NN|obj|like that|WDT|nsubj|leav leav|VBZ|acl:relcl|flight on|IN|case|da0 da0|NN|obl|leav from|IN|case|quebec ci1|NNP|compound|quebec quebec|NNP|obl|leav to|IN|case|california ci0|NNP|compound|california california|NNP|obl|leav
+what|WP|root|ROOT are|VBP|cop|what the|DT|det|flight flight|NN|nsubj|what on|IN|case|da0 da0|NN|nmod|flight that|WDT|nsubj|travel travel|VBP|acl:relcl|flight from|IN|case|carolina ci0|NNP|obl|travel north|NNP|compound|carolina carolina|NNP|obl|travel to|IN|case|arizona ci1|NNP|compound|arizona arizona|NNP|obl|travel
+i|PRP|nsubj|need need|VBP|root|ROOT flight|NN|compound|inform inform|NN|obj|need for|IN|case|flight a|DT|det|flight flight|NN|nmod|inform depart|VB|acl|inform from|IN|case|ci0 ci0|NNP|obl|depart to|TO|mark|depart ci1|RB|advmod|depart depart|VB|advcl|depart da0|NN|obj|depart at|IN|case|ti0 ti0|NNP|obl|depart
+i|PRP|nsubj|need need|VBP|root|ROOT flight|NN|compound|inform inform|NN|obj|need for|IN|case|flight flight|NN|nsubj|depart depart|VB|acl|inform from|IN|case|ci0 ci0|NNP|obl|depart go|VB|advcl|need back|RB|advmod|go to|IN|case|da0 ci1|NNP|compound|da0 da0|NN|obl|go after|RB|advmod|go ti0|.|punct|need
+i|PRP|nsubj|like 'd|MD|aux|like like|VB|root|ROOT a|DT|det|ticket one|CD|nummod|way way|NN|compound|ticket ticket|NN|obj|like from|IN|case|ci0 ci0|NNP|nmod|ticket to|TO|mark|ci1 ci1|VB|advcl|like either|CC|cc:preconj|da0 da0|NN|obj|ci1 even|RB|advmod|morn or|CC|cc|da1 da1|NNP|compound|morn morn|NN|obj|ci1
+give|VB|root|ROOT me|PRP|iobj|give the|DT|det|flight flight|NN|obj|give from|IN|case|ci0 ci0|NN|nmod|flight to|TO|mark|ci1 ci1|VB|advcl|give on|IN|case|al0 al0|NN|obl|ci1 that|WDT|nsubj|have have|VBP|acl:relcl|al0 meal|NN|compound|earli earli|NN|compound|morn da0|NN|compound|morn morn|NN|obj|have
+give|VB|root|ROOT me|PRP|iobj|give a|DT|det|combin combin|NN|obj|give of|IN|case|al0 al0|NN|nmod|combin from|IN|case|ci0 ci0|NN|nmod|combin to|IN|case|ci1 ci1|NNS|obl|give that|WDT|nsubj|have have|VBP|acl:relcl|ci1 meal|NN|compound|earli earli|NN|compound|morn da0|NN|compound|morn morn|NN|obj|have
+what|WP|root|ROOT are|VBP|cop|what the|DT|det|flight nonstop|JJ|amod|flight flight|NN|nsubj|what from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|leav ci1|NNP|compound|leav leav|NN|nmod|flight after|IN|case|ti0 ti0|NN|nmod|flight and|CC|cc|arriv arriv|NN|conj|ti0 befor|RB|advmod|ti0 ti1|.|punct|what
+i|PRP|nsubj|need need|VBP|root|ROOT a|DT|det|flight flight|NN|obj|need leav|IN|case|ci0 ci0|NN|nmod|flight to|TO|mark|ci1 ci1|VB|advcl|need leav|VB|xcomp|ci1 next|JJ|amod|da0 da0|NN|obj|leav and|CC|cc|return return|VB|conj|leav the|DT|det|day follow|NN|compound|day day|NN|obl:tmod|return
+can|MD|aux|list you|PRP|nsubj|list list|VB|root|ROOT all|DT|obj|list of|IN|case|al0 the|DT|det|al0 al0|NNS|nmod|all from|IN|case|ci0 ci0|NN|obl|list to|IN|case|arriv ci1|DT|det|arriv next|JJ|amod|arriv da0|NN|compound|arriv arriv|NN|obl|list befor|RB|advmod|list ti0|.|punct|list
+i|PRP|nsubj|like 'd|MD|aux|like like|VB|root|ROOT to|TO|mark|book book|VB|xcomp|like a|DT|det|flight flight|NN|obj|book from|IN|case|ci1 ci1|NNP|nmod|flight to|IN|case|citi ci0|NNP|compound|citi citi|NNP|obl|book on|IN|case|al0 al0|NNP|obl|book for|IN|case|da0 next|JJ|amod|da0 da0|NN|obl|book
+i|PRP|nsubj|need need|VBP|root|ROOT a|DT|det|flight flight|NN|obj|need from|IN|case|ci0 ci0|NNP|nmod|flight to|TO|mark|ci1 ci1|VB|advcl|need that|WDT|nmod:poss|leav leav|NN|obj|ci1 befor|IN|mark|see ti0|TO|mark|see see|VB|advcl|ci1 if|IN|mark|inform too|RB|advmod|much much|RB|advmod|inform inform|VBP|advcl|see
+i|PRP|nsubj|need need|VBP|root|ROOT flight|NN|obj|need and|CC|cc|fare fare|NN|conj|flight inform|VB|acl|flight for|IN|case|da0 da0|NN|obl|inform depart|VB|xcomp|inform prior|JJ|case|ti0 to|IN|fixed|prior ti0|NN|nsubj|go from|IN|case|ci1 ci1|PRP|nmod|ti0 go|VB|advcl|depart to|IN|case|ci0 ci0|NNP|obl|go
+i|PRP|nsubj|need need|VBP|root|ROOT flight|NN|compound|number number|NN|obj|need for|IN|case|flight those|DT|det|flight flight|NN|nmod|number depart|VBP|ccomp|need on|IN|case|da0 da0|NN|obl|depart befor|IN|case|ti0 ti0|NN|obl|depart from|IN|case|ci1 ci1|PRP|obl|depart go|VB|advcl|depart to|IN|case|ci0 ci0|NNP|obl|go
+now|RB|advmod|show show|VB|root|ROOT me|PRP|iobj|show all|DT|det|flight round|JJ|amod|trip trip|NN|compound|flight flight|NN|obj|show from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|nmod|flight that|WDT|obj|ti0 arriv|PRP|nsubj|ti0 befor|TO|aux|ti0 ti0|VB|acl:relcl|flight in|IN|case|ci1 ci1|NNP|obl|ti0
+can|MD|aux|find you|PRP|nsubj|find find|VB|root|ROOT me|PRP|iobj|find a|DT|det|flight flight|NN|obj|find from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|citi ci1|DT|det|citi citi|NNP|compound|da0 next|JJ|amod|da0 da0|NN|obl:tmod|find befor|IN|case|arriv arriv|NN|obl|find befor|RB|advmod|find ti0|.|punct|find
+i|PRP|nsubj|like 'd|MD|aux|like like|VB|root|ROOT a|DT|det|flight round|JJ|amod|trip trip|NN|compound|flight flight|NN|obj|like from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|obl|like on|IN|case|arriv da0|NNP|compound|arriv mn0|NN|compound|dn0 dn0|NN|compound|arriv arriv|NN|obl|like at|IN|case|ti0 ti0|NNP|nmod|arriv
+is|VBZ|root|ROOT there|EX|expl|is one|CD|nummod|airlin airlin|NN|nsubj|is that|WDT|nsubj|fli fli|VBP|acl:relcl|airlin from|IN|case|ci1 ci1|NN|obl|fli to|TO|mark|ci2 ci2|VB|advcl|fli to|IN|case|ci0 ci0|NNP|obl|ci2 and|CC|cc|ci0 from|IN|case|ci0 ci0|NN|conj|ci2 to|IN|case|ci1 ci1|NNP|nmod|ci0
+get|VB|root|ROOT last|JJ|amod|flight flight|NN|obj|get from|IN|case|ci1 ci1|NNP|obl|get to|TO|case|ci0 ci0|NNP|obl|get on|IN|case|da0 da0|NN|obl|ci0 or|CC|cc|flight first|JJ|amod|flight flight|NN|conj|da0 from|IN|case|ci1 ci1|NNP|nmod|flight to|TO|mark|ci0 ci0|NNP|nmod|flight on|IN|obl|ci0 da1|.|punct|get
+i|PRP|nsubj|need need|VBP|root|ROOT flight|NN|obj|need and|CC|cc|airlin airlin|NN|conj|flight inform|VB|xcomp|need for|IN|case|flight a|DT|det|flight flight|NN|obl|inform from|IN|case|ci1 ci1|NNP|nmod|flight to|TO|mark|ci0 ci0|VB|advcl|inform on|IN|case|depart da0|DT|det|depart depart|VB|obl|ci0 after|RB|advmod|ci0 ti0|.|punct|need
+i|PRP|nsubj|need need|VBP|root|ROOT flight|NN|compound|number number|NN|obj|need and|CC|cc|airlin airlin|NN|conj|number for|IN|case|flight flight|NN|nmod|number depart|VBP|conj|need from|IN|case|ci1 ci1|NNP|obl|depart to|TO|mark|ci0 ci0|VB|advcl|depart on|IN|case|depart da0|DT|det|depart depart|VB|obl|ci0 befor|RB|advmod|ci0 ti0|.|punct|need
+is|VBZ|root|ROOT there|PRP$|nmod:poss|transport ground|NN|nsubj|is transport|NN|nsubj|is from|IN|case|ap0 the|DT|det|ap0 ap0|NN|nmod|transport into|IN|case|town ci0|DT|det|town town|NN|obl|is when|WRB|mark|arriv if|IN|mark|arriv i|PRP|nsubj|arriv arriv|VBP|advcl|is at|IN|case|ti0 ti0|NN|obl|arriv in|IN|case|morn the|DT|det|morn morn|NN|obl|arriv
+i|PRP|nsubj|like would|MD|aux|like like|VB|root|ROOT a|DT|det|flight flight|NN|obj|like on|IN|case|da0 da0|NNP|nmod|flight which|WDT|nsubj|leav leav|VBZ|acl:relcl|flight from|IN|case|ci0 ci0|NNP|obl|leav to|IN|case|indiana ci1|NNP|compound|indiana indiana|NNP|obl|leav and|CC|cc|leav that|DT|det|leav leav|NN|conj|indiana in|IN|case|afternoon the|DT|det|afternoon afternoon|NN|nmod|leav
+pleas|NNS|nsubj|find find|VBP|root|ROOT a|DT|det|flight flight|NN|obj|find from|IN|case|ci0 ci0|NNP|nmod|flight to|IN|case|ci1 ci1|NNP|nmod|flight that|WDT|nsubj|make make|VBP|acl:relcl|flight a|DT|det|stop stop|NN|obj|make in|IN|case|ci2 ci2|NN|nmod|stop on|IN|case|mn0 mn0|NN|obl|make dn0|IN|case|way one|CD|nummod|way way|NN|obl|make with|IN|case|dinner dinner|NN|nmod|way
+pleas|NNS|nsubj|find find|VBP|root|ROOT all|PDT|det:predet|flight the|DT|det|flight flight|NN|obj|find from|IN|case|ci1 ci1|NNP|nmod|flight to|IN|case|airport ani|NNP|compound|airport airport|NNP|nmod|flight in|IN|case|area the|DT|det|area ci0|NNP|compound|area citi|NNP|compound|area area|NN|nmod|flight that|WDT|nsubj|arriv arriv|VBP|acl:relcl|area next|JJ|amod|da0 da0|NN|obj|arriv befor|RB|advmod|arriv ti0|.|punct|find
+pleas|NNS|nsubj|find find|VBP|root|ROOT a|DT|det|trip flight|NN|compound|trip round|JJ|amod|trip trip|NN|obj|find from|IN|case|ci0 ci0|NNP|nmod|trip to|TO|mark|ci2 ci2|VB|advcl|find washington|NNP|obj|ci2 with|IN|case|stopov a|DT|det|stopov stopov|NN|obl|ci2 in|IN|case|ci ci|NN|nmod|stopov 1|CD|nummod|ci not|RB|advmod|exceed exceed|VB|advcl|ci2 the|DT|det|price price|NN|obj|exceed of|IN|case|do0 do0|NN|nmod|price for|IN|case|dn0 mn0|NN|compound|dn0 dn0|NN|obl|exceed yr0|.|punct|find

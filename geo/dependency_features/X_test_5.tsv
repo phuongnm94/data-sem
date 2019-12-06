@@ -1,0 +1,280 @@
+where|WRB|root|ROOT is|VBZ|cop|where c0|NNP|nsubj|where
+river|NN|root|ROOT in|IN|case|s0 s0|NN|nmod|river
+where|WRB|root|ROOT are|VBP|cop|where mountain|NN|nsubj|where
+where|WRB|root|ROOT is|VBZ|cop|where c0|NNP|nsubj|where
+what|WDT|det|s0 state|NN|compound|s0 border|NN|compound|s0 s0|NN|root|ROOT
+what|WDT|det|s0 state|NN|compound|s0 border|NN|compound|s0 s0|NN|root|ROOT
+what|WDT|det|s0 state|NN|compound|s0 border|NN|compound|s0 s0|NN|root|ROOT
+which|WDT|det|s0 state|NN|compound|s0 border|NN|compound|s0 s0|NN|root|ROOT
+what|WDT|det|s0 state|NN|compound|s0 border|NN|compound|s0 s0|NN|root|ROOT
+how|WRB|advmod|high high|JJ|amod|m is|VBZ|cop|m m|NN|root|ROOT 0|CD|nummod|m
+what|WDT|det|s0 state|NN|compound|s0 border|NN|compound|s0 s0|NN|root|ROOT
+which|WDT|det|s0 state|NN|compound|s0 border|NN|compound|s0 s0|NN|root|ROOT
+how|WRB|advmod|big big|JJ|root|ROOT is|VBZ|cop|big s0|NNP|nsubj|big
+what|WDT|det|s0 state|NN|compound|s0 border|NN|compound|s0 s0|NN|root|ROOT
+how|WRB|advmod|high high|JJ|amod|m is|VBZ|cop|m m|NN|root|ROOT 0|CD|nummod|m
+which|WDT|det|s0 state|NN|compound|s0 border|NN|compound|s0 s0|NN|root|ROOT
+what|WDT|det|s0 state|NN|compound|s0 border|NN|compound|s0 s0|NN|root|ROOT
+where|WRB|root|ROOT is|VBZ|cop|where the|DT|det|r0 r0|NN|nsubj|where
+how|WRB|advmod|big big|JJ|root|ROOT is|VBZ|cop|big s0|NNP|nsubj|big
+which|WDT|det|state state|NN|nsubj|smallest is|VBZ|cop|smallest the|DT|det|smallest smallest|JJS|root|ROOT
+where|WRB|root|ROOT is|VBZ|cop|where the|DT|det|citi smallest|JJS|amod|citi citi|NN|nsubj|where
+how|WRB|root|ROOT mani|NN|compound|state state|NN|nsubj|there are|VBP|cop|there there|RB|advmod|how
+what|WDT|det|state state|NN|nsubj|have have|VBP|root|ROOT citi|NNP|compound|n0 n0|NN|obj|have
+how|WRB|advmod|long long|RB|root|ROOT is|VBZ|cop|long the|DT|det|r0 r0|NN|nsubj|long
+what|WDT|det|state state|NN|nsubj|have have|VBP|root|ROOT citi|NNP|compound|n0 n0|NN|obj|have
+what|WDT|det|river river|NN|nsubj|run run|VBP|root|ROOT through|IN|case|s0 s0|NN|obl|run
+what|WDT|det|state state|NN|nsubj|c is|VBZ|cop|c c|NN|root|ROOT 0|CD|nummod|c in|.|punct|c
+what|WDT|det|length length|NN|root|ROOT is|VBZ|cop|length the|DT|det|r0 r0|NN|nsubj|length
+which|WDT|det|state state|NN|nsubj|have have|VBP|root|ROOT a|DT|det|river river|NN|obj|have
+number|NN|root|ROOT of|IN|case|s0 state|NN|compound|border border|NN|compound|s0 s0|NN|nmod|number
+which|WDT|nsubj|state is|VBZ|cop|state the|DT|det|state smallest|JJS|amod|state state|NN|root|ROOT
+what|WDT|det|river river|NN|nsubj|s0 are|VBP|cop|s0 in|IN|case|s0 s0|NN|root|ROOT
+what|WDT|det|state state|NN|nsubj|have have|VBP|root|ROOT citi|NNP|compound|n0 n0|NN|obj|have
+how|WRB|advmod|long long|RB|root|ROOT is|VBZ|cop|long the|DT|det|r0 r0|NN|nsubj|long
+what|WDT|det|state state|NN|nsubj|have have|VBP|root|ROOT citi|NNP|compound|n0 n0|NN|obj|have
+s0|JJ|amod|border border|NN|root|ROOT how|WRB|advmod|state mani|NNP|compound|state state|NN|appos|border
+which|WDT|det|state state|NN|nsubj|have have|VBP|root|ROOT citi|NNP|obj|have
+which|WDT|det|border state|NN|compound|border border|NN|root|ROOT the|DT|det|r0 r0|NNP|appos|border
+what|WDT|det|state state|NN|nsubj|c is|VBZ|cop|c c|NN|root|ROOT 0|CD|nummod|c in|.|punct|c
+how|WRB|advmod|long long|RB|root|ROOT is|VBZ|cop|long the|DT|det|r0 r0|NN|nsubj|long
+how|WRB|advmod|s0 mani|NNP|compound|state state|NN|compound|s0 border|NN|compound|s0 s0|NN|root|ROOT
+c0|NNP|nsubj|state is|VBZ|cop|state in|IN|case|state what|WDT|det|state state|NN|root|ROOT
+which|WDT|det|river river|NN|nsubj|travers travers|VBZ|root|ROOT most|JJS|amod|state state|NN|obj|travers
+which|WDT|det|state state|NN|nsubj|m is|VBZ|cop|m m|NN|root|ROOT 0|CD|nummod|m in|RB|advmod|m
+number|NN|root|ROOT of|IN|case|peopl peopl|NNS|nmod|number in|IN|case|c0 c0|NNP|nmod|number
+how|WRB|advmod|long long|RB|root|ROOT is|VBZ|cop|long the|DT|det|r0 r0|NN|nsubj|long
+what|WDT|det|state state|NN|nsubj|have have|VBP|root|ROOT citi|NNP|compound|n0 n0|NN|obj|have
+name|VB|root|ROOT the|DT|det|river major|JJ|amod|river river|NN|obj|name in|IN|case|s0 s0|NNP|obl|name
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|popul popul|NN|nsubj|what of|IN|case|c0 c0|NNP|nmod|popul
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|popul popul|NN|nsubj|what of|IN|case|s0 s0|NN|nmod|popul
+how|WRB|advmod|live mani|NN|compound|peopl peopl|NNS|nsubj|live live|VBP|root|ROOT in|IN|case|c0 c0|NNP|obl|live
+which|WDT|det|state state|NN|nsubj|has has|VBZ|root|ROOT the|DT|det|popul most|RBS|advmod|popul popul|NN|obj|has
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|capit capit|NN|nsubj|what of|IN|case|s0 s0|NN|nmod|capit
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|popul popul|NN|nsubj|what of|IN|case|c0 c0|NNP|nmod|popul
+which|WDT|det|state state|NN|nsubj|has has|VBZ|root|ROOT the|DT|det|popul greatest|JJS|amod|popul popul|NN|obj|has
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|popul popul|NN|nsubj|what of|IN|case|c0 c0|NNP|nmod|popul
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|capit capit|NN|nsubj|what of|IN|case|s0 s0|NN|nmod|capit
+how|WRB|advmod|there mani|NNP|nmod:poss|river s|POS|case|mani 0|CD|nummod|river river|NN|nsubj|there are|VBP|cop|there there|RB|root|ROOT
+what|WDT|det|state state|NN|nsubj|has has|VBZ|root|ROOT the|DT|det|capit largest|JJS|amod|capit capit|NN|obj|has
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|capit capit|NN|nsubj|what of|IN|case|s0 s0|NN|nmod|capit
+which|WDT|det|state state|NN|nsubj|has has|VBZ|root|ROOT the|DT|det|elev highest|JJS|amod|elev elev|NN|obj|has
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|popul popul|NN|nsubj|what of|IN|case|s0 s0|NN|nmod|popul
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|capit capit|NN|nsubj|what of|IN|case|s0 s0|NN|nmod|capit
+what|WDT|det|state state|NN|nsubj|has has|VBZ|root|ROOT the|DT|det|river longest|JJS|amod|river river|NN|obj|has
+how|WRB|advmod|live mani|NN|compound|peopl peopl|NNS|nsubj|live live|VBP|root|ROOT in|IN|case|s0 s0|NN|obl|live
+what|WDT|det|river river|NN|nsubj|there are|VBP|cop|there there|RB|root|ROOT in|IN|case|s0 s0|NN|obl|there
+which|WDT|det|state state|NN|nsubj|has has|VBZ|root|ROOT the|DT|det|point highest|JJS|amod|point point|NN|obj|has
+how|WRB|root|ROOT mani|NNP|compound|doe river|NN|compound|doe doe|NN|nmod:poss|0 s|POS|case|doe 0|CD|nsubj|have have|VBP|aux|how
+what|WDT|det|state state|NN|nsubj|has has|VBZ|root|ROOT the|DT|det|river most|JJS|amod|river river|NN|obj|has
+how|WRB|advmod|live mani|NN|compound|peopl peopl|NNS|nsubj|live live|VBP|root|ROOT in|IN|case|c0 c0|NNP|obl|live
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|area area|NN|nsubj|what of|IN|case|s0 s0|NN|nmod|area
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|capit capit|NN|nsubj|what of|IN|case|s0 s0|NN|nmod|capit
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|capit capit|NN|nsubj|what of|IN|case|s0 s0|NN|nmod|capit
+which|WDT|det|state state|NN|nsubj|has has|VBZ|root|ROOT the|DT|det|elev lowest|JJS|amod|elev elev|NN|obj|has
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|popul popul|NN|nsubj|what of|IN|case|c0 c0|NNP|nmod|popul
+how|WRB|advmod|live mani|NN|compound|peopl peopl|NNS|nsubj|live live|VBP|root|ROOT in|IN|case|c0 c0|NNP|obl|live
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|citi most|RBS|advmod|popul popul|NNP|compound|citi citi|NNP|nsubj|what
+how|WRB|advmod|s0 mani|NNP|compound|river river|NN|nsubj|s0 are|VBP|cop|s0 in|IN|case|s0 s0|NN|root|ROOT
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|capit capit|NN|nsubj|what of|IN|case|s0 s0|NN|nmod|capit
+what|WDT|det|state state|NN|nsubj|has has|VBZ|root|ROOT the|DT|det|area largest|JJS|amod|area area|NN|obj|has
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|capit capit|NN|nsubj|what of|IN|case|s0 s0|NN|nmod|capit
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|popul popul|NN|nsubj|what of|IN|case|s0 s0|NN|nmod|popul
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|popul popul|NN|nsubj|what of|IN|case|s0 s0|NN|nmod|popul
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|popul popul|NN|nsubj|what of|IN|case|c0 c0|NNP|nmod|popul
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|popul popul|NN|nsubj|what of|IN|case|s0 s0|NN|nmod|popul
+what|WP|root|ROOT are|VBP|cop|what the|DT|det|river river|NN|nsubj|what in|IN|case|s0 s0|NN|nmod|river
+what|WDT|det|border state|NN|compound|border border|NN|root|ROOT the|DT|det|state most|JJS|amod|state state|NN|appos|border
+how|WRB|root|ROOT mani|NNP|compound|doe popul|NNP|compound|doe doe|NNP|nmod:poss|0 s|POS|case|doe 0|CD|nsubj|have have|VBP|aux|how
+what|WP|obj|has citi|NNP|nsubj|has has|VBZ|root|ROOT the|DT|det|peopl most|JJS|amod|peopl peopl|NNS|obj|has
+how|WRB|advmod|have mani|NNP|nsubj|have capit|NNP|flat|mani doe|NNP|flat|mani s|POS|case|doe 0|CD|nsubj|have have|VBP|root|ROOT
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|popul popul|NN|nsubj|what of|IN|case|c0 c0|NNP|nmod|popul
+which|WDT|det|state state|NN|nsubj|has has|VBZ|root|ROOT the|DT|det|popul biggest|JJS|amod|popul popul|NN|obj|has
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|popul popul|NN|nsubj|what of|IN|case|c0 c0|NNP|nmod|popul
+how|WRB|advmod|live mani|NN|compound|peopl peopl|NNS|nsubj|live live|VBP|root|ROOT in|IN|case|c0 c0|NNP|obl|live
+name|VB|root|ROOT all|PDT|det:predet|river the|DT|det|river river|NN|obj|name in|IN|case|s0 s0|NNP|obl|name
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|area area|NN|nsubj|what of|IN|case|s0 s0|NN|nmod|area
+how|WRB|advmod|have mani|NNP|compound|co0 state|NN|compound|co0 doe|NN|compound|co0 co0|NNS|nsubj|have have|VB|root|ROOT
+how|WRB|advmod|live mani|NN|compound|peopl peopl|NNS|nsubj|live live|VBP|root|ROOT in|IN|case|s0 s0|NN|obl|live
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|state least|RBS|nmod|popul popul|NN|compound|state state|NN|nsubj|what
+which|WDT|det|river river|NN|nsubj|run run|VBP|root|ROOT through|IN|case|state most|JJS|amod|state state|NN|obl|run
+how|WRB|root|ROOT mani|NNP|compound|doe state|NN|compound|doe doe|NN|nmod:poss|border s|POS|case|doe 0|CD|nummod|border border|NN|nsubj|how
+how|WRB|advmod|live mani|NN|compound|peopl peopl|NNS|nsubj|live live|VBP|root|ROOT in|IN|case|s0 s0|NN|obl|live
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|capit capit|NN|nsubj|what of|IN|case|s0 s0|NN|nmod|capit
+which|WDT|det|state state|NN|nsubj|has has|VBZ|root|ROOT the|DT|det|river most|JJS|amod|river river|NN|obj|has
+how|WRB|advmod|live mani|NN|compound|peopl peopl|NNS|nsubj|live live|VBP|root|ROOT in|IN|case|s0 s0|NN|obl|live
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|popul popul|NN|nsubj|what of|IN|case|s0 s0|NN|nmod|popul
+what|WDT|det|state state|NN|nsubj|s0 are|VBP|cop|s0 next|RB|case|s0 to|IN|case|s0 s0|NN|root|ROOT
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|state most|RBS|advmod|popul popul|JJ|amod|state state|NN|nsubj|what
+what|WP|root|ROOT are|VBP|cop|what the|DT|det|popul popul|NN|nsubj|what of|IN|case|s0 s0|NN|nmod|popul
+which|WDT|det|border state|NN|compound|border border|NN|root|ROOT the|DT|det|state most|JJS|amod|state state|NN|appos|border
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|area area|NN|nsubj|what of|IN|case|s0 s0|NN|nmod|area
+which|WDT|nsubj|river is|VBZ|cop|river the|DT|det|river longest|JJS|amod|river river|NN|root|ROOT in|IN|case|co0 co0|NNP|nmod|river
+what|WP|root|ROOT are|VBP|cop|what the|DT|det|river major|JJ|amod|river river|NN|nsubj|what in|IN|case|s0 s0|NN|nmod|river
+what|WDT|det|state state|NN|nsubj|has has|VBZ|root|ROOT the|DT|det|densiti lowest|JJS|amod|densiti popul|NN|compound|densiti densiti|NN|obj|has
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|point lowest|JJS|amod|point point|NN|nsubj|what in|IN|case|s0 s0|NN|nmod|point
+what|WDT|det|doe state|NN|compound|doe doe|NN|obj|run the|DT|det|r r|NN|nsubj|run 0|CD|nummod|r run|VBP|root|ROOT through|RB|advmod|run
+what|WDT|det|doe state|NN|compound|doe doe|NN|obj|run the|DT|det|r r|NN|nsubj|run 0|CD|nummod|r run|VBP|root|ROOT through|RB|advmod|run
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|citi biggest|JJS|amod|citi citi|NN|nsubj|what in|IN|case|s0 s0|NN|nmod|citi
+what|WDT|det|border state|NN|compound|border border|NN|nsubj|state the|DT|det|state most|RBS|advmod|popul popul|JJ|amod|state state|NN|root|ROOT
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|citi largest|JJS|amod|citi citi|NNP|nsubj|what in|IN|case|s0 s0|NNP|nmod|citi
+which|WDT|det|state state|NN|nsubj|has has|VBZ|root|ROOT the|DT|det|citi most|RBS|advmod|major major|JJ|amod|citi citi|NN|obj|has
+what|WDT|det|state state|NN|nsubj|has has|VBZ|root|ROOT the|DT|det|citi most|RBS|advmod|major major|JJ|amod|citi citi|NN|obj|has
+how|WRB|advmod|co0 mani|NNP|compound|state state|NN|nsubj|co0 are|VBP|cop|co0 in|IN|case|co0 the|DT|det|co0 co0|NN|root|ROOT
+give|VB|root|ROOT me|PRP|iobj|give the|DT|det|state state|NN|obj|give that|DT|det|s0 border|NN|compound|s0 s0|NN|obj|give
+what|WDT|det|flow river|NN|compound|flow flow|NN|root|ROOT through|IN|case|state the|DT|det|state most|JJS|amod|state state|NN|nmod|flow
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|length length|NN|nsubj|what of|IN|case|r0 the|DT|det|r0 r0|NN|nmod|length
+which|WDT|det|state state|NN|nsubj|has has|VBZ|root|ROOT the|DT|det|river most|RBS|advmod|major major|JJ|amod|river river|NN|obj|has
+which|WDT|det|doe state|NN|compound|doe doe|NN|nsubj|run the|DT|det|r r|NN|compound|doe 0|CD|nummod|r run|VBP|root|ROOT through|RB|advmod|run
+how|WRB|advmod|have mani|NNP|compound|state state|NN|nsubj|have do|VBP|aux|have not|RB|advmod|have have|VB|root|ROOT river|NN|obj|have
+what|WDT|det|border state|NN|compound|border border|NN|nsubj|state state|VBP|root|ROOT that|DT|det|s0 border|NN|compound|s0 s0|NN|obj|state
+which|WDT|det|state state|NN|nsubj|has has|VBZ|root|ROOT the|DT|det|densiti lowest|JJS|amod|densiti popul|NN|compound|densiti densiti|NN|obj|has
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|river largest|JJS|amod|river river|NN|nsubj|what in|IN|case|s0 s0|NNP|nmod|river
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|capit capit|NN|nsubj|what of|IN|case|s0 the|DT|det|s0 s0|NN|nmod|capit
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|point highest|JJS|amod|point point|NN|nsubj|what in|IN|case|s0 s0|NN|nmod|point
+what|WP|root|ROOT are|VBP|cop|what the|DT|det|citi major|JJ|amod|citi citi|NN|nsubj|what in|IN|case|s0 s0|NN|nmod|citi
+what|WDT|det|state state|NN|nsubj|largest is|VBZ|cop|largest the|DT|det|largest largest|JJS|root|ROOT in|IN|case|popul popul|NNP|obl|largest
+where|WRB|root|ROOT is|VBZ|cop|where the|DT|det|point highest|JJS|amod|point point|NN|nsubj|where in|IN|case|s0 s0|NN|nmod|point
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|point highest|JJS|amod|point point|NN|nsubj|what in|IN|case|s0 s0|NN|nmod|point
+which|WDT|det|capit state|NN|compound|capit capit|NN|nsubj|has has|VBZ|root|ROOT the|DT|det|popul smallest|JJS|amod|popul popul|NN|obj|has
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|s0 smallest|JJS|amod|s0 state|NN|compound|s0 border|NN|compound|s0 s0|NN|nsubj|what
+which|WDT|det|state state|NN|nsubj|has has|VBZ|root|ROOT the|DT|det|densiti highest|JJS|amod|densiti popul|NN|compound|densiti densiti|NN|obj|has
+how|WRB|advmod|live mani|NN|compound|peopl peopl|NNS|nsubj|live live|VBP|root|ROOT in|IN|case|co0 the|DT|det|co0 co0|NN|obl|live
+where|WRB|root|ROOT is|VBZ|cop|where the|DT|det|point lowest|JJS|amod|point point|NN|nsubj|where in|IN|case|s0 s0|NN|nmod|point
+which|WDT|det|doe state|NN|compound|doe doe|NN|nsubj|run the|DT|det|r r|NN|compound|doe 0|CD|nummod|r run|VBP|root|ROOT through|RB|advmod|run
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|length length|NN|nsubj|what of|IN|case|r0 the|DT|det|r0 r0|NN|nmod|length
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|densiti popul|NN|compound|densiti densiti|NN|nsubj|what of|IN|case|s0 s0|NN|nmod|densiti
+what|WP|root|ROOT are|VBP|cop|what the|DT|det|citi capit|JJ|amod|citi citi|NN|nsubj|what in|IN|case|s0 s0|NN|nmod|citi
+what|WDT|det|doe state|NN|compound|doe doe|NN|obj|run the|DT|det|r r|NN|nsubj|run 0|CD|nummod|r run|VBP|root|ROOT through|RB|advmod|run
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|point highest|JJS|amod|point point|NN|nsubj|what in|IN|case|s0 s0|NN|nmod|point
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|point lowest|JJS|amod|point point|NN|nsubj|what in|IN|case|s0 s0|NN|nmod|point
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|citi biggest|JJS|amod|citi citi|NN|nsubj|what in|IN|case|s0 s0|NN|nmod|citi
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|river longest|JJS|amod|river river|NN|nsubj|what in|IN|case|s0 s0|NN|nmod|river
+what|WDT|det|citi major|JJ|amod|citi citi|NN|nsubj|locat are|VBP|aux|locat locat|VBG|root|ROOT in|IN|case|s0 s0|NN|obl|locat
+which|WDT|det|capit state|NN|compound|capit capit|NN|nsubj|largest citi|NNP|appos|capit is|VBZ|cop|largest the|DT|det|largest largest|JJS|root|ROOT
+what|WP|root|ROOT are|VBP|cop|what the|DT|det|citi major|JJ|amod|citi citi|NN|nsubj|what in|IN|case|s0 s0|NN|nmod|citi
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|mountain highest|JJS|amod|mountain mountain|NN|nsubj|what in|IN|case|co0 co0|NNP|nmod|mountain
+what|WDT|det|doe state|NN|compound|doe doe|NN|obj|run the|DT|det|r r|NN|nsubj|run 0|CD|nummod|r run|VBP|root|ROOT through|RB|advmod|run
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|densiti densiti|NN|nsubj|what of|IN|case|s0 the|DT|det|s0 s0|NN|nmod|densiti
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|elev highest|JJS|amod|elev elev|NN|nsubj|what of|IN|case|c0 c0|NN|nmod|elev
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|point highest|JJS|amod|point point|NN|nsubj|what in|IN|case|s0 s0|NN|nmod|point
+which|WDT|det|river river|NN|nsubj|run do|VBP|aux|run not|RB|advmod|run run|VB|root|ROOT through|IN|case|s0 s0|NN|obl|run
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|point lowest|JJS|amod|point point|NN|nsubj|what in|IN|case|co0 co0|NNP|nmod|point
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|citi largest|JJS|amod|citi citi|NNP|nsubj|what in|IN|case|s0 s0|NNP|nmod|citi
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|point highest|JJS|amod|point point|NN|nsubj|what in|IN|case|s0 s0|NN|nmod|point
+which|WDT|det|river river|NN|nsubj|run do|VBP|aux|run not|RB|advmod|run run|VB|root|ROOT through|IN|obl|run co0|.|punct|run
+which|WDT|det|state state|NN|nsubj|has has|VBZ|root|ROOT the|DT|det|densiti smallest|JJS|amod|densiti popul|NN|compound|densiti densiti|NN|obj|has
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|point high|JJ|amod|point point|NN|nsubj|what of|IN|case|s0 s0|NN|nmod|point
+what|WP|root|ROOT are|VBP|cop|what the|DT|det|citi major|JJ|amod|citi citi|NN|nsubj|what in|IN|case|s0 s0|NN|nmod|citi
+what|WP|nsubj|river are|VBP|cop|river all|PDT|det:predet|river the|DT|det|river river|NN|root|ROOT in|IN|case|s0 s0|NN|nmod|river
+which|WDT|det|river river|NN|nsubj|goe goe|VBP|root|ROOT through|IN|case|state the|DT|det|state most|JJS|amod|state state|NN|obl|goe
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|elev highest|JJS|amod|elev elev|NN|nsubj|what in|IN|case|s0 s0|NN|nmod|elev
+tell|VB|root|ROOT me|PRP|obj|tell what|WP|nsubj|s0 citi|NN|nsubj|s0 are|VBP|cop|s0 in|IN|case|s0 s0|NN|ccomp|tell
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|s0 largest|JJS|amod|s0 state|NN|compound|s0 border|NN|compound|s0 s0|NN|nsubj|what
+what|WDT|det|state state|NN|nsubj|has has|VBZ|root|ROOT the|DT|det|popul smallest|JJS|amod|popul urban|JJ|amod|popul popul|NN|obj|has
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|area area|NN|nsubj|what of|IN|case|s0 the|DT|det|s0 s0|NN|nmod|area
+what|WP|root|ROOT are|VBP|cop|what the|DT|det|citi major|JJ|amod|citi citi|NN|nsubj|what in|IN|case|s0 s0|NN|nmod|citi
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|point lowest|JJS|amod|point point|NN|nsubj|what in|IN|case|s0 s0|NN|nmod|point
+how|WRB|advmod|there mani|NNP|nsubj|there citi|NNP|nsubj|there are|VBP|cop|there there|RB|root|ROOT in|IN|case|co0 the|DT|det|co0 co0|NN|obl|there
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|elev highest|JJS|amod|elev elev|NN|nsubj|what in|IN|case|co0 the|DT|det|co0 co0|NN|nmod|elev
+which|WDT|nsubj|mountain is|VBZ|cop|mountain the|DT|det|mountain highest|JJS|amod|mountain mountain|NN|root|ROOT not|RB|advmod|s0 in|IN|case|s0 s0|NN|nmod|mountain
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|citi smallest|JJS|amod|citi citi|NN|nsubj|what in|IN|case|co0 the|DT|det|co0 co0|NN|nmod|citi
+how|WRB|advmod|high high|RB|root|ROOT is|VBZ|cop|high the|DT|det|point highest|JJS|amod|point point|NN|nsubj|high of|IN|case|s0 s0|NN|nmod|point
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|point highest|JJS|amod|point point|NN|nsubj|what in|IN|case|co0 the|DT|det|co0 co0|NN|nmod|point
+what|WP|root|ROOT are|VBP|cop|what the|DT|det|citi major|JJ|amod|citi citi|NN|nsubj|what in|IN|case|co0 the|DT|det|co0 co0|NN|nmod|citi
+give|VB|root|ROOT me|PRP|iobj|give the|DT|det|number number|NN|obj|give of|IN|case|river river|NN|nmod|number in|IN|case|s0 s0|NN|obl|give
+which|WDT|det|citi citi|NNP|nsubj|has in|IN|case|0 s|POS|case|in 0|CD|nmod|citi has|VBZ|root|ROOT the|DT|det|popul largest|JJS|amod|popul popul|NN|obj|has
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|point highest|JJS|amod|point point|NN|nsubj|what of|IN|case|co0 the|DT|det|co0 co0|NN|nmod|point
+which|WDT|det|state state|NN|nsubj|has has|VBZ|root|ROOT the|DT|det|popul smallest|JJS|amod|popul averag|JJ|amod|popul urban|JJ|amod|popul popul|NN|obj|has
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|capit capit|NN|nsubj|what of|IN|case|state the|DT|det|state smallest|JJS|amod|state state|NN|nmod|capit
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|state state|NN|nsubj|what with|IN|case|area the|DT|det|area largest|JJS|amod|area area|NN|nmod|state
+what|WDT|det|river river|NN|nsubj|state are|VBP|cop|state in|IN|case|state state|NN|root|ROOT that|DT|det|s0 border|NN|compound|s0 s0|NN|appos|state
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|citi smallest|JJS|amod|citi citi|NN|nsubj|what in|IN|case|co0 the|DT|det|co0 co0|NN|nmod|citi
+what|WDT|det|state state|NN|nsubj|contain contain|VBP|root|ROOT at|RB|case|least least|RBS|nmod|one one|CD|nummod|river major|JJ|amod|river river|NN|obj|contain
+where|WRB|root|ROOT is|VBZ|cop|where the|DT|det|mountain highest|JJS|amod|mountain mountain|NN|nsubj|where of|IN|case|co0 the|DT|det|co0 co0|NN|nmod|mountain
+how|WRB|advmod|high high|RB|root|ROOT is|VBZ|cop|high the|DT|det|point highest|JJS|amod|point point|NN|nsubj|high in|IN|case|co0 co0|NNP|nmod|point
+how|WRB|advmod|long long|RB|root|ROOT is|VBZ|cop|long the|DT|det|river longest|JJS|amod|river river|NN|nsubj|long in|IN|case|s0 s0|NN|nmod|river
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|state state|NN|nsubj|what with|IN|case|area the|DT|det|area smallest|JJS|amod|area area|NN|nmod|state
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|state largest|JJS|amod|state state|NN|nsubj|what that|DT|det|s0 border|NN|compound|s0 s0|NN|nsubj|what
+which|WDT|det|doe state|NN|compound|doe doe|NN|nsubj|run the|DT|det|river longest|JJS|amod|river river|NN|nsubj|run run|VBP|root|ROOT through|RB|advmod|run
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|mountain highest|JJS|amod|mountain mountain|NN|nsubj|what in|IN|case|co0 the|DT|det|co0 co0|NN|nmod|mountain
+what|WDT|det|border state|NN|compound|border border|NN|nmod:poss|0 s|POS|case|border 0|CD|nsubj|has has|VBZ|root|ROOT the|DT|det|popul largest|JJS|amod|popul popul|NN|obj|has
+which|WDT|det|river river|NN|nsubj|run run|VBP|root|ROOT through|IN|case|state state|NN|obl|run with|IN|case|citi fewest|JJS|amod|citi citi|NN|obl|run
+where|WRB|root|ROOT is|VBZ|cop|where the|DT|det|area most|RBS|advmod|popul popul|JJ|amod|area area|NN|nsubj|where of|IN|case|s0 s0|NN|nmod|area
+how|WRB|advmod|high high|RB|root|ROOT is|VBZ|cop|high the|DT|det|point highest|JJS|amod|point point|NN|nsubj|high in|IN|case|s0 s0|NN|nmod|point
+how|WRB|advmod|there mani|NN|compound|state state|NN|nsubj|there are|VBP|cop|there there|RB|root|ROOT in|IN|case|co0 the|DT|det|co0 co0|NN|obl|there
+which|WDT|det|co0 co0|NN|nsubj|has citi|NNP|nsubj|has has|VBZ|root|ROOT the|DT|det|densiti highest|JJS|amod|densiti popul|NN|compound|densiti densiti|NN|obj|has
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|popul popul|NN|nsubj|what of|IN|case|state the|DT|det|state smallest|JJS|amod|state state|NN|nmod|popul
+what|WP|root|ROOT are|VBP|cop|what the|DT|det|point highest|JJS|amod|point point|NN|nsubj|what of|IN|case|state all|PDT|det:predet|state the|DT|det|state state|NN|nmod|point
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|citi largest|JJS|amod|citi capit|NN|compound|citi citi|NNP|nsubj|what in|IN|case|co0 the|DT|det|co0 co0|NN|nmod|citi
+what|WP|root|ROOT are|VBP|cop|what the|DT|det|popul popul|NN|nsubj|what of|IN|case|state state|NN|nmod|popul which|WDT|obj|s0 border|NN|compound|s0 s0|NN|acl:relcl|popul
+what|WDT|det|border state|NN|compound|border border|NN|root|ROOT the|DT|det|state state|NN|nsubj|border with|IN|case|area the|DT|det|area smallest|JJS|amod|area area|NN|nmod|state
+what|WP|root|ROOT are|VBP|cop|what the|DT|det|capit capit|NN|nsubj|what of|IN|case|state state|NN|nmod|capit that|DT|det|s0 border|NN|compound|s0 s0|NN|nsubj|what
+what|WDT|det|state state|NN|compound|state border|NN|compound|state state|NN|root|ROOT that|IN|mark|run the|DT|det|0 r|VBP|aux|run 0|CD|nsubj|run run|VBP|acl:relcl|state through|RB|advmod|run
+what|WDT|det|border state|NN|compound|border border|NN|root|ROOT the|DT|det|state state|NN|nsubj|border with|IN|case|citi the|DT|det|citi most|JJS|amod|citi citi|NNP|nmod|state
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|area combin|NN|compound|area area|NN|nsubj|what of|IN|case|state all|DT|det|state 50|CD|nummod|state state|NN|nmod|area
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|point lowest|JJS|amod|point point|NN|nsubj|what in|IN|case|s0 s0|NN|nmod|point in|IN|case|meter meter|NN|nmod|point
+what|WDT|det|border state|NN|compound|border border|NN|nmod:poss|0 s|POS|case|border 0|CD|root|ROOT and|CC|cc|have have|VBP|conj|0 a|DT|det|river major|JJ|amod|river river|NN|obj|have
+what|WP|root|ROOT are|VBP|cop|what the|DT|det|densiti popul|NN|compound|densiti densiti|NN|nsubj|what of|IN|case|state each|DT|det|state co0|JJ|amod|state state|NN|nmod|densiti
+which|WDT|det|state state|NN|nsubj|has has|VBZ|root|ROOT the|DT|det|point lowest|JJS|amod|point point|NN|obj|has that|DT|det|s0 border|NN|compound|s0 s0|NN|nmod:npmod|point
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|state most|JJS|amod|state dens|NNS|compound|state state|NN|nsubj|what in|IN|case|co0 the|DT|det|co0 co0|NN|nmod|state
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|point highest|JJS|amod|point point|NN|nsubj|what in|IN|case|s0 s0|NN|nmod|point in|IN|case|meter meter|NN|nmod|point
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|river longest|JJS|amod|river river|NN|nsubj|what in|IN|case|state the|DT|det|state largest|JJS|amod|state state|NN|nmod|river
+how|WRB|advmod|long long|RB|root|ROOT is|VBZ|cop|long the|DT|det|river longest|JJS|amod|river river|NN|nsubj|long in|IN|case|co0 the|DT|det|co0 co0|NN|nmod|river
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|point highest|JJS|amod|point point|NN|nsubj|what in|IN|case|s0 state|NN|compound|s0 border|NN|compound|s0 s0|NN|nmod|point
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|densiti popul|NN|compound|densiti densiti|NN|nsubj|what of|IN|case|state the|DT|det|state largest|JJS|amod|state state|NN|nmod|densiti
+which|WDT|det|border state|NN|compound|border border|NN|root|ROOT the|DT|det|state state|NN|appos|border with|IN|case|area the|DT|det|area smallest|JJS|amod|area area|NN|nmod|state
+how|WRB|advmod|live mani|NN|compound|peopl peopl|NNS|nsubj|live live|VBP|root|ROOT in|IN|case|capit the|DT|det|capit capit|NN|obl|live of|IN|case|s0 s0|NN|nmod|capit
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|citi biggest|JJS|amod|citi capit|NN|nsubj|what citi|NNP|nsubj|what in|IN|case|co0 the|DT|det|co0 co0|NN|nmod|citi
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|capit capit|NN|nsubj|what of|IN|case|state state|NN|nmod|capit that|WDT|nsubj|have have|VBP|acl:relcl|capit citi|NNP|compound|n0 n0|NN|obj|have
+how|WRB|advmod|live mani|NN|compound|peopl peopl|NNS|nsubj|live live|VBP|root|ROOT in|IN|case|citi the|DT|det|citi biggest|JJS|amod|citi citi|NN|obl|live in|IN|case|s0 s0|NN|nmod|citi
+what|WDT|det|border state|NN|compound|border border|NN|nsubj|state the|DT|det|state state|NN|root|ROOT with|IN|case|citi the|DT|det|citi most|RBS|advmod|major major|JJ|amod|citi citi|NN|nmod|state
+what|WDT|det|river river|NN|nsubj|travers travers|VBZ|root|ROOT the|DT|det|state state|NN|obj|travers which|WDT|nsubj|border border|VBP|acl:relcl|state the|DT|det|state most|JJS|amod|state state|NN|obj|border
+what|WDT|det|border state|NN|compound|border border|NN|root|ROOT the|DT|det|state state|NN|nsubj|border that|WDT|nsubj|border border|NN|acl:relcl|state the|DT|det|state most|JJS|amod|state state|NN|acl:relcl|state
+what|WDT|det|river river|NN|nsubj|travers travers|VBZ|root|ROOT the|DT|det|state state|NN|obj|travers which|WDT|nsubj|border border|VBP|acl:relcl|state the|DT|det|state most|JJS|amod|state state|NN|obj|border
+what|WP|nsubj|has citi|NNP|nsubj|has in|IN|case|co0 the|DT|det|co0 co0|NN|nmod|citi has|VBZ|root|ROOT the|DT|det|densiti highest|JJS|amod|densiti popul|NN|compound|densiti densiti|NN|obj|has
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|point lowest|JJS|amod|point point|NN|nsubj|what in|IN|case|state the|DT|det|state state|NN|nmod|point of|IN|case|s0 s0|NN|nmod|state
+what|WP|root|ROOT are|VBP|cop|what the|DT|det|citi major|JJ|amod|citi citi|NNS|nsubj|what in|IN|case|state the|DT|det|state state|NN|nmod|citi of|IN|case|s0 s0|NN|nmod|state
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|point highest|JJS|amod|point point|NN|nsubj|what in|IN|case|s0 the|DT|det|s0 state|NN|compound|s0 border|NN|compound|s0 s0|NN|nmod|point
+which|WDT|nsubj|has of|IN|case|0 the|DT|det|border state|NN|compound|border border|NN|nmod:poss|0 s|POS|case|border 0|CD|nmod|which has|VBZ|root|ROOT the|DT|det|popul largest|JJS|amod|popul popul|NN|obj|has
+how|WRB|advmod|border mani|NNP|compound|border state|NN|compound|border border|NN|root|ROOT the|DT|det|state state|NN|appos|border with|IN|case|popul the|DT|det|popul largest|JJS|amod|popul popul|NN|nmod|state
+through|IN|case|doe which|WDT|det|doe state|NN|compound|doe doe|NN|root|ROOT the|DT|det|river longest|JJS|amod|river river|NN|appos|doe in|IN|case|run s|POS|case|in 0|CD|nummod|run run|NN|nmod|river
+which|WDT|det|state state|NN|nsubj|has has|VBZ|root|ROOT the|DT|det|river most|RBS|advmod|major major|JJ|amod|river river|NN|obj|has run|VBN|acl|river through|IN|case|it it|PRP|obl|run
+what|WP|root|ROOT is|VBZ|cop|what capit|NN|nsubj|what of|IN|case|state the|DT|det|state state|NN|nmod|capit with|IN|case|point the|DT|det|point lowest|JJS|amod|point point|NN|nmod|state
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|state smallest|JJS|amod|state state|NN|nsubj|what that|DT|det|border border|NN|nmod:npmod|state the|DT|det|state most|JJS|amod|state state|NN|nmod:npmod|state
+what|WDT|det|river river|NN|nsubj|run run|VBP|root|ROOT through|IN|case|state the|DT|det|state state|NN|obl|run with|IN|case|citi the|DT|det|citi most|JJS|amod|citi citi|NNP|obl|run
+what|WP|root|ROOT are|VBP|cop|what the|DT|det|popul popul|NN|nsubj|what of|IN|case|citi the|DT|det|citi major|JJ|amod|citi citi|NN|nmod|popul of|IN|case|s0 s0|NN|nmod|citi
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|state smallest|JJS|amod|state state|NN|nsubj|what that|IN|mark|run the|DT|det|0 r|VBP|aux|run 0|CD|nsubj|run run|VBP|acl:relcl|state through|RB|advmod|run
+what|WP|root|ROOT are|VBP|cop|what the|DT|det|citi citi|NNP|nsubj|what in|IN|case|state state|NN|nmod|citi through|IN|case|which which|WDT|obl|run the|DT|det|run r|NN|compound|run 0|CD|nummod|run run|NN|acl:relcl|citi
+what|WP|root|ROOT are|VBP|cop|what the|DT|det|popul popul|NN|nsubj|what of|IN|case|state state|NN|nmod|popul through|IN|case|which which|WDT|obl|run the|DT|det|run r|NN|compound|run 0|CD|nummod|run run|NN|acl:relcl|popul
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|river longest|JJS|amod|river river|NN|nsubj|what in|IN|case|state the|DT|det|state state|NN|nmod|river that|DT|det|s0 border|NN|compound|s0 s0|NN|appos|what
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|point highest|JJS|amod|point point|NN|nsubj|what in|IN|case|state the|DT|det|state state|NN|nmod|point with|IN|case|c0 capit|NNP|compound|c0 c0|NN|nmod|point
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|state most|RBS|advmod|popul popul|JJ|amod|state state|NN|nsubj|what through|IN|case|which which|WDT|obl|run the|DT|det|run r|NN|compound|run 0|CD|nummod|run run|NN|acl:relcl|state
+how|WRB|advmod|have mani|NNP|compound|doe citizen|NN|compound|doe doe|NN|obl|have the|DT|det|citi biggest|JJS|amod|citi citi|NN|nsubj|have have|VBP|root|ROOT in|IN|case|co0 the|DT|det|co0 co0|NN|obl|have
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|capit capit|NN|nsubj|what of|IN|case|state the|DT|det|state state|NN|nmod|capit with|IN|case|popul the|DT|det|popul largest|JJS|amod|popul popul|NN|nmod|state
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|capit capit|NN|nsubj|what of|IN|case|state the|DT|det|state state|NN|nmod|capit with|IN|case|peopl the|DT|det|peopl most|JJS|amod|peopl peopl|NNS|nmod|state
+what|WP|root|ROOT are|VBP|cop|what the|DT|det|popul popul|NN|nsubj|what of|IN|case|state state|NN|nmod|popul through|IN|case|which which|WDT|obl|run the|DT|det|run r|NN|compound|run 0|CD|nummod|run run|NN|acl:relcl|popul
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|length total|JJ|amod|length length|NN|nsubj|what of|IN|case|river all|DT|det|river river|NN|nmod|length in|IN|case|co0 the|DT|det|co0 co0|NN|nmod|length
+what|WP|root|ROOT are|VBP|cop|what the|DT|det|citi citi|NN|nsubj|what of|IN|case|state the|DT|det|state state|NN|nmod|citi with|IN|case|point the|DT|det|point highest|JJS|amod|point point|NN|nmod|citi
+what|WDT|det|state state|NN|nsubj|contain contain|VBP|root|ROOT the|DT|det|point highest|JJS|amod|point point|NN|obj|contain of|IN|case|travers those|DT|det|travers the|DT|det|travers r|NN|compound|travers 0|CD|nummod|travers travers|NNS|nmod|point
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|capit capit|NN|nsubj|what of|IN|case|state the|DT|det|state state|NN|nmod|capit with|IN|case|river the|DT|det|river longest|JJS|amod|river river|NN|nmod|state
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|capit capit|NN|nsubj|what of|IN|case|state the|DT|det|state state|NN|nmod|capit with|IN|case|densiti the|DT|det|densiti largest|JJS|amod|densiti popul|NN|compound|densiti densiti|NN|nmod|capit
+how|WRB|advmod|mani mani|VB|root|ROOT the|DT|det|state state|NN|obj|mani which|WDT|nsubj|have have|VBP|acl:relcl|state elev|NN|compound|er -|HYPH|punct|er er|NN|obj|have than|IN|case|what what|WP|obl|have s|VBZ|cop|has 0|CD|nsubj|has has|VBZ|acl:relcl|what
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|length length|NN|nsubj|what of|IN|case|river the|DT|det|river longest|JJS|amod|river river|NN|nmod|length that|WDT|nsubj|run run|VBP|acl:relcl|river through|IN|case|0 s|POS|case|0 0|CD|obl|run
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|citi biggest|JJS|amod|citi co0|NN|compound|citi citi|NNP|nsubj|what in|IN|case|state a|DT|det|state state|NN|nmod|citi with|IN|case|river a|DT|det|river river|NN|nmod|state
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|popul popul|NN|nsubj|what of|IN|case|state the|DT|det|state state|NN|nmod|popul with|IN|case|popul the|DT|det|popul highest|JJS|amod|popul popul|NN|nmod|popul densiti|.|punct|what
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|popul popul|NN|nsubj|what of|IN|case|state the|DT|det|state state|NN|nmod|popul that|WDT|nsubj|state border|NN|acl:relcl|state the|DT|det|state most|JJS|amod|state state|NN|obj|border
+how|WRB|advmod|state mani|NNP|compound|river river|NN|nsubj|state are|VBP|cop|state in|IN|case|state the|DT|det|state state|NN|root|ROOT that|WDT|nsubj|has has|VBZ|acl:relcl|state the|DT|det|river most|JJS|amod|river river|NN|obj|has
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|citi largest|JJS|amod|citi citi|NN|nsubj|what in|IN|case|state the|DT|det|state smallest|JJS|amod|state state|NN|nmod|citi in|IN|case|co0 the|DT|det|co0 co0|NN|nmod|state
+what|WP|root|ROOT are|VBP|cop|what the|DT|det|citi major|JJ|amod|citi citi|NN|nsubj|what in|IN|case|state state|NN|nmod|citi through|IN|case|which which|WDT|obl|run the|DT|det|run r|NN|compound|run 0|CD|nummod|run run|NN|acl:relcl|citi
+which|WDT|det|river river|NN|nsubj|run run|VBP|root|ROOT through|IN|case|state state|NN|obl|run that|WDT|nsubj|border border|VBP|acl:relcl|state the|DT|det|state state|NN|obj|border with|IN|case|c0 the|DT|det|c0 capit|NN|compound|c0 c0|NN|obl|border
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|river longest|JJS|amod|river river|NN|nsubj|what that|WDT|nsubj|flow flow|VBP|acl:relcl|river through|IN|case|state a|DT|det|state state|NN|obl|flow that|DT|det|s0 border|NN|compound|s0 s0|NN|appos|what
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|length length|NN|nsubj|what of|IN|case|river the|DT|det|river river|NN|nmod|length that|WDT|nsubj|run run|VBP|acl:relcl|river through|IN|case|state the|DT|det|state most|JJS|amod|state state|NN|obl|run
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|point highest|JJS|amod|point point|NN|nsubj|what of|IN|case|state the|DT|det|state state|NN|nmod|point with|IN|case|popul the|DT|det|popul smallest|JJS|amod|popul popul|NN|nmod|state densiti|.|punct|what
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|length length|NN|nsubj|what of|IN|case|river the|DT|det|river river|NN|nmod|length that|WDT|nsubj|flow flow|VBP|acl:relcl|river through|IN|case|state the|DT|det|state most|JJS|amod|state state|NN|obl|flow
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|river longest|JJS|amod|river river|NN|nsubj|what in|IN|case|state the|DT|det|state state|NN|nmod|river with|IN|case|citi the|DT|det|citi most|RBS|advmod|major major|JJ|amod|citi citi|NN|nmod|river
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|citi largest|JJS|amod|citi citi|NN|nsubj|what in|IN|case|state smallest|JJS|amod|state state|NN|nmod|citi through|IN|case|which which|WDT|obl|run the|DT|det|run r|NN|compound|run 0|CD|nummod|run run|NN|acl:relcl|citi
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|point lowest|JJS|amod|point point|NN|nsubj|what of|IN|case|state all|DT|det|state state|NN|nmod|point through|IN|case|which which|WDT|obl|run the|DT|nsubj|0 r|VBP|cop|0 0|CD|nsubj|run run|VBP|acl:relcl|point through|RB|advmod|run
+what|WP|root|ROOT is|VBZ|cop|what the|DT|det|popul popul|NN|nsubj|what of|IN|case|citi the|DT|det|citi largest|JJS|amod|citi citi|NN|nmod|popul in|IN|case|state the|DT|det|state state|NN|nmod|citi with|IN|case|area the|DT|det|area largest|JJS|amod|area area|NN|nmod|state
+which|WDT|nsubj|densiti is|VBZ|cop|densiti the|DT|det|densiti densiti|NN|root|ROOT of|IN|case|state the|DT|det|state state|NN|nmod|densiti that|IN|mark|run the|DT|det|river largest|JJS|amod|river river|NN|nsubj|run in|IN|case|co0 the|DT|det|co0 co0|NN|nmod|river run|VBP|acl:relcl|densiti through|RB|advmod|run
+how|WRB|advmod|have mani|NNP|compound|state state|NN|nsubj|have have|VBP|root|ROOT a|DT|det|point -|HYPH|punct|er er|NN|compound|point point|NN|obj|have than|IN|case|point the|DT|det|point highest|JJS|amod|point point|NN|nmod|point of|IN|case|state the|DT|det|state state|NN|nmod|point with|IN|case|citi the|DT|det|citi largest|JJS|amod|citi capit|NN|compound|citi citi|NN|nmod|state in|IN|case|co0 the|DT|det|co0 co0|NN|nmod|citi
