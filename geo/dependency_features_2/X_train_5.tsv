@@ -1,0 +1,600 @@
+where￨root is￨cop c0￨nsubj
+where￨root is￨cop m￨nsubj 0￨nummod
+where￨root is￨cop c0￨nsubj
+where￨root is￨cop c0￨nsubj
+where￨root is￨cop s0￨nsubj
+peopl￨root in￨case c0￨nmod
+where￨root is￨cop c0￨nsubj
+where￨root is￨cop c0￨nsubj
+popul￨root of￨case c0￨nmod
+where￨root is￨cop s0￨nsubj
+where￨root is￨cop c0￨nsubj
+where￨root is￨cop c0￨nsubj
+where￨root is￨cop c0￨nsubj
+where￨root is￨cop c0￨nsubj
+state￨compound border￨compound s0￨root
+list￨root the￨det state￨obj
+where￨root is￨cop c0￨nsubj
+which￨det state￨compound border￨compound s0￨root
+how￨advmod high￨amod is￨cop m￨root 0￨nummod
+which￨det state￨compound border￨compound s0￨root
+what￨det state￨compound border￨compound s0￨root
+what￨det state￨compound border￨compound s0￨root
+what￨root are￨cop the￨det state￨nsubj
+what￨det state￨compound border￨compound s0￨root
+which￨det state￨compound border￨compound s0￨root
+what￨det state￨compound border￨compound s0￨root
+what￨det state￨compound border￨compound s0￨root
+how￨advmod big￨root is￨cop s0￨nsubj
+how￨advmod big￨root is￨cop s0￨nsubj
+which￨det state￨compound border￨compound s0￨root
+what￨det state￨compound border￨compound s0￨root
+what￨nsubj is￨cop largest￨root capit￨punct
+how￨advmod big￨root is￨cop s0￨nsubj
+what￨det state￨compound border￨compound s0￨root
+which￨det state￨compound border￨compound s0￨root
+which￨det state￨compound border￨compound s0￨root
+what￨det state￨compound border￨compound s0￨root
+which￨det state￨compound border￨compound s0￨root
+what￨det state￨compound border￨compound s0￨root
+which￨det state￨compound border￨compound s0￨root
+which￨det state￨compound border￨compound s0￨root
+which￨det state￨compound border￨compound s0￨root
+what￨det state￨compound border￨compound s0￨root
+which￨det state￨compound border￨compound s0￨root
+how￨advmod long￨root is￨cop r0￨nsubj
+what￨det state￨compound border￨compound s0￨root
+how￨advmod big￨root is￨cop s0￨nsubj
+what￨det state￨compound border￨compound s0￨root
+what￨det state￨compound border￨compound s0￨root
+what￨det state￨compound border￨compound s0￨root
+where￨root is￨cop m￨nsubj 0￨nummod locat￨punct
+which￨det state￨compound border￨compound s0￨root
+what￨det citi￨root in￨case s0￨nmod
+how￨advmod big￨root is￨cop c0￨nsubj
+how￨advmod big￨root is￨cop s0￨nsubj
+which￨det state￨compound border￨compound s0￨root
+what￨det state￨nsubj have￨root river￨compound n0￨obj
+what￨det river￨nsubj are￨cop in￨case s0￨root
+what￨det river￨nsubj run￨root through￨case s0￨obl
+how￨advmod long￨root is￨cop the￨det r0￨nsubj
+in￨case what￨det state￨nsubj is￨cop m￨root 0￨nummod
+what￨det state￨nsubj has￨root highest￨amod elev￨obj
+how￨advmod mani￨compound citizen￨root in￨case s0￨nmod
+in￨case which￨det state￨compound is￨cop c0￨root
+what￨det river￨compound flow￨root through￨case s0￨nmod
+how￨advmod long￨root is￨cop the￨det r0￨nsubj
+what￨root is￨cop the￨det shortest￨amod river￨nsubj
+what￨root is￨cop capit￨nsubj of￨case s0￨nmod
+how￨advmod mani￨compound river￨root in￨case s0￨nmod
+how￨advmod long￨root is￨cop the￨det r0￨nsubj
+what￨det state￨nsubj has￨root no￨det river￨obj
+which￨nsubj is￨cop the￨det shortest￨amod river￨root
+how￨advmod mani￨compound state￨compound border￨compound s0￨root
+what￨root i￨nsubj the￨det largest￨amod citi￨appos
+what￨det river￨nsubj run￨root through￨case s0￨obl
+which￨det river￨nsubj are￨cop in￨case s0￨root
+what￨det river￨nsubj run￨root through￨case s0￨obl
+which￨det river￨compound flow￨root through￨case s0￨nmod
+what￨det river￨nsubj are￨cop in￨case s0￨root
+what￨det river￨nsubj are￨cop in￨case s0￨root
+show￨root major￨amod citi￨obj in￨case s0￨obl
+what￨det state￨nsubj have￨root town￨obj n0￨obj
+what￨det mountain￨nsubj are￨cop in￨case s0￨root
+what￨det river￨compound flow￨root through￨case s0￨nmod
+what￨root is￨cop the￨det largest￨amod state￨nsubj
+which￨det state￨nsubj contain￨root most￨amod river￨obj
+name￨root the￨det river￨obj in￨case s0￨obl
+what￨det state￨compound capit￨nsubj is￨cop c0￨root
+how￨advmod mani￨compound state￨compound border￨compound s0￨root
+what￨det state￨nsubj is￨cop c￨root 0￨nummod in￨punct
+what￨det river￨nsubj are￨cop in￨case s0￨root
+what￨det river￨compound flow￨root through￨case s0￨nmod
+what￨det river￨compound flow￨root through￨case s0￨nmod
+how￨advmod long￨root is￨cop the￨det r0￨nsubj
+which￨det state￨compound border￨compound most￨amod state￨root
+give￨root me￨iobj the￨det largest￨amod state￨obj
+what￨det river￨nsubj run￨root through￨case s0￨obl
+what￨det state￨nsubj is￨cop the￨det biggest￨root
+what￨det river￨nsubj run￨root through￨case c0￨obl
+what￨root is￨cop the￨det biggest￨amod state￨nsubj
+how￨advmod mani￨compound river￨nsubj are￨cop n0￨root
+what￨det state￨nsubj is￨cop c￨root 0￨nummod in￨punct
+what￨det river￨nsubj run￨root through￨case s0￨obl
+how￨advmod mani￨compound peopl￨root in￨case c0￨nmod
+what￨det state￨compound border￨root the￨det r0￨appos
+how￨advmod mani￨compound citizen￨root in￨case c0￨nmod
+number￨root of￨case citizen￨nmod in￨case c0￨nmod
+which￨det state￨nsubj is￨cop c￨root 0￨nummod in￨advmod
+what￨root is￨cop the￨det largest￨amod capit￨nsubj
+what￨det river￨nsubj run￨root through￨case s0￨obl
+what￨det state￨nsubj is￨cop c￨root 0￨nummod in￨punct
+name￨root the￨det river￨obj in￨case s0￨obl
+how￨advmod mani￨compound state￨compound border￨compound s0￨root
+what￨root is￨cop the￨det longest￨amod river￨nsubj
+which￨det state￨nsubj has￨root the￨det r0￨obj
+how￨advmod mani￨compound state￨compound border￨compound s0￨root
+what￨det river￨nsubj run￨root through￨case s0￨obl
+what￨det state￨nsubj have￨root citi￨compound n0￨obj
+what￨det state￨nsubj has￨root the￨det shortest￨amod river￨obj
+what￨root is￨cop the￨det capit￨nsubj of￨case s0￨nmod
+name￨root all￨det:predet the￨det lake￨obj of￨case co0￨nmod
+what￨root is￨cop the￨det popul￨nsubj of￨case s0￨nmod
+name￨root all￨det:predet the￨det river￨obj in￨case s0￨obl
+how￨advmod mani￨compound peopl￨nsubj live￨root in￨case c0￨obl
+what￨root is￨cop the￨det size￨nsubj of￨case s0￨nmod
+what￨root is￨cop the￨det popul￨nsubj of￨case s0￨nmod
+what￨det state￨nsubj have￨root a￨det citi￨compound n0￨obj
+how￨advmod mani￨compound peopl￨nsubj live￨root in￨case c0￨obl
+what￨root is￨cop the￨det popul￨nsubj of￨case c0￨nmod
+what￨root is￨cop the￨det popul￨nsubj of￨case c0￨nmod
+what￨root is￨cop the￨det area￨nsubj of￨case s0￨nmod
+what￨root is￨cop the￨det size￨nsubj of￨case s0￨nmod
+how￨root mani￨compound state￨compound doe￨nmod:poss s￨case 0￨nummod border￨nsubj
+what￨root is￨cop the￨det popul￨nsubj of￨case c0￨nmod
+what￨root is￨cop the￨det capit￨nsubj of￨case s0￨nmod
+what￨root is￨cop the￨det capit￨nsubj of￨case s0￨nmod
+what￨root is￨cop the￨det capit￨nsubj of￨case s0￨nmod
+which￨det capit￨nsubj are￨cop not￨advmod major￨amod citi￨root
+what￨root is￨cop the￨det popul￨nsubj of￨case s0￨nmod
+what￨root is￨cop the￨det popul￨nsubj of￨case s0￨nmod
+what￨root is￨cop the￨det popul￨nsubj of￨case c0￨nmod
+what￨root is￨cop the￨det capit￨nsubj of￨case s0￨nmod
+what￨root is￨cop the￨det popul￨nsubj of￨case s0￨nmod
+what￨root is￨cop the￨det area￨nsubj of￨case s0￨nmod
+what￨root is￨cop the￨det popul￨nsubj of￨case s0￨nmod
+which￨det state￨nsubj has￨root the￨det longest￨amod river￨obj
+what￨root is￨cop the￨det capit￨nsubj of￨case s0￨nmod
+what￨root is￨cop the￨det area￨nsubj of￨case s0￨nmod
+what￨root is￨cop the￨det popul￨nsubj of￨case c0￨nmod
+what￨root is￨cop the￨det capit￨nsubj of￨case s0￨nmod
+what￨root is￨cop the￨det popul￨nsubj of￨case c0￨nmod
+which￨det state￨nsubj has￨root the￨det largest￨amod citi￨obj
+what￨root is￨cop the￨det popul￨nsubj of￨case c0￨nmod
+what￨root is￨cop the￨det popul￨nsubj of￨case s0￨nmod
+how￨advmod mani￨compound peopl￨nsubj live￨root in￨case s0￨obl
+what￨obj citi￨nsubj are￨aux locat￨root in￨case s0￨obl
+give￨root me￨iobj the￨det citi￨obj in￨case co0￨nmod
+what￨root is￨cop the￨det popul￨nsubj of￨case c0￨nmod
+what￨root is￨cop the￨det popul￨nsubj of￨case c0￨nmod
+what￨det state￨nsubj has￨root the￨det smallest￨amod area￨obj
+what￨det major￨amod river￨nsubj run￨root through￨case s0￨obl
+how￨advmod mani￨compound peopl￨nsubj live￨root in￨case s0￨obl
+what￨root is￨cop the￨det area￨nsubj of￨case s0￨nmod
+how￨advmod mani￨compound river￨nsubj are￨cop in￨case s0￨root
+what￨root is￨cop the￨det area￨nsubj of￨case s0￨nmod
+what￨root is￨cop the￨det popul￨nsubj of￨case s0￨nmod
+what￨det state￨nsubj has￨root the￨det highest￨amod elev￨obj
+what￨det state￨nsubj are￨cop next￨case to￨case s0￨root
+what￨root is￨cop the￨det popul￨nsubj of￨case c0￨nmod
+how￨advmod mani￨compound river￨nsubj run￨root through￨case s0￨obl
+what￨root is￨cop the￨det popul￨nsubj of￨case s0￨nmod
+what￨root is￨cop the￨det area￨nsubj of￨case s0￨nmod
+what￨root are￨cop major￨amod river￨nsubj in￨case s0￨nmod
+how￨advmod mani￨compound peopl￨nsubj doe￨compound c￨nsubj 0￨nummod have￨root
+what￨obj citi￨nsubj has￨root the￨det largest￨amod popul￨obj
+what￨det state￨nsubj has￨root the￨det largest￨amod popul￨obj
+what￨root is￨cop the￨det popul￨nsubj of￨case s0￨nmod
+what￨root is￨cop the￨det popul￨nsubj of￨case c0￨nmod
+what￨det state￨nsubj has￨root the￨det capit￨compound c0￨obj
+what￨det state￨nsubj has￨root the￨det most￨amod peopl￨obj
+how￨root mani￨compound river￨compound doe￨nmod:poss s￨case 0￨nsubj have￨aux
+what￨obj citi￨nsubj has￨root the￨det least￨nmod popul￨obj
+how￨advmod mani￨compound peopl￨nsubj live￨root in￨case s0￨obl
+which￨det state￨nsubj has￨root the￨det most￨amod peopl￨obj
+what￨root is￨cop the￨det size￨nsubj of￨case s0￨nmod
+how￨advmod mani￨compound river￨nsubj are￨cop in￨case s0￨root
+what￨root is￨cop the￨det popul￨nsubj of￨case c0￨nmod
+what￨root is￨cop the￨det popul￨nsubj of￨case s0￨nmod
+give￨root me￨iobj the￨det citi￨obj in￨case s0￨obl
+how￨advmod mani￨compound peopl￨nsubj live￨root in￨case s0￨obl
+what￨root is￨cop the￨det capit￨nsubj of￨case s0￨nmod
+how￨root mani￨compound state￨compound doe￨nmod:poss s￨case 0￨nummod border￨nsubj
+what￨det state￨nsubj has￨root the￨det citi￨compound c0￨obj
+what￨det state￨nsubj has￨root the￨det largest￨amod citi￨obj
+give￨root me￨iobj the￨det lake￨obj in￨case s0￨obl
+what￨root is￨cop the￨det capit￨nsubj of￨case s0￨nmod
+which￨det state￨nsubj has￨root the￨det greatest￨amod densiti￨obj
+what￨root is￨cop the￨det densiti￨nsubj of￨case s0￨nmod
+what￨root is￨cop the￨det popul￨nsubj in￨case c0￨nmod
+how￨advmod mani￨compound peopl￨nsubj live￨root in￨case c0￨obl
+give￨root me￨iobj the￨det citi￨obj in￨case s0￨obl
+how￨advmod mani￨compound state￨nsubj have￨root major￨amod river￨obj
+how￨advmod mani￨compound peopl￨nsubj live￨root in￨case c0￨obl
+which￨det state￨compound border￨nsubj no￨det other￨amod state￨root
+how￨advmod mani￨compound peopl￨nsubj live￨root in￨case s0￨obl
+what￨root is￨cop the￨det capit￨nsubj of￨case s0￨nmod
+what￨root is￨cop the￨det popul￨nsubj of￨case s0￨nmod
+how￨advmod mani￨compound peopl￨nsubj live￨root in￨case c0￨obl
+how￨advmod mani￨compound peopl￨nsubj live￨root in￨case s0￨obl
+how￨advmod mani￨compound state￨compound border￨root the￨det r0￨appos
+how￨advmod mani￨compound state￨nsubj have￨root citi￨compound n0￨obj
+how￨advmod mani￨compound peopl￨nsubj live￨root in￨case s0￨obl
+how￨advmod mani￨compound major￨amod river￨compound cross￨compound s0￨root
+how￨advmod mani￨compound citizen￨nsubj live￨root in￨case s0￨obl
+name￨root the￨det longest￨amod river￨obj in￨case co0￨obl
+what￨root are￨cop the￨det river￨nsubj of￨case s0￨nmod
+how￨advmod mani￨compound peopl￨nsubj live￨root in￨case s0￨obl
+what￨root is￨cop the￨det popul￨nsubj of￨case c0￨nmod
+what￨det state￨nsubj has￨root the￨det smallest￨amod capit￨obj
+name￨root the￨det major￨amod lake￨obj in￨case s0￨obl
+give￨root me￨iobj the￨det citi￨obj in￨case s0￨obl
+how￨advmod mani￨compound peopl￨nsubj live￨root in￨case s0￨obl
+how￨advmod mani￨compound peopl￨nsubj live￨root in￨case c0￨obl
+what￨det state￨nsubj is￨cop c￨compound 0￨nummod locat￨root in￨advmod
+how￨advmod mani￨nsubj citi￨compound doe￨flat s￨case 0￨nsubj have￨root
+what￨det state￨nsubj have￨root no￨det border￨compound state￨obj
+which￨det state￨nsubj has￨root the￨det largest￨amod densiti￨obj
+how￨advmod mani￨compound peopl￨nsubj live￨root in￨case c0￨obl
+what￨root is￨cop the￨det area￨nsubj of￨case c0￨nmod
+what￨det capit￨nsubj has￨root the￨det largest￨amod popul￨obj
+what￨root are￨cop the￨det citi￨nsubj in￨case s0￨nmod
+how￨advmod mani￨compound peopl￨nsubj live￨root in￨case s0￨obl
+what￨det state￨compound border￨root the￨det least￨nmod state￨appos
+what￨root is￨cop the￨det capit￨nsubj of￨case s0￨nmod
+how￨advmod mani￨compound citi￨nsubj are￨cop in￨case s0￨root
+what￨root is￨cop the￨det height￨nsubj of￨case m￨nmod 0￨nummod
+what￨root is￨cop the￨det popul￨nsubj of￨case c0￨nmod
+what￨det state￨nsubj has￨root the￨det most￨advmod citi￨obj
+how￨advmod mani￨compound peopl￨nsubj live￨root in￨case c0￨obl
+what￨det state￨nsubj has￨root the￨det smallest￨amod popul￨obj
+which￨det state￨nsubj do￨aux r￨cop 0￨nummod flow￨root through￨advmod
+what￨root is￨cop the￨det capit￨nsubj of￨case s0￨nmod
+what￨root is￨cop the￨det area￨nsubj of￨case s0￨nmod
+how￨advmod mani￨compound major￨amod citi￨nsubj are￨cop there￨root
+which￨det state￨compound doe￨compound not￨advmod border￨compound s0￨root
+what￨det river￨nsubj travers￨root the￨det most￨amod state￨obj
+how￨advmod mani￨compound river￨nsubj are￨cop in￨case s0￨root
+how￨advmod mani￨compound citi￨nsubj are￨cop in￨case s0￨root
+what￨det state￨compound border￨compound most￨advmod other￨amod state￨root
+what￨det state￨nsubj has￨root the￨det highest￨amod popul￨obj
+how￨advmod mani￨compound peopl￨nsubj live￨root in￨case s0￨obl
+what￨root is￨cop the￨det highest￨amod point￨nsubj in￨case s0￨nmod
+what￨root is￨cop the￨det highest￨amod mountain￨nsubj in￨case s0￨nmod
+what￨root is￨cop the￨det lowest￨amod point￨nsubj in￨case s0￨nmod
+how￨advmod mani￨compound state￨nsubj have￨root a￨det citi￨compound n0￨obj
+what￨root is￨cop the￨det highest￨amod elev￨nsubj in￨case s0￨nmod
+what￨root is￨cop the￨det lowest￨amod point￨nsubj of￨case s0￨nmod
+what￨det river￨nsubj run￨root through￨case the￨det most￨amod state￨obl
+which￨det state￨compound doe￨nsubj the￨det r￨compound 0￨nummod run￨root through￨advmod
+what￨root is￨cop the￨det biggest￨amod state￨nsubj in￨case co0￨nmod
+which￨det state￨compound doe￨compound the￨det longest￨amod river￨compound cross￨root
+what￨det state￨nsubj has￨root the￨det largest￨amod popul￨compound densiti￨obj
+what￨root are￨cop the￨det biggest￨amod river￨nsubj in￨case s0￨nmod
+what￨det state￨nsubj has￨root the￨det smallest￨amod popul￨compound densiti￨obj
+what￨root is￨cop the￨det biggest￨amod citi￨nsubj in￨case s0￨nmod
+what￨root is￨cop the￨det longest￨amod river￨nsubj in￨case s0￨nmod
+how￨advmod mani￨nmod:poss major￨amod citi￨nsubj are￨cop in￨case s0￨root
+what￨root are￨cop the￨det neighbor￨compound state￨nsubj for￨case s0￨nmod
+what￨root are￨cop the￨det major￨amod citi￨nsubj in￨case s0￨nmod
+what￨root is￨cop the￨det lowest￨amod point￨nsubj in￨case s0￨nmod
+what￨obj s￨aux 0￨nummod citi￨nsubj has￨root the￨det largest￨amod popul￨obj
+what￨root are￨cop the￨det major￨amod citi￨nsubj in￨case s0￨nmod
+what￨root is￨cop the￨det lowest￨amod point￨nsubj in￨case s0￨nmod
+what￨root is￨cop the￨det biggest￨amod citi￨nsubj in￨case s0￨nmod
+what￨root is￨cop the￨det largest￨amod state￨compound border￨compound s0￨nsubj
+what￨root is￨cop the￨det smallest￨amod citi￨nsubj in￨case s0￨nmod
+what￨root is￨cop the￨det area￨nsubj of￨case the￨det state￨nmod
+what￨det state￨nsubj has￨root the￨det highest￨amod popul￨compound densiti￨obj
+what￨root is￨cop the￨det highest￨amod mountain￨nsubj in￨case co0￨nmod
+what￨root is￨cop the￨det biggest￨amod river￨nsubj in￨case s0￨nmod
+what￨root is￨cop the￨det biggest￨amod citi￨nsubj in￨case s0￨nmod
+what￨root is￨cop the￨det lowest￨amod point￨nsubj in￨case s0￨nmod
+what￨root is￨cop the￨det smallest￨amod citi￨nsubj in￨case s0￨nmod
+what￨root is￨cop the￨det lowest￨amod elev￨nsubj in￨case s0￨nmod
+what￨det state￨compound doe￨obj the￨det r￨nsubj 0￨nummod run￨root through￨advmod
+what￨root is￨cop the￨det highest￨amod point￨nsubj in￨case s0￨nmod
+how￨advmod mani￨nsubj squar￨aux kilomet￨root in￨case the￨det co0￨nmod
+what￨root is￨cop the￨det neighbor￨compound state￨nsubj of￨case s0￨nmod
+what￨root are￨cop the￨det major￨amod citi￨nsubj in￨case s0￨nmod
+what￨root is￨cop the￨det largest￨amod citi￨nsubj in￨case s0￨nmod
+what￨det state￨compound border￨nsubj state￨root that￨det border￨compound s0￨obj
+what￨root is￨cop the￨det capit￨nsubj of￨case the￨det s0￨nmod
+what￨root is￨cop the￨det longest￨amod river￨nsubj in￨case co0￨nmod
+how￨advmod mani￨compound citi￨flat doe￨obj the￨det co0￨nsubj have￨root
+what￨root is￨cop the￨det highest￨amod mountain￨nsubj in￨case s0￨nmod
+what￨root are￨cop the￨det major￨amod citi￨nsubj in￨case s0￨nmod
+how￨advmod mani￨compound river￨nsubj are￨cop there￨root in￨obl co0￨punct
+how￨advmod mani￨compound state￨nsubj have￨root a￨det citi￨compound n0￨obj
+what￨root is￨cop the￨det biggest￨amod citi￨nsubj in￨case s0￨nmod
+which￨det state￨compound doe￨nsubj the￨det r￨compound 0￨nummod run￨root through￨advmod
+what￨root is￨cop the￨det largest￨amod citi￨nsubj in￨case s0￨nmod
+what￨root is￨cop the￨det shortest￨amod river￨nsubj in￨case s0￨nmod
+what￨det state￨nsubj is￨cop c0￨case the￨det capit￨root of￨punct
+what￨det river￨nsubj flow￨root through￨case the￨det largest￨amod state￨obl
+what￨root is￨cop the￨det highest￨amod point￨nsubj in￨case s0￨nmod
+which￨det state￨nsubj has￨root the￨det least￨nmod popul￨compound densiti￨obj
+what￨root is￨cop the￨det longest￨amod river￨nsubj in￨case s0￨nmod
+how￨advmod mani￨nmod:poss major￨amod citi￨nsubj are￨cop in￨case s0￨root
+what￨root are￨cop the￨det major￨amod citi￨nsubj in￨case s0￨nmod
+what￨root is￨cop the￨det largest￨amod citi￨nsubj of￨case s0￨nmod
+how￨advmod mani￨nsubj citi￨flat are￨cop there￨root in￨obl co0￨punct
+what￨root is￨cop the￨det shortest￨amod river￨nsubj in￨case s0￨nmod
+what￨det state￨nsubj has￨root the￨det smallest￨amod popul￨compound densiti￨obj
+what￨root is￨cop the￨det largest￨amod citi￨nsubj in￨case s0￨nmod
+how￨advmod mani￨compound state￨nsubj are￨cop there￨root in￨obl co0￨punct
+how￨advmod mani￨compound river￨nsubj are￨cop there￨root in￨case s0￨obl
+what￨root is￨cop the￨det highest￨amod point￨nsubj in￨case s0￨nmod
+which￨det state￨nsubj have￨root a￨det major￨amod citi￨obj
+through￨case which￨det state￨compound doe￨compound the￨det r￨compound 0￨nummod run￨root
+what￨det state￨nsubj are￨cop next￨case to￨case the￨det r0￨root
+what￨det state￨nsubj has￨root the￨det least￨nmod popul￨compound densiti￨obj
+what￨root are￨cop the￨det major￨amod citi￨nsubj in￨case s0￨nmod
+which￨det state￨compound doe￨nsubj the￨det r￨compound 0￨nummod run￨root through￨advmod
+what￨root is￨cop the￨det biggest￨amod citi￨nsubj in￨case s0￨nmod
+what￨root is￨cop the￨det elev￨nsubj of￨case death￨compound valley￨nmod
+where￨root is￨cop the￨det highest￨amod point￨nsubj in￨case s0￨nmod
+which￨det state￨nsubj has￨root the￨det smallest￨amod popul￨compound densiti￨obj
+what￨root are￨cop the￨det major￨amod citi￨nsubj in￨case s0￨nmod
+through￨case which￨det state￨compound doe￨compound the￨det r￨compound 0￨nummod flow￨root
+what￨root are￨cop the￨det major￨amod lake￨nsubj in￨nmod co0￨punct
+what￨root is￨cop the￨det largest￨amod citi￨nsubj in￨case s0￨nmod
+what￨root is￨cop the￨det longest￨amod river￨nsubj in￨case s0￨nmod
+what￨root is￨cop the￨det largest￨amod state￨nsubj in￨case co0￨nmod
+what￨root are￨cop the￨det major￨amod citi￨nsubj in￨case s0￨nmod
+which￨det river￨nsubj run￨root through￨case state￨compound border￨obl
+what￨root is￨cop the￨det smallest￨amod state￨compound border￨compound s0￨nsubj
+how￨advmod mani￨compound state￨compound border￨nsubj the￨det largest￨amod state￨root
+give￨root me￨iobj all￨det:predet the￨det state￨obj of￨case co0￨nmod
+what￨root is￨cop the￨det highest￨amod point￨nsubj in￨case s0￨nmod
+what￨root is￨cop the￨det popul￨compound densiti￨nsubj of￨case s0￨nmod
+how￨advmod mani￨nmod:poss major￨amod citi￨nsubj are￨cop in￨case s0￨root
+what￨det state￨nsubj has￨root the￨det greatest￨amod popul￨compound densiti￨obj
+how￨advmod mani￨compound river￨nsubj:pass are￨aux:pass found￨root in￨case s0￨obl
+what￨root is￨cop the￨det highest￨amod point￨nsubj in￨case s0￨nmod
+where￨root is￨cop the￨det lowest￨amod point￨nsubj in￨case s0￨nmod
+what￨root is￨cop the￨det lowest￨amod point￨nsubj in￨case s0￨nmod
+what￨root is￨cop the￨det shortest￨amod river￨nsubj in￨case s0￨nmod
+what￨root is￨cop the￨det highest￨amod point￨nsubj in￨case s0￨nmod
+what￨root are￨cop the￨det major￨amod citi￨nsubj in￨case s0￨nmod
+what￨root are￨cop the￨det major￨amod citi￨nsubj of￨case s0￨nmod
+which￨det state￨compound doe￨nsubj the￨det r￨compound 0￨nummod pass￨root through￨advmod
+how￨advmod mani￨compound river￨nsubj are￨cop there￨root in￨case s0￨obl
+c0￨nsubj is￨cop the￨det capit￨root of￨case which￨compound state￨nmod
+how￨advmod mani￨nsubj citi￨flat are￨cop there￨root in￨obl co0￨punct
+what￨det state￨nsubj has￨root the￨det largest￨amod urban￨amod popul￨obj
+what￨det river￨nsubj do￨aux not￨advmod run￨root through￨case s0￨obl
+what￨det state￨nsubj have￨root river￨obj run￨xcomp through￨case them￨obl
+what￨root is￨cop the￨det popul￨compound densiti￨nsubj of￨case s0￨nmod
+how￨advmod mani￨compound peopl￨nsubj are￨cop there￨root in￨case s0￨obl
+how￨advmod mani￨compound big￨amod citi￨nsubj are￨cop in￨case s0￨root
+which￨det river￨nsubj run￨root through￨case the￨det most￨amod state￨obl
+what￨root is￨cop the￨det largest￨amod citi￨nsubj in￨case s0￨nmod
+what￨root are￨cop the￨det major￨amod citi￨nsubj in￨case s0￨nmod
+what￨det state￨compound doe￨obj the￨det r￨nsubj 0￨nummod run￨root through￨advmod
+what￨root is￨cop the￨det smallest￨amod citi￨nsubj in￨case s0￨nmod
+what￨root are￨cop the￨det major￨amod citi￨nsubj in￨case s0￨nmod
+state￨root the￨det state￨obj with￨case the￨det largest￨amod area￨obl
+what￨det state￨nsubj is￨cop c0￨case the￨det capit￨root of￨punct
+how￨advmod long￨root is￨cop the￨det r￨nsubj 0￨nummod in￨case mile￨nmod
+what￨root is￨cop the￨det biggest￨amod citi￨nsubj in￨case co0￨nmod
+what￨det state￨compound doe￨nsubj the￨det r￨compound 0￨nummod go￨root through￨advmod
+what￨root is￨cop the￨det smallest￨amod state￨nsubj by￨case area￨nmod
+name￨root the￨det 50￨nummod capit￨obj in￨case the￨det co0￨obl
+what￨root is￨cop the￨det smallest￨amod citi￨nsubj in￨case s0￨nmod
+what￨root is￨cop the￨det biggest￨amod citi￨nsubj in￨case s0￨nmod
+what￨root is￨cop the￨det highest￨amod point￨nsubj in￨case s0￨nmod
+what￨root is￨cop the￨det longest￨amod river￨nsubj in￨case s0￨nmod
+what￨root is￨cop the￨det longest￨amod river￨nsubj in￨case s0￨nmod
+what￨root is￨cop the￨det major￨amod citi￨nsubj in￨case s0￨nmod
+what￨det state￨compound doe￨obj the￨det r￨nsubj 0￨nummod run￨root through￨advmod
+what￨root is￨cop the￨det shortest￨amod river￨nsubj in￨case s0￨nmod
+how￨advmod mani￨compound peopl￨nsubj are￨cop there￨root in￨case s0￨obl
+what￨root is￨cop the￨det highest￨amod elev￨nsubj in￨case s0￨nmod
+what￨det state￨nsubj in￨case the￨det co0￨nmod have￨root n0￨obj
+how￨advmod mani￨compound state￨nsubj are￨cop in￨case the￨det co0￨root
+what￨root is￨cop the￨det popul￨compound densiti￨nsubj of￨case s0￨nmod
+what￨root is￨cop the￨det highest￨amod mountain￨nsubj in￨case the￨det co0￨nmod
+which￨det state￨nsubj is￨cop the￨det citi￨compound c￨compound 0￨nummod locat￨root in￨advmod
+what￨root is￨cop the￨det shortest￨amod river￨nsubj in￨case the￨det co0￨nmod
+what￨root are￨cop the￨det major￨amod citi￨nsubj of￨case the￨det co0￨nmod
+what￨root is￨cop the￨det smallest￨amod state￨nsubj that￨det border￨compound s0￨nsubj
+what￨root is￨cop the￨det area￨nsubj of￨case the￨det largest￨amod state￨nmod
+what￨root is￨cop the￨det longest￨amod river￨nsubj in￨case the￨det co0￨nmod
+what￨root is￨cop the￨det shortest￨amod river￨nsubj in￨case the￨det co0￨nmod
+what￨root is￨cop the￨det state￨nsubj with￨case the￨det lowest￨amod point￨nmod
+what￨det state￨root that￨mark border￨compound s0￨nsubj is￨cop the￨det largest￨acl
+what￨root is￨cop the￨det most￨advmod popul￨amod citi￨nsubj in￨case s0￨nmod
+what￨det capit￨nsubj is￨cop the￨det largest￨root in￨case the￨det co0￨obl
+give￨root me￨iobj the￨det citi￨obj which￨nsubj are￨cop in￨case s0￨acl:relcl
+how￨advmod high￨root is￨cop the￨det highest￨amod point￨nsubj of￨case s0￨nmod
+what￨root is￨cop the￨det most￨advmod popul￨amod state￨compound border￨compound s0￨nsubj
+what￨root is￨cop the￨det biggest￨amod citi￨nsubj in￨case the￨det co0￨nmod
+name￨root the￨det state￨obj which￨nsubj have￨acl:relcl no￨det surround￨amod state￨obj
+how￨advmod mani￨compound state￨compound doe￨nsubj the￨det r￨compound 0￨nummod run￨root through￨advmod
+how￨root mani￨compound state￨compound doe￨obl the￨det r￨compound 0￨nummod flow￨nsubj through￨advmod
+what￨root is￨cop the￨det river￨nsubj that￨nsubj cross￨acl:relcl over￨compound:prt s0￨obj
+what￨root is￨cop the￨det state￨nsubj with￨case the￨det lowest￨amod popul￨nmod
+how￨advmod mani￨compound state￨compound doe￨nsubj the￨det r￨compound 0￨nummod run￨root through￨advmod
+what￨root are￨cop the￨det major￨amod river￨nsubj in￨case the￨det co0￨nmod
+how￨advmod mani￨compound state￨compound doe￨nsubj the￨det r￨compound 0￨nummod run￨root through￨advmod
+can￨aux you￨nsubj tell￨root me￨iobj the￨det capit￨obj of￨case s0￨nmod
+what￨root is￨cop the￨det smallest￨amod state￨nsubj in￨case the￨det co0￨nmod
+what￨root is￨cop the￨det longest￨amod river￨compound flow￨nsubj through￨case s0￨nmod
+what￨root is￨cop the￨det highest￨amod point￨nsubj in￨case the￨det co0￨nmod
+what￨root is￨cop the￨det lowest￨amod point￨nsubj in￨case the￨det co0￨nmod
+how￨advmod mani￨compound state￨nsubj have￨root citi￨obj or￨cc town￨conj n0￨obj
+how￨advmod mani￨nmod:poss major￨amod citi￨nsubj are￨cop there￨root in￨case s0￨obl
+what￨root are￨cop the￨det lake￨compound in￨case state￨compound border￨compound s0￨nsubj
+what￨root are￨cop the￨det major￨amod citi￨nsubj of￨case the￨det co0￨nmod
+what￨root is￨cop the￨det largest￨amod state￨nsubj that￨det border￨compound s0￨nsubj
+what￨root is￨cop the￨det capit￨nsubj of￨case the￨det largest￨amod state￨nmod
+what￨root is￨cop the￨det total￨amod area￨nsubj of￨case the￨det co0￨nmod
+how￨advmod big￨root is￨cop the￨det largest￨amod citi￨nsubj in￨case s0￨nmod
+what￨root is￨cop the￨det largest￨amod state￨nsubj in￨case the￨det co0￨nmod
+what￨root is￨cop the￨det popul￨nsubj of￨case the￨det largest￨amod state￨nmod
+how￨advmod high￨root is￨cop the￨det highest￨amod point￨nsubj of￨case s0￨nmod
+what￨det river￨compound flow￨root through￨case state￨nmod that￨nsubj s￨cop 0￨nummod border￨acl:relcl
+how￨advmod high￨root is￨cop the￨det highest￨amod point￨nsubj of￨case s0￨nmod
+how￨root mani￨compound state￨nsubj are￨cop next￨case to￨case major￨amod river￨obl
+what￨root is￨cop the￨det lowest￨amod point￨nsubj of￨case the￨det co0￨nmod
+what￨nsubj citi￨nsubj in￨case s￨case 0￨nmod have￨root the￨det highest￨amod popul￨obj
+what￨root is￨cop the￨det highest￨amod point￨nsubj in￨case the￨det co0￨nmod
+what￨root is￨cop the￨det area￨nsubj of￨case the￨det smallest￨amod state￨nmod
+what￨det state￨compound doe￨obj the￨det shortest￨amod river￨nsubj run￨root through￨advmod
+how￨root mani￨compound state￨compound border￨nmod:poss s￨case 1￨nummod and￨cc border￨conj s0￨nsubj
+how￨advmod high￨root is￨cop the￨det highest￨amod point￨nsubj in￨case s0￨nmod
+what￨root is￨cop the￨det biggest￨amod citi￨nsubj in￨case the￨det co0￨nmod
+how￨advmod mani￨compound state￨compound doe￨nsubj the￨det r￨compound 0￨nummod run￨root through￨advmod
+what￨root is￨cop the￨det largest￨amod state￨compound capit￨nsubj in￨case popul￨nmod
+what￨root is￨cop the￨det most￨advmod popul￨amod citi￨nsubj in￨case s0￨nmod
+what￨root is￨cop the￨det longest￨amod river￨nsubj in￨case the￨det co0￨nmod
+where￨root is￨cop the￨det lowest￨amod point￨nsubj in￨case the￨det co0￨nmod
+what￨root is￨cop the￨det shortest￨amod river￨nsubj in￨case the￨det co0￨nmod
+what￨root is￨cop the￨det capit￨nsubj of￨case the￨det state￨compound s0￨nmod
+what￨root is￨cop the￨det citi￨nsubj with￨case the￨det smallest￨amod popul￨nmod
+what￨root is￨cop the￨det biggest￨amod state￨nsubj in￨case the￨det co0￨nmod
+how￨advmod mani￨nsubj citi￨nsubj are￨cop there￨root in￨case the￨det co0￨obl
+what￨root is￨cop the￨det highest￨amod point￨nsubj in￨case the￨det co0￨nmod
+what￨root are￨cop the￨det high￨amod point￨nsubj of￨case state￨compound surround￨amod s0￨nmod
+which￨det state￨compound border￨compound state￨root through￨case which￨nmod the￨det r￨compound 0￨nummod travers￨nmod
+which￨det capit￨nsubj are￨cop in￨case the￨det state￨root that￨det border￨compound s0￨nmod:npmod
+what￨root are￨cop the￨det river￨nsubj in￨case the￨det state￨nmod of￨case s0￨nmod
+which￨det state￨nsubj is￨cop the￨det largest￨amod citi￨root in￨case s￨case 0￨nmod in￨punct
+which￨det state￨nsubj has￨root the￨det highest￨amod mountain￨obj in￨case the￨det co0￨nmod
+what￨det state￨nsubj has￨root the￨det most￨amod river￨obj run￨acl through￨case it￨obl
+what￨root is￨cop the￨det number￨nsubj of￨case neighbor￨compound state￨nmod for￨case s0￨obl
+what￨root are￨cop the￨det river￨nsubj in￨case the￨det state￨nmod of￨case s0￨nmod
+what￨root are￨cop the￨det state￨nsubj that￨obj the￨det r￨aux 0￨acl:relcl run￨acl:relcl through￨advmod
+what￨det state￨nsubj has￨root the￨det citi￨obj with￨case the￨det largest￨amod popul￨nmod
+what￨root is￨cop the￨det largest￨amod citi￨nsubj in￨case s￨case 0￨nmod by￨case popul￨nmod
+how￨advmod mani￨compound citi￨compound n￨nsubj 0￨nummod are￨cop there￨root in￨case the￨det co0￨obl
+what￨root are￨cop the￨det major￨amod citi￨nsubj in￨case the￨det largest￨amod state￨nmod
+what￨det state￨nsubj contain￨root the￨det highest￨amod point￨obj in￨case the￨det co0￨nmod
+what￨root is￨cop the￨det area￨nsubj of￨case all￨det:predet the￨det state￨compound combin￨nmod
+which￨det state￨nsubj has￨root the￨det most￨amod river￨obj run￨acl through￨case it￨obl
+what￨root is￨cop the￨det state￨nsubj with￨case the￨det largest￨amod popul￨compound densiti￨nmod
+what￨root is￨cop the￨det smallest￨amod citi￨nsubj in￨case the￨det largest￨amod state￨nmod
+what￨det state￨compound border￨root the￨det state￨nsubj with￨case the￨det smallest￨amod popul￨nmod
+what￨root is￨cop the￨det longest￨amod river￨nsubj that￨nsubj flow￨acl:relcl through￨case s￨case 0￨obl
+what￨root is￨cop the￨det area￨nsubj of￨case s￨case 0￨nmod in￨case squar￨nmod kilomet￨punct
+how￨advmod mani￨compound major￨amod citi￨nsubj are￨cop in￨case state￨compound border￨compound s0￨root
+what￨det state￨nsubj has￨root the￨det citi￨obj with￨case the￨det most￨advmod popul￨nmod
+what￨det state￨obj that￨det border￨nmod:poss s￨case 0￨nsubj has￨root the￨det highest￨amod popul￨obj
+what￨det state￨nsubj is￨cop the￨det state￨root with￨case the￨det most￨amod river￨nmod
+what￨root are￨cop the￨det highest￨amod point￨nsubj of￨case state￨compound surround￨amod s0￨nmod
+what￨root is￨cop the￨det combin￨amod popul￨nsubj of￨case all￨det 50￨nummod state￨nmod
+what￨root is￨cop the￨det largest￨amod state￨compound travers￨nsubj by￨case the￨det r0￨nmod
+how￨advmod mani￨compound peopl￨nsubj are￨cop in￨case the￨det state￨root of￨case s0￨nmod
+how￨advmod long￨root is￨cop the￨det shortest￨amod river￨nsubj in￨case the￨det co0￨nmod
+what￨root is￨cop the￨det popul￨compound densiti￨nsubj of￨case the￨det smallest￨amod state￨nmod
+how￨root mani￨compound state￨compound border￨nsubj at￨case least￨nmod one￨nummod other￨amod state￨nmod
+what￨det state￨compound border￨root the￨det state￨nsubj with￨case the￨det most￨amod citi￨nmod
+what￨root is￨cop the￨det biggest￨amod citi￨nsubj in￨case the￨det smallest￨amod state￨nmod
+what￨root is￨cop the￨det most￨advmod popul￨amod capit￨nsubj in￨case the￨det co0￨nmod
+what￨root is￨cop the￨det size￨nsubj of￨case the￨det capit￨nmod of￨case s0￨nmod
+which￨det state￨compound border￨nsubj the￨det longest￨amod river￨root in￨case the￨det co0￨nmod
+what￨det river￨nsubj is￨cop the￨det longest￨amod one￨root in￨case the￨det co0￨nmod
+what￨root is￨cop the￨det highest￨amod point￨nsubj in￨case the￨det smallest￨amod state￨nmod
+show￨root me￨iobj all￨det:predet the￨det major￨amod lake￨obj in￨case the￨det co0￨obl
+which￨det state￨nsubj has￨root the￨det smallest￨amod area￨obj that￨det border￨compound s0￨nmod:npmod
+how￨advmod mani￨compound peopl￨nsubj live￨root in￨case the￨det capit￨obl of￨case s0￨nmod
+how￨advmod mani￨compound river￨nsubj run￨root through￨case the￨det state￨compound border￨compound s0￨obl
+how￨advmod mani￨compound major￨amod citi￨nsubj are￨cop in￨case state￨compound border￨compound s0￨root
+what￨det state￨compound border￨compound state￨root which￨obj the￨det r￨aux 0￨nsubj run￨acl:relcl through￨advmod
+what￨root is￨cop the￨det most￨advmod popul￨amod state￨nsubj in￨case the￨det co0￨nmod
+what￨root is￨cop the￨det state￨nsubj with￨case the￨det lowest￨amod popul￨nmod densiti￨punct
+what￨det state￨compound border￨compound state￨root that￨mark the￨det r￨aux 0￨nsubj run￨acl:relcl through￨advmod
+what￨root is￨cop the￨det length￨nsubj of￨case the￨det r￨compound 0￨nmod in￨case s0￨nmod
+what￨root is￨cop the￨det state￨nsubj that￨nsubj contain￨acl:relcl the￨det highest￨amod point￨obj
+in￨case which￨det state￨compound doe￨obl the￨det highest￨amod point￨nsubj in￨case co0￨nmod exist￨root
+how￨advmod high￨root is￨cop the￨det highest￨amod point￨nsubj in￨case the￨det largest￨amod state￨nmod
+what￨root are￨cop the￨det state￨nsubj through￨case which￨obl the￨det longest￨amod river￨compound run￨acl:relcl
+what￨root is￨cop the￨det averag￨amod popul￨nsubj per￨case squar￨compound km￨nmod in￨case s0￨nmod
+give￨root me￨iobj the￨det longest￨amod river￨obj that￨nsubj pass￨acl:relcl through￨case the￨det co0￨obl
+what￨root are￨cop the￨det name￨nsubj of￨case the￨det major￨amod citi￨nmod in￨case s0￨nmod
+what￨det river￨nsubj flow￨root through￨case the￨det state￨obl with￨case the￨det largest￨amod popul￨obl
+what￨det state￨compound high￨amod point￨nsubj are￨cop -￨punct er￨root than￨case that￨obl of￨case s0￨nmod
+what￨root are￨cop the￨det capit￨nsubj of￨case the￨det state￨nmod that￨det border￨compound s0￨nsubj
+what￨det state￨nsubj has￨root the￨det most￨advmod major￨amod river￨obj run￨acl through￨case it￨obl
+how￨advmod mani￨compound river￨nsubj in￨case s￨case 0￨nmod are￨cop -￨punct er￨root than￨case the￨det r0￨nmod
+how￨advmod mani￨compound peopl￨nsubj live￨root in￨case the￨det smallest￨amod state￨compound border￨compound s0￨obl
+how￨advmod high￨root are￨cop the￨det highest￨amod point￨nsubj of￨case all￨det:predet the￨det state￨nmod
+what￨root is￨cop the￨det height￨nsubj of￨case the￨det highest￨amod mountain￨nmod in￨case s0￨nmod
+what￨root is￨cop the￨det state￨nsubj with￨case the￨det largest￨amod densiti￨nmod in￨case co0￨nmod
+what￨nsubj citi￨nsubj in￨case s￨case 0￨nmod have￨root the￨det highest￨amod number￨obj of￨case citizen￨nmod
+what￨root is￨cop the￨det lowest￨amod point￨nsubj in￨case the￨det state￨nmod of￨case s0￨nmod
+what￨obj can￨aux you￨nsubj tell￨root me￨obj about￨case the￨det popul￨obl of￨case s0￨nmod
+what￨det state￨compound border￨nsubj state￨root that￨det border￨compound state￨obj that￨det border￨compound s0￨obj
+what￨root is￨cop the￨det largest￨amod citi￨nsubj in￨case state￨nmod that￨det border￨compound s0￨appos
+which￨det state￨nsubj lie￨root on￨case the￨det largest￨amod river￨obl in￨case the￨det co0￨obl
+what￨root is￨cop the￨det averag￨amod popul￨nsubj of￨case the￨det co0￨nmod by￨case state￨nmod
+what￨root is￨cop the￨det popul￨nsubj of￨case the￨det major￨amod citi￨nmod in￨case s0￨nmod
+what￨root is￨cop the￨det citi￨nsubj in￨case s￨case 0￨nmod with￨case the￨det largest￨amod popul￨nmod
+what￨root are￨cop the￨det popul￨nsubj of￨case state￨nmod through￨case which￨obl the￨det r￨compound 0￨nummod run￨acl:relcl
+how￨advmod mani￨compound state￨compound border￨root the￨det state￨appos that￨det border￨nmod:npmod the￨det most￨amod state￨appos
+what￨root is￨cop the￨det popul￨nsubj of￨case the￨det capit￨nmod of￨case the￨det smallest￨amod state￨nmod
+what￨root is￨cop the￨det highest￨amod point￨nsubj in￨case the￨det state￨nmod with￨case capit￨compound c0￨nmod
+what￨root is￨cop the￨det total￨amod popul￨nsubj of￨case the￨det state￨nmod that￨det border￨compound s0￨nsubj
+what￨root is￨cop the￨det smallest￨amod state￨nsubj through￨case which￨obl the￨det longest￨amod river￨compound run￨acl:relcl
+how￨advmod mani￨compound river￨nsubj are￨cop in￨case the￨det state￨root with￨case the￨det highest￨amod point￨nmod
+what￨root is￨cop the￨det length￨nsubj of￨case the￨det longest￨amod river￨nmod in￨case the￨det co0￨nmod
+what￨root is￨cop the￨det capit￨nsubj of￨case the￨det state￨nmod with￨case the￨det highest￨amod point￨nmod
+what￨root is￨cop the￨det averag￨amod popul￨nsubj per￨case squar￨compound km￨nmod in￨case the￨det co0￨nmod
+what￨root are￨cop the￨det popul￨nsubj of￨case all￨det:predet the￨det major￨amod citi￨nmod in￨case s0￨nmod
+what￨root are￨cop the￨det popul￨nsubj of￨case state￨nmod through￨case which￨obl the￨det r￨compound 0￨nummod run￨acl:relcl
+what￨root is￨cop the￨det size￨nsubj of￨case the￨det largest￨amod state￨nmod in￨case the￨det co0￨nmod
+what￨root is￨cop the￨det area￨nsubj of￨case the￨det state￨nmod with￨case the￨det capit￨compound c0￨nmod
+which￨det state￨nsubj have￨aux point￨nsubj -er￨root than￨case the￨det highest￨amod point￨obl in￨case s0￨nmod
+what￨root are￨cop the￨det capit￨amod citi￨nsubj of￨case the￨det state￨nmod which￨nsubj border￨compound s0￨acl:relcl
+what￨root is￨cop the￨det name￨nsubj of￨case the￨det state￨nmod with￨case the￨det lowest￨amod point￨nmod
+what￨root is￨cop the￨det longest￨amod river￨nsubj that￨nsubj doe￨aux not￨advmod run￨acl:relcl through￨case s0￨obl
+what￨root is￨cop the￨det elev￨nsubj of￨case the￨det highest￨amod point￨nmod in￨case the￨det co0￨nmod
+what￨det state￨compound border￨root the￨det least￨nmod state￨compound exclud￨appos s￨case 0￨appos and￨cc exclud￨conj s￨case 1￨appos
+what￨root is￨cop the￨det largest￨amod citi￨nsubj in￨case a￨det state￨nmod that￨det border￨compound s0￨appos
+how￨root mani￨compound state￨compound border￨nsubj on￨case the￨det state￨nmod whose￨nmod:poss capit￨nsubj is￨cop c0￨acl:relcl
+what￨root is￨cop the￨det popul￨compound densiti￨nsubj in￨case the￨det state￨nmod with￨case capit￨compound c0￨nmod
+what￨root is￨cop the￨det popul￨nsubj of￨case the￨det largest￨amod state￨nmod that￨det border￨compound s0￨appos
+what￨root is￨cop the￨det popul￨nsubj of￨case the￨det capit￨nmod of￨case the￨det largest￨amod state￨nmod
+what￨root is￨cop the￨det capit￨nsubj of￨case the￨det state￨nmod with￨case the￨det highest￨amod elev￨nmod
+what￨det state￨nsubj which￨obl the￨det r￨aux 0￨advmod run￨acl:relcl through￨case has￨root the￨det largest￨amod popul￨obj
+what￨root is￨cop the￨det height￨nsubj of￨case the￨det highest￨amod point￨nmod in￨case the￨det co0￨nmod
+how￨advmod mani￨compound river￨nsubj are￨cop in￨case the￨det state￨root with￨case the￨det largest￨amod popul￨nmod
+what￨root is￨cop the￨det popul￨nsubj of￨case the￨det state￨nmod with￨case the￨det largest￨amod area￨nmod
+what￨root is￨cop the￨det state￨nsubj with￨case the￨det highest￨amod elev￨nmod in￨case the￨det co0￨nmod
+what￨root are￨cop the￨det major￨amod citi￨nsubj in￨case the￨det smallest￨amod state￨nmod in￨case the￨det co0￨nmod
+how￨advmod mani￨compound state￨nsubj in￨case the￨det co0￨compound doe￨nmod the￨det shortest￨amod river￨nsubj run￨root through￨advmod
+what￨root is￨cop the￨det highest￨amod point￨nsubj of￨case the￨det state￨nmod with￨case the￨det largest￨amod area￨nmod
+what￨root are￨cop the￨det popul￨nsubj of￨case the￨det state￨nmod through￨case which￨obl the￨det r￨compound 0￨nummod run￨acl:relcl
+what￨root is￨cop the￨det longest￨amod river￨nsubj in￨case the￨det state￨nmod with￨case the￨det highest￨amod point￨nmod
+what￨root is￨cop the￨det length￨nsubj of￨case the￨det river￨nmod that￨nsubj travers￨acl:relcl the￨det most￨amod state￨obj
+what￨root are￨cop the￨det state￨nsubj that￨nsubj border￨acl:relcl the￨det state￨obj with￨case the￨det greatest￨amod popul￨obl
+what￨root is￨cop the￨det popul￨amod densiti￨nsubj of￨case the￨det state￨nmod with￨case the￨det smallest￨amod popul￨nmod
+of￨case the￨det state￨compound wash￨root by￨case the￨det r￨nmod 0￨nummod which￨nsubj has￨acl:relcl the￨det lowest￨amod point￨obj
+what￨root is￨cop the￨det area￨nsubj of￨case the￨det state￨nmod with￨case the￨det smallest￨amod popul￨nmod densiti￨punct
+what￨root is￨cop the￨det capit￨amod citi￨nsubj of￨case the￨det largest￨amod state￨nmod in￨case the￨det co0￨nmod
+what￨root is￨cop the￨det highest￨amod point￨nsubj in￨case the￨det state￨nmod with￨case the￨det capit￨compound c0￨nmod
+what￨root is￨cop the￨det highest￨amod point￨nsubj in￨case the￨det state￨nmod with￨case the￨det smallest￨amod popul￨nmod
+how￨advmod mani￨compound river￨nsubj do￨aux not￨advmod travers￨root the￨det state￨obj with￨case the￨det capit￨compound c0￨obl
+what￨root are￨cop the￨det popul￨nsubj of￨case the￨det state￨nmod through￨case which￨obl the￨det r￨compound 0￨nummod run￨acl:relcl
+what￨det state￨compound border￨compound state￨nsubj that￨nsubj border￨root the￨det state￨obj with￨case the￨det largest￨amod popul￨obl
+what￨root is￨cop the￨det smallest￨amod citi￨nsubj of￨case the￨det smallest￨amod state￨nmod in￨case the￨det co0￨nmod
+what￨root is￨cop the￨det lowest￨amod point￨nsubj of￨case the￨det state￨nmod with￨case the￨det largest￨amod area￨nmod
+what￨root are￨cop the￨det popul￨nsubj of￨case the￨det state￨nmod through￨case which￨obl the￨det r￨compound 0￨nummod run￨acl:relcl
+what￨root is￨cop the￨det largest￨nsubj of￨case the￨det state￨obl that￨obj the￨det r￨aux 0￨acl:relcl run￨acl:relcl through￨advmod
+what￨root is￨cop the￨det highest￨amod point￨nsubj in￨case the￨det state￨nmod with￨case the￨det most￨amod river￨nmod
+what￨root is￨cop the￨det popul￨amod densiti￨nsubj of￨case the￨det state￨nmod with￨case the￨det smallest￨amod area￨nmod
+what￨root is￨cop the￨det capit￨nsubj of￨case the￨det state￨nmod that￨nsubj border￨acl:relcl the￨det most￨amod state￨obj
+what￨root is￨cop the￨det longest￨amod river￨nsubj in￨case the￨det smallest￨amod state￨nmod in￨case the￨det co0￨nmod
+what￨root are￨cop the￨det popul￨nsubj of￨case the￨det state￨nmod through￨case which￨obl the￨det r￨compound 0￨nummod run￨acl:relcl
+how￨advmod mani￨compound peopl￨nsubj live￨root in￨case the￨det state￨obl with￨case the￨det largest￨amod popul￨compound densiti￨obl
+what￨root is￨cop the￨det longest￨amod river￨nsubj that￨nsubj run￨acl:relcl through￨case a￨det state￨obl that￨det border￨compound s0￨appos
+what￨root are￨cop the￨det largest￨amod citi￨nsubj in￨case the￨det state￨nmod that￨nsubj border￨nsubj the￨det largest￨amod state￨acl:relcl
+which￨det state￨nsubj have￨root point￨obj that￨nsubj are￨cop -￨punct er￨amod than￨case the￨det highest￨amod point￨obl in￨case s0￨nmod
+what￨det state￨compound border￨nsubj state￨advcl that￨det border￨compound state￨obj that￨det border￨nsubj state￨root that￨det border￨compound s0￨obj
+which￨det river￨nsubj run￨root through￨case the￨det state￨obl with￨case the￨det lowest￨amod elev￨obl in￨case the￨det co0￨nmod
+which￨nsubj is￨cop the￨det lowest￨amod point￨root of￨case the￨det state￨nmod that￨mark the￨det r￨aux 0￨nsubj run￨acl:relcl through￨advmod
+what￨det river￨nsubj run￨root through￨case the￨det state￨obl with￨case the￨det lowest￨amod point￨obl in￨case the￨det co0￨nmod
+what￨det state￨nsubj have￨root a￨det capit￨obj that￨nsubj is￨cop the￨det highest￨amod point￨acl:relcl in￨case the￨det state￨nmod
+what￨det river￨nsubj flow￨root through￨case state￨obl that￨nsubj border￨acl:relcl the￨det state￨obj with￨case the￨det largest￨amod popul￨obl
+what￨root is￨cop the￨det largest￨amod state￨nsubj that￨nsubj border￨nsubj the￨det state￨acl:relcl with￨case the￨det highest￨amod popul￨nmod
+which￨det river￨nsubj run￨root through￨case the￨det state￨obl with￨case the￨det largest￨amod citi￨obl in￨case the￨det co0￨nmod
+could￨aux you￨nsubj tell￨root me￨obj what￨ccomp is￨cop the￨det highest￨amod point￨nsubj in￨case the￨det state￨nmod of￨case s0￨nmod
+what￨root is￨cop the￨det highest￨amod point￨nsubj in￨case each￨det state￨nmod whose￨nmod:poss lowest￨amod point￨nsubj is￨cop sea￨compound level￨acl:relcl
+what￨det river￨nsubj run￨root through￨case the￨det state￨obl that￨nsubj border￨acl:relcl the￨det state￨obj with￨case the￨det capit￨compound c0￨obl
+what￨root is￨cop the￨det capit￨nsubj of￨case the￨det state￨nmod that￨nsubj border￨acl:relcl the￨det state￨obj that￨det border￨compound s0￨nmod:npmod
+what￨root is￨cop the￨det length￨nsubj of￨case the￨det river￨nmod that￨nsubj run￨acl:relcl through￨case the￨det most￨amod number￨obl of￨case state￨nmod
+what￨root are￨cop the￨det major￨amod citi￨nsubj in￨case the￨det state￨nmod through￨case which￨nmod the￨det major￨amod river￨nsubj in￨case s￨case 0￨nummod run￨nmod
+what￨root is￨cop the￨det largest￨amod state￨nsubj that￨nsubj border￨nsubj the￨det state￨acl:relcl with￨case the￨det lowest￨amod point￨nmod in￨case the￨det co0￨nmod
+what￨root is￨cop the￨det popul￨nsubj of￨case the￨det capit￨nmod of￨case the￨det largest￨amod state￨nmod through￨case which￨obl the￨det r￨compound 0￨nummod run￨acl:relcl
+what￨root is￨cop the￨det longest￨amod river￨nsubj that￨nsubj pass￨acl:relcl the￨det state￨obj that￨nsubj border￨acl:relcl the￨det state￨obj that￨nsubj border￨acl:relcl the￨det most￨amod state￨obj

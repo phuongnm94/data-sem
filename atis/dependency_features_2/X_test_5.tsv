@@ -1,0 +1,448 @@
+list￨compound airport￨root
+list￨compound airport￨root
+list￨root ci0￨punct
+list￨root ci0￨punct
+list￨compound st0￨compound airport￨root
+list￨compound st0￨compound airport￨root
+what￨nsubj is￨cop ap0￨root
+ci0￨root to￨case c￨nmod i1￨nmod
+what￨nsubj is￨cop ac0￨root
+what￨nsubj is￨cop ap0￨root
+list￨root the￨det st0￨compound airport￨obj
+what￨nsubj are￨aux restrict￨root rc0￨punct
+what￨root airlin￨nsubj is￨cop al0￨punct
+which￨det airlin￨nsubj is￨root al0￨punct
+ci0￨root to￨case ci1￨obl economi￨flat
+ci0￨root to￨case ci1￨obl economi￨flat
+what￨root airlin￨nsubj is￨cop al0￨punct
+ground￨compound transport￨root in￨case ci0￨nmod
+ground￨compound transport￨root for￨case ci0￨nmod
+ci0￨root to￨case ci1￨obl economi￨flat
+ci0￨root to￨case ci1￨obl economi￨flat
+ci1￨root to￨case ci0￨obl economi￨flat
+what￨root airlin￨nsubj is￨cop al0￨punct
+which￨det airlin￨nsubj is￨root al0￨punct
+which￨det airlin￨nsubj is￨root al0￨punct
+which￨det airlin￨nsubj is￨root al0￨punct
+which￨det airlin￨nsubj is￨root al0￨punct
+what￨root airlin￨nsubj is￨cop al0￨punct
+what￨root airlin￨nsubj is￨cop al0￨punct
+what￨root airlin￨nsubj is￨cop al0￨punct
+what￨root airlin￨nsubj is￨cop al0￨punct
+what￨root airlin￨nsubj is￨cop al0￨punct
+what￨root airlin￨nsubj is￨cop al0￨punct
+what￨root airlin￨nsubj is￨cop al0￨punct
+list￨compound airport￨root in￨case ci0￨nmod
+list￨compound airport￨root in￨case ci0￨nmod
+list￨compound airport￨root in￨case ci0￨nmod
+list￨compound airport￨root in￨case ci0￨nmod
+list￨compound airport￨root in￨case ci0￨nmod
+what￨root is￨cop a￨det ac0￨nsubj
+what￨root is￨cop a￨det ac0￨nsubj
+what￨det airlin￨compound serv￨root ci0￨punct
+which￨det airlin￨nsubj is￨root al0￨punct
+list￨root all￨det al0￨det flight￨obj
+flight￨root from￨case ci0￨nmod to￨case ci1￨nmod
+flight￨root from￨case ci0￨nmod to￨case ci1￨nmod
+flight￨root from￨case ci0￨nmod to￨case ci1￨nmod
+list￨compound st￨root 0￨nummod st￨compound 1￨nummod st2￨compound airport￨appos
+list￨root the￨det airport￨obj in￨case ci0￨obl
+list￨compound ground￨compound transport￨root in￨case ci0￨nmod
+ci0￨root to￨mark ci1￨xcomp on￨case da0￨obl
+ci0￨root to￨case ci1￨obl da0￨flat morn￨obl
+ci0￨root to￨mark ci1￨xcomp on￨case da0￨obl
+ci0￨root to￨case ci1￨obl da0￨flat morn￨obl
+ci0￨root to￨mark ci1￨xcomp after￨advmod ti0￨obl
+ci0￨root to￨mark ci1￨advcl befor￨case ti0￨obl
+ci0￨root to￨mark ci1￨advcl mn0￨obj dn0￨punct
+ci0￨root to￨mark ci1￨advcl da0￨compound afternoon￨obj
+ci0￨root to￨mark ci1￨advcl da0￨compound afternoon￨obj
+ci1￨root to￨mark ci0￨advcl da0￨compound afternoon￨obj
+ci0￨root to￨case ci1￨obl da0￨flat morn￨obl
+ci1￨root to￨mark ci0￨advcl da0￨compound morn￨obj
+ci0￨root to￨case ci1￨det afternoon￨obl da0￨punct
+ci1￨root to￨mark ci0￨advcl da0￨obj even￨advmod
+ci0￨root to￨mark ci1￨xcomp on￨case da0￨obl
+ci0￨root to￨mark ci1￨xcomp on￨case da0￨obl
+ci0￨root to￨mark ci1￨xcomp on￨case da0￨obl
+how￨advmod mani￨nsubj al0￨cop leav￨root ci0￨punct
+how￨advmod mani￨nsubj al0￨cop leav￨root ci0￨punct
+are￨cop snack￨compound serv￨root on￨case al0￨nmod
+what￨nsubj airlin￨aux fli￨root into￨obl ci0￨punct
+is￨cop ground￨compound transport￨compound avail￨root in￨case ci0￨nmod
+get￨root fare￨obj from￨case ci0￨obl to￨case ci1￨obl
+get￨root fare￨obj from￨case ci0￨obl to￨case ci1￨obl
+get￨root flight￨obj from￨case ci0￨obl to￨case ap0￨obl
+list￨compound flight￨root from￨case ci0￨nmod to￨case ci1￨nmod
+get￨root flight￨obj from￨case ci0￨obl to￨case ci1￨obl
+get￨root flight￨obj from￨case ci0￨obl to￨case ci1￨obl
+get￨root flight￨obj between￨case ci0￨nmod and￨cc ci1￨conj
+list￨compound flight￨root from￨case ci0￨nmod to￨case ci1￨nmod
+what￨det doe￨compound fare￨compound code￨nsubj fb0￨aux mean￨root
+what￨obj the￨det abbrevi￨nsubj al0￨aux stand￨root for￨punct
+what￨det doe￨compound fare￨compound code￨nsubj fb0￨aux mean￨root
+what￨det doe￨compound fare￨compound code￨nsubj fb0￨aux mean￨root
+what￨det doe￨compound fare￨compound code￨nsubj fb0￨aux mean￨root
+what￨det doe￨compound fare￨compound code￨nsubj fb0￨aux mean￨root
+what￨det doe￨compound fare￨compound code￨nsubj fb0￨aux mean￨root
+what￨det doe￨compound fare￨compound code￨nsubj fb0￨aux mean￨root
+what￨det doe￨compound fare￨compound code￨nsubj fb0￨aux mean￨root
+what￨det doe￨compound fare￨compound code￨nsubj fb0￨aux mean￨root
+show￨root me￨iobj ground￨compound transport￨obj in￨case ci0￨obl
+show￨root me￨iobj ground￨compound transport￨obj in￨case ci0￨obl
+what￨det doe￨compound fare￨compound code￨nsubj fb0￨aux mean￨root
+what￨root doe￨cop the￨det restrict￨nsubj rc0￨nsubj mean￨acl:relcl
+what￨det doe￨compound fare￨compound code￨nsubj fb0￨aux mean￨root
+what￨det airlin￨nsubj is￨aux al0￨root in￨case sam￨obl
+list￨compound flight￨root from￨case ci1￨nmod to￨case ci0￨nmod
+list￨compound flight￨root from￨case ci1￨nmod to￨case ci0￨nmod
+list￨compound flight￨root from￨case ci0￨nmod to￨case ci1￨nmod
+list￨compound flight￨root from￨case ci0￨nmod to￨case ci1￨nmod
+list￨compound flight￨root from￨case ci1￨nmod to￨case ci0￨nmod
+list￨compound flight￨root from￨case ci0￨nmod to￨case ci1￨nmod
+list￨compound flight￨root from￨case ci1￨nmod to￨case ci0￨nmod
+list￨compound flight￨root from￨case ci0￨nmod to￨case ci1￨nmod
+list￨compound flight￨root from￨case ci0￨nmod to￨case ci1￨nmod
+list￨compound flight￨root from￨case ci0￨nmod to￨case ci1￨nmod
+list￨compound flight￨root from￨case ap0￨nmod to￨case ci0￨nmod
+list￨compound flight￨root from￨case ci0￨nmod to￨case ci1￨nmod
+what￨det class￨nsubj is￨cop fare￨compound code￨root fb0￨punct
+list￨compound al0￨root from￨case ci1￨nmod to￨case ci0￨nmod
+flight￨compound number￨root from￨case ci0￨nmod to￨case ci1￨nmod
+flight￨compound number￨root from￨case ci0￨nmod to￨case ci1￨nmod
+flight￨compound number￨root from￨case ci0￨nmod to￨case ci1￨nmod
+ci0￨root to￨mark ci1￨xcomp on￨case da0￨compound afternoon￨obl
+ci0￨root to￨case ci1￨det afternoon￨obl on￨case da0￨obl
+what￨obj citi￨compound doe￨nsubj al0￨root fli￨obj to￨punct
+are￨aux meal￨nsubj ever￨advmod serv￨root on￨obl al0￨punct
+show￨root al0￨obj from￨case ci1￨obl to￨case ci0￨obl
+tell￨root me￨obj about￨case the￨det ac0￨compound aircraft￨obl
+tell￨root me￨obj about￨case the￨det ac0￨compound aircraft￨obl
+list￨root the￨det al0￨amod flight￨obj from￨case ci0￨nmod
+list￨root all￨det flight￨obj depart￨parataxis from￨case ci0￨obl
+what￨det flight￨nsubj go￨root from￨case ci0￨obl to￨case ci1￨obl
+what￨det flight￨nsubj go￨root from￨case ci1￨obl to￨case ci0￨obl
+get￨root da0￨det fare￨obj from￨case ci0￨obl to￨case ci1￨obl
+get￨root da0￨det fare￨obj from￨case ci0￨obl to￨case ci1￨obl
+get￨root da0￨det fare￨obj from￨case ci0￨obl to￨case ci1￨obl
+list￨compound da0￨amod flight￨root from￨case ci0￨nmod to￨case ci1￨nmod
+list￨compound da0￨amod flight￨root from￨case ci0￨nmod to￨case ci1￨nmod
+which￨det airlin￨compound fli￨root between￨case ci1￨nmod and￨cc ci0￨conj
+show￨root me￨iobj flight￨obj from￨case ci0￨nmod to￨case ci1￨obl
+ci0￨root to￨mark ci1￨xcomp one￨nummod way￨obj befor￨advmod ti0￨punct
+show￨root me￨iobj flight￨obj from￨case ci1￨nmod to￨case ci0￨obl
+show￨root me￨iobj flight￨obj from￨case ci0￨nmod to￨case ci1￨obl
+list￨compound flight￨root from￨case ci0￨compound california￨nmod to￨case ci1￨nmod
+list￨compound flight￨root from￨case ci0￨compound california￨nmod to￨case ci1￨nmod
+list￨compound flight￨root from￨case ci0￨nmod on￨case da0￨compound afternoon￨nmod
+what￨det ground￨compound transport￨nsubj is￨cop there￨root in￨case ci0￨obl
+what￨obj citi￨compound doe￨nsubj al0￨aux fli￨root out￨case of￨obl
+list￨root the￨det citi￨obj from￨case which￨obl al0￨compound fli￨flat
+what￨det type￨nsubj of￨case plane￨nmod is￨cop a￨det ac0￨root
+show￨root me￨iobj the￨det airport￨compound servic￨obj by￨case al0￨nmod
+show￨root al0￨det flight￨obj from￨case ap0￨obl to￨case ci0￨obl
+show￨root al0￨det flight￨obj from￨case ci1￨obl to￨case ci0￨obl
+show￨root al0￨det flight￨obj from￨case ci1￨obl to￨case ci0￨obl
+what￨root is￨cop the￨det capac￨nsubj of￨case the￨det ac0￨nmod
+how￨advmod mani￨compound peopl￨nsubj will￨aux a￨det ac0￨compound hold￨root
+list￨root the￨det al0￨amod flight￨compound arriv￨obj in￨case ci0￨obl
+list￨root the￨det al0￨compound flight￨obj depart￨parataxis from￨case ci0￨obl
+what￨det flight￨nsubj go￨root from￨case ci0￨obl to￨case ci1￨obl
+is￨root there￨nmod:poss taxi￨compound servic￨nsubj at￨case the￨det ap0￨nmod
+tell￨root me￨iobj all￨det:predet the￨det airport￨obj near￨advmod ci0￨punct
+get￨root the￨det da0￨compound fare￨obj from￨case ci0￨obl to￨case ci1￨obl
+list￨root last￨amod da0￨compound flight￨appos from￨case ci1￨nmod to￨case ci0￨nmod
+is￨root there￨nmod:poss ground￨nsubj transport￨nsubj avail￨ccomp at￨case the￨det ap0￨obl
+is￨root there￨nmod:poss ground￨nsubj transport￨nsubj avail￨ccomp at￨case the￨det ap0￨obl
+is￨root there￨nmod:poss ground￨nsubj transport￨nsubj avail￨ccomp at￨case the￨det ap0￨obl
+is￨root there￨nmod:poss ground￨nsubj transport￨nsubj avail￨ccomp at￨case the￨det ap0￨obl
+list￨compound airport￨root in￨case st0￨compound st1￨nmod and￨cc st2￨compound pleas￨conj
+list￨root da0￨nummod night￨compound flight￨appos from￨case ci1￨nmod to￨case ci0￨nmod
+pleas￨compound list￨compound afternoon￨compound flight￨root between￨case ci0￨nmod and￨cc ci1￨conj
+what￨root are￨cop the￨det flight￨nsubj from￨case ci0￨nmod to￨case ci1￨obl
+i￨nsubj need￨root a￨det flight￨obj from￨case ci0￨nmod to￨case ci1￨obl
+i￨nsubj need￨root a￨det ticket￨obj from￨case ci0￨obl to￨case ci1￨obl
+i￨nsubj need￨root flight￨compound inform￨obj from￨case ci0￨nmod to￨case ci1￨obl
+i￨nsubj need￨root to￨mark rent￨xcomp a￨det car￨obj at￨case ci0￨obl
+i￨nsubj want￨root a￨det flight￨obj from￨case ci1￨nmod to￨case ci0￨obl
+round￨amod trip￨compound flight￨root from￨case ci0￨nmod to￨case ci1￨compound pleas￨nmod
+show￨root me￨iobj the￨det flight￨obj from￨case ci0￨nmod to￨case ci1￨obl
+show￨root me￨iobj nonstop￨amod flight￨obj from￨case ci0￨nmod to￨case ci1￨obl
+show￨root me￨iobj round￨amod trip￨obj between￨case ci0￨nmod and￨cc ci1￨conj
+and￨cc from￨case ci0￨root to￨case ci1￨nmod befor￨case ti0￨nmod daili￨punct
+show￨root me￨iobj all￨det flight￨obj from￨case ci0￨nmod to￨case ci1￨obl
+show￨root me￨iobj all￨det flight￨obj from￨case ci0￨nmod to￨case ci1￨obl
+show￨root me￨iobj nonstop￨amod flight￨obj from￨case ci0￨nmod to￨case ci1￨obl
+show￨root me￨iobj nonstop￨amod flight￨obj from￨case ci1￨nmod to￨case ci0￨obl
+list￨compound flight￨root from￨case ci1￨nmod to￨case ci0￨nmod on￨case da0￨nmod
+list￨compound flight￨root from￨case ci0￨nmod to￨case ci1￨nmod on￨case da0￨nmod
+list￨compound flight￨root from￨case ci0￨nmod to￨case ci1￨nmod on￨case da0￨nmod
+list￨compound flight￨root from￨case ci0￨nmod to￨case ci1￨nmod on￨case da0￨nmod
+list￨compound flight￨root from￨case ci0￨nmod to￨case ci1￨nmod on￨case da0￨nmod
+list￨compound flight￨root from￨case ci0￨nmod to￨case ci1￨nmod on￨case da0￨nmod
+list￨compound flight￨root befor￨case ti0￨nmod from￨case ci0￨nmod to￨case ci1￨nmod
+list￨compound flight￨root from￨case ci0￨nmod to￨case ci1￨nmod befor￨case ti0￨nmod
+list￨compound flight￨root from￨case ci0￨nmod to￨case ci1￨nmod after￨advmod ti0￨nmod
+list￨compound airlin￨root that￨det fli￨appos from￨case ci1￨nmod to￨case ci0￨nmod
+list￨compound flight￨root from￨case ci1￨nmod to￨case ci0￨nmod on￨case da0￨nmod
+give￨root me￨iobj the￨det flight￨obj from￨case ci0￨nmod to￨case ci1￨obl
+da0￨amod flight￨root on￨case al0￨nmod from￨case ci0￨nmod to￨case ci1￨nmod
+flight￨compound number￨root on￨case al0￨nmod from￨case ci0￨nmod to￨case ci1￨nmod
+flight￨compound number￨root from￨case ci0￨nmod to￨case ci1￨nmod on￨case al0￨nmod
+flight￨compound number￨root from￨case ci0￨nmod to￨case ci1￨nmod on￨case al0￨nmod
+ci0￨root to￨mark ci1￨xcomp on￨case da0￨compound arriv￨obl befor￨advmod ti0￨parataxis
+how￨advmod mani￨compound flight￨compound doe￨compound al0￨nsubj have￨root leav￨obj ap0￨punct
+show￨root me￨iobj the￨det flight￨obj between￨case ci0￨nmod and￨cc ci1￨conj
+show￨root me￨iobj the￨det flight￨obj between￨case ci0￨nmod and￨cc ci1￨conj
+show￨root me￨iobj the￨det flight￨obj from￨case ci0￨nmod to￨case ci1￨obl
+what￨root is￨cop the￨det seat￨compound capac￨nsubj of￨case a￨det ac0￨nmod
+what￨root is￨cop the￨det seat￨compound capac￨nsubj of￨case an￨det ac0￨nmod
+what￨root is￨cop seat￨compound capac￨nsubj on￨case the￨det aircraft￨nmod ac0￨punct
+what￨root is￨cop the￨det seat￨compound capac￨nsubj of￨case a￨det ac0￨nmod
+how￨advmod mani￨compound passeng￨nsubj can￨aux fli￨root on￨case a￨det ac0￨obl
+what￨root is￨cop the￨det seat￨compound capac￨nsubj of￨case the￨det ac0￨nmod
+what￨root is￨cop the￨det seat￨compound capac￨nsubj of￨case the￨det ac0￨nmod
+what￨root is￨cop the￨det seat￨compound capac￨nsubj of￨case the￨det ac0￨nmod
+tell￨root me￨obj about￨case the￨det ground￨compound transport￨obl from￨case ap0￨nmod
+how￨advmod mani￨compound flight￨compound doe￨nsubj al0￨aux have￨root to￨mark ci0￨xcomp
+list￨root the￨det al0￨amod flight￨obj from￨case ci0￨obl to￨case anywher￨obl
+list￨root the￨det cheapest￨amod fare￨obj from￨case ci1￨obl to￨case ci0￨obl
+what￨root are￨cop the￨det flight￨nsubj from￨case ci1￨nmod to￨case ci0￨obl
+what￨root are￨cop the￨det flight￨nsubj from￨case ci0￨nmod to￨case ci1￨obl
+what￨root are￨cop the￨det flight￨nsubj from￨case ci0￨nmod to￨case ci1￨obl
+what￨root are￨cop the￨det flight￨nsubj from￨case ci0￨nmod to￨case ci1￨obl
+what￨root are￨cop the￨det flight￨nsubj from￨case ci0￨nmod to￨case ci1￨obl
+what￨root are￨cop the￨det al0￨nsubj from￨case ci0￨nmod to￨case ci1￨obl
+pleas￨nsubj list￨root the￨det flight￨obj from￨case ci0￨nmod to￨case ci1￨obl
+pleas￨nsubj list￨root the￨det flight￨obj from￨case ci0￨nmod to￨case ci1￨obl
+pleas￨nsubj list￨root the￨det flight￨obj from￨case ci1￨nmod to￨case ci0￨obl
+i￨nsubj 'd￨aux like￨root to￨mark travel￨xcomp from￨case ci0￨obl to￨case ci1￨obl
+find￨root flight￨obj from￨case ci0￨obl to￨case ci1￨obl on￨case da0￨obl
+find￨root flight￨obj from￨case ci1￨obl to￨case ci0￨obl on￨case da0￨nmod
+find￨root flight￨obj from￨case ci1￨obl to￨case ci0￨obl on￨case da0￨nmod
+find￨root flight￨obj from￨case ci0￨obl to￨case ci1￨obl on￨case da0￨obl
+find￨root flight￨obj from￨case ci0￨obl to￨case ci1￨obl on￨case da0￨obl
+find￨root flight￨obj from￨case ci0￨obl to￨case ci1￨obl on￨case da0￨obl
+find￨root al0￨obj from￨case ci0￨obl to￨mark ci1￨advcl around￨advmod ti0￨punct
+i￨nsubj 'd￨aux like￨root to￨mark book￨xcomp two￨nummod flight￨obj to￨case ci0￨obl
+i￨nsubj need￨root an￨det earli￨amod flight￨obj from￨case ci0￨nmod to￨case ci1￨obl
+what￨det type￨nsubj of￨case ground￨compound transport￨nsubj are￨aux avail￨root in￨obl ci0￨punct
+i￨nsubj would￨aux like￨root flight￨nsubj inform￨xcomp from￨case ci0￨obl to￨case ci1￨obl
+get￨root first￨amod flight￨obj from￨case ci1￨obl to￨case ci0￨obl on￨case da0￨nmod
+get￨root last￨amod flight￨obj from￨case ci1￨obl to￨case ci0￨obl on￨case da0￨nmod
+get￨root flight￨obj from￨case ci1￨obl to￨case ci0￨det stop￨obl at￨case ap0￨nmod
+i￨nsubj need￨root inform￨xcomp on￨case flight￨obl from￨case ci0￨nmod to￨case ci1￨obl
+i￨nsubj need￨root a￨det ticket￨obj from￨case ci0￨det tennesse￨nmod to￨case ci1￨obl
+i￨nsubj need￨root a￨det daili￨amod flight￨obj from￨case ci0￨nmod to￨case ci1￨obl
+i￨nsubj need￨root flight￨nsubj depart￨xcomp from￨case ci1￨obl and￨cc arriv￨conj ci0￨punct
+i￨nsubj need￨root inform￨xcomp on￨case flight￨obl from￨case ci1￨nmod to￨case ci0￨obl
+i￨nsubj need￨root inform￨xcomp on￨case flight￨obl from￨case ci1￨nmod to￨case ci0￨obl
+i￨nsubj need￨root inform￨xcomp on￨case flight￨obl between￨case ci0￨nmod and￨cc ci1￨conj
+which￨det flight￨nsubj go￨root from￨case ci0￨obl to￨case ci1￨obl and￨cc back￨conj
+show￨root me￨iobj flight￨obj from￨case ci0￨obl to￨case ci1￨det one￨nummod way￨obl
+show￨root me￨iobj all￨det:predet al0￨det flight￨obj from￨case ci0￨nmod to￨case ci1￨obl
+show￨root me￨iobj all￨det flight￨obj from￨case ci0￨nmod to￨case ci1￨nmod:poss pleas￨obl
+show￨root me￨iobj round￨amod trip￨compound flight￨obj from￨case ci0￨nmod to￨case ci1￨obl
+show￨root me￨iobj round￨amod trip￨compound flight￨obj from￨case ci0￨nmod to￨case ci1￨obl
+show￨root me￨iobj round￨amod trip￨compound flight￨obj from￨case ci0￨nmod to￨case ci1￨obl
+from￨case ci0￨root to￨mark ci1￨acl one￨nummod way￨obj after￨case ti0￨obl da0￨punct
+show￨root me￨iobj round￨amod trip￨compound flight￨obj from￨case ci0￨nmod to￨case ci1￨obl
+show￨root me￨iobj the￨det nonstop￨amod flight￨obj from￨case ci1￨nmod to￨case ci0￨obl
+list￨compound flight￨root from￨case ci1￨nmod to￨case ci0￨nmod in￨case the￨det morn￨nmod
+list￨compound type￨root of￨case aircraft￨nmod for￨case all￨det flight￨nmod from￨case ci0￨nmod
+list￨compound coach￨root round￨amod trip￨compound airfar￨list from￨case ci1￨nmod to￨case ci0￨nmod
+list￨compound flight￨root from￨case ci0￨nmod to￨case ci1￨nmod on￨case da0￨compound morn￨nmod
+list￨compound seat￨compound capac￨root of￨case al0￨nmod from￨case ci1￨nmod to￨case ci0￨nmod
+list￨compound al0￨root from￨case ci1￨nmod to￨case ci0￨nmod with￨case aircraft￨compound type￨nmod
+give￨root me￨iobj the￨det flight￨obj from￨case ci0￨nmod to￨case ci1￨obl nonstop￨advmod
+give￨root me￨iobj the￨det flight￨obj from￨case ci1￨nmod to￨case ci0￨obl nonstop￨advmod
+i￨nsubj need￨root a￨det da0￨amod flight￨obj from￨case ci0￨nmod to￨case ci1￨obl
+i￨nsubj need￨root a￨det da0￨amod flight￨obj from￨case ci0￨nmod to￨case ci1￨obl
+how￨advmod much￨root is￨cop coach￨compound flight￨nsubj from￨case ci0￨nmod to￨case ci1￨nmod
+pleas￨nsubj list￨root all￨det:predet the￨det flight￨obj from￨case ci1￨nmod to￨case ci0￨obl
+what￨root are￨cop the￨det lowest￨amod fare￨nsubj from￨case ci1￨nmod to￨case ci0￨nmod
+what￨root is￨cop the￨det lowest￨amod fare￨nsubj from￨case ap0￨nmod to￨case ci0￨nmod
+what￨root the￨det earliest￨amod arriv￨compound flight￨nsubj between￨case ci1￨nmod and￨cc ci0￨conj
+list￨root all￨det flight￨compound leav￨compound ci0￨obj between￨case ti0￨nmod and￨cc ti1￨conj
+what￨root is￨cop the￨det seat￨compound capac￨nsubj on￨case the￨det aircraft￨nmod ac0￨punct
+what￨root is￨cop the￨det seat￨compound capac￨nsubj of￨case the￨det aircraft￨nmod ac0￨punct
+what￨root is￨cop the￨det seat￨compound capac￨nsubj of￨case the￨det aircraft￨nmod ac0￨punct
+list￨root the￨det airlin￨obj with￨case flight￨obl to￨nmod or￨cc from￨case ci0￨obl
+what￨root is￨cop the￨det seat￨compound capac￨nsubj on￨case the￨det aircraft￨nmod ac0￨punct
+is￨root there￨nmod:poss ground￨nsubj transport￨nsubj from￨case ap0￨nmod into￨case ci0￨obl citi￨obl
+pleas￨root list￨compound ground￨compound transport￨list from￨case ap0￨nmod into￨case ci0￨compound citi￨nmod
+i￨nsubj 'd￨aux like￨root a￨det morn￨compound flight￨obj from￨case ci1￨nmod to￨case ci0￨obl
+i￨nsubj 'd￨aux like￨root an￨det even￨amod flight￨obj from￨case ci1￨nmod to￨case ci0￨obl
+what￨root are￨cop the￨det nonstop￨amod flight￨nsubj between￨case ci0￨nmod and￨cc ci1￨conj
+find￨root flight￨obj from￨case ci0￨nmod to￨case ci1￨obl on￨case da0￨nummod am￨obl
+like￨root to￨mark book￨xcomp a￨det flight￨obj from￨case ci0￨nmod to￨case ci1￨obl
+show￨root me￨iobj all￨det:predet the￨det flight￨obj from￨case ci0￨nmod to￨case ci1￨obl
+find￨root me￨iobj all￨det:predet the￨det flight￨obj from￨case ci1￨nmod to￨case ci0￨obl
+what￨det flight￨nsubj go￨root from￨case ci1￨obl to￨case ci0￨obl on￨case da0￨compound morn￨obl
+i￨nsubj need￨root a￨det flight￨obj from￨case ci1￨nmod to￨mark ci0￨advcl on￨case da0￨obl
+list￨compound flight￨root from￨case ci1￨nmod to￨case ci0￨nmod befor￨case ti0￨nmod da0￨compound morn￨nmod
+show￨root me￨iobj a￨det return￨compound flight￨obj from￨case ci0￨nmod to￨case ap0￨compound pleas￨obl
+show￨root me￨iobj the￨det cheapest￨amod economi￨compound flight￨obj from￨case ci1￨nmod to￨case ci0￨obl
+show￨root me￨iobj weekday￨compound flight￨obj from￨case ci0￨obl to￨case ci1￨det one￨nummod way￨obl
+show￨root me￨iobj weekday￨compound flight￨obj from￨case ci0￨obl to￨case ci1￨det one￨nummod way￨obl
+list￨compound distanc￨root from￨case ap0￨det airport￨nmod to￨case ci0￨compound downtown￨nmod in￨case ci0￨nmod
+list￨compound flight￨root from￨case ci0￨nmod to￨mark ci1￨acl with￨case fare￨obl on￨case da0￨obl
+give￨root me￨iobj the￨det flight￨obj from￨case ci0￨nmod to￨mark ci1￨advcl on￨case da0￨obl
+give￨root me￨iobj the￨det flight￨obj from￨case ci1￨nmod to￨case ci0￨compound da0￨obl even￨advmod
+give￨root me￨iobj the￨det fare￨obj from￨case ci0￨nmod to￨case ci1￨det next￨amod da0￨obl
+give￨root me￨iobj the￨det flight￨obj from￨case ci0￨nmod to￨mark ci1￨advcl on￨case al0￨obl
+is￨root there￨expl a￨det fare￨nsubj from￨case ci0￨nmod to￨mark ci1￨acl under￨case do0￨obl
+cheapest￨amod fare￨root from￨case ci0￨nmod to￨case ci1￨nmod on￨case dn0￨nmod of￨case mn0￨nmod
+ci0￨root citi￨obj to￨case ci1￨obl and￨cc ci2￨conj to￨mark ci1￨xcomp on￨case da0￨obl
+ci0￨root citi￨obj to￨case ci1￨obl and￨cc ci2￨conj to￨mark ci1￨xcomp on￨case da0￨obl
+what￨root are￨cop the￨det fare￨nsubj for￨case flight￨nmod between￨case ci1￨nmod and￨cc ci0￨conj
+what￨root is￨cop the￨det least￨nmod expens￨compound fare￨nsubj from￨case ci1￨nmod to￨case ci0￨nmod
+what￨root is￨cop the￨det earliest￨amod arriv￨compound flight￨nsubj from￨case ci1￨nmod to￨case ci0￨nmod
+what￨root is￨cop the￨det earliest￨amod arriv￨compound flight￨nsubj between￨case ci1￨nmod and￨cc ci0￨conj
+what￨root is￨cop the￨det earliest￨amod arriv￨compound flight￨nsubj from￨case ci0￨nmod to￨case ci1￨nmod
+what￨root is￨cop the￨det earliest￨amod arriv￨compound flight￨nsubj from￨case ci0￨nmod to￨case ci1￨nmod
+list￨root all￨det flight￨compound arriv￨obj in￨case ci0￨obl between￨case ti0￨obl and￨cc ti1￨conj
+tell￨root me￨obj about￨case the￨det type￨obl of￨case aircraft￨compound call￨nmod an￨det ac0￨parataxis
+list￨root all￨det flight￨compound arriv￨obj in￨case ci0￨obl between￨case ti0￨obl and￨cc ti1￨conj
+what￨det ground￨compound transport￨nsubj is￨aux avail￨root from￨case ap0￨obl into￨case ci0￨obl citi￨obl
+pleas￨nsubj list￨root the￨det ground￨obj transport￨obj from￨case ap0￨nmod into￨case ci0￨obl citi￨obl
+show￨root me￨iobj the￨det morn￨compound flight￨obj from￨case ci1￨nmod to￨case ci0￨compound citi￨obl
+i￨nsubj would￨aux like￨root a￨det morn￨compound flight￨obj from￨case ci0￨nmod to￨case ci1￨obl
+what￨root are￨cop the￨det flight￨nsubj from￨case ap0￨nmod to￨mark ci0￨acl on￨obl al0￨punct
+what￨root are￨cop the￨det nonstop￨amod flight￨nsubj between￨case ci0￨nmod and￨cc ci1￨conj texa￨punct
+what￨root are￨cop the￨det flight￨nsubj between￨case ci0￨nmod and￨cc ci1￨conj on￨case da0￨punct
+the￨det flight￨root from￨case ci0￨nmod to￨case ci1￨nmod that￨nsubj stop￨acl:relcl in￨obl ci2￨punct
+pleas￨nsubj list￨root the￨det flight￨obj from￨case ci0￨nmod to￨case ci1￨obl on￨case al0￨obl
+i￨nsubj 'd￨aux like￨root to￨mark travel￨xcomp from￨case ci0￨obl to￨case ci1￨det next￨amod da0￨obl
+now￨advmod show￨root me￨iobj all￨det:predet the￨det flight￨obj from￨case ci0￨nmod to￨case ci1￨obl
+i￨nsubj want￨root to￨mark book￨xcomp a￨det flight￨obj from￨case ci0￨nmod to￨case ci1￨obl
+tell￨root me￨iobj all￨det:predet the￨det airport￨obj in￨case the￨det ci0￨compound citi￨compound area￨nmod
+i￨nsubj 'd￨aux like￨root to￨mark fli￨xcomp from￨case ci0￨obl to￨mark ci1￨advcl on￨case al0￨obl
+find￨root me￨iobj a￨det flight￨obj that￨nsubj fli￨acl:relcl from￨case ci0￨obl to￨case ci1￨obl
+i￨nsubj need￨root to￨mark fli￨xcomp from￨case ci0￨obl to￨case ci1￨obl on￨case da0￨compound afternoon￨obl
+i￨nsubj would￨aux like￨root inform￨xcomp on￨case flight￨compound leav￨obl from￨case ci0￨nmod to￨case ci1￨obl
+i￨nsubj need￨root the￨det flight￨obj from￨case ci0￨nmod to￨mark ci1￨advcl on￨case a￨det da0￨obl
+i￨nsubj want￨root to￨mark go￨xcomp from￨case ci0￨obl to￨mark ci1￨advcl on￨case a￨det da0￨obl
+show￨root me￨iobj the￨det cheapest￨amod one￨nummod way￨compound flight￨obj from￨case ci0￨nmod to￨case ci1￨obl
+show￨root me￨iobj the￨det cheapest￨amod one￨nummod way￨compound flight￨obj from￨case ci0￨nmod to￨case ci1￨obl
+show￨root me￨iobj first￨amod class￨compound flight￨obj from￨case ci0￨nmod to￨case ci1￨det round￨amod trip￨obl
+show￨root me￨iobj first￨amod class￨compound flight￨obj from￨case ci0￨nmod to￨case ci1￨det round￨amod trip￨obl
+show￨root me￨iobj all￨det round￨amod trip￨compound flight￨obj from￨case ci0￨nmod to￨case ci1￨obl nonstop￨advmod
+show￨root me￨iobj all￨det round￨amod trip￨compound flight￨obj from￨case ci1￨nmod to￨case ci0￨obl nonstop￨advmod
+show￨root me￨iobj the￨det nonstop￨amod flight￨obj and￨cc fare￨conj from￨case ci1￨obl to￨case ci0￨obl
+list￨compound airfar￨root for￨case first￨amod class￨compound round￨compound trip￨nmod from￨case ci1￨nmod to￨case ci0￨nmod
+give￨root me￨iobj the￨det flight￨obj from￨case ci0￨nmod to￨mark ci1￨advcl on￨case da0￨obl even￨advmod
+give￨root me￨iobj a￨det flight￨obj from￨case ci0￨nmod to￨case ci1￨obl on￨case da0￨compound morn￨obl
+can￨aux i￨nsubj have￨root a￨det morn￨compound flight￨obj from￨case ci0￨nmod to￨case ci1￨compound pleas￨obl
+cheapest￨amod round￨amod trip￨compound fare￨root from￨case ci0￨nmod to￨case ci1￨nmod on￨case mn0￨nmod dn0￨punct
+cheapest￨amod one￨nummod way￨nsubj fare￨root from￨case ci0￨obl to￨case ci1￨obl on￨case mn0￨obl dn0￨punct
+cheapest￨amod fare￨compound round￨amod trip￨root from￨case ci0￨nmod to￨case ci1￨nmod on￨case mn0￨nmod dn0￨punct
+a￨det flight￨root from￨case ci1￨nmod to￨case ci0￨compound arriv￨nmod between￨case ti0￨nmod and￨cc ti1￨conj
+tell￨root me￨iobj the￨det flight￨obj that￨nsubj leav￨acl:relcl ci0￨acl:relcl and￨cc go￨conj to￨obl ci1￨punct
+show￨root me￨iobj first￨amod class￨obj and￨cc coach￨compound flight￨conj between￨case ap0￨nmod and￨cc ci0￨conj
+show￨root me￨iobj first￨amod class￨obj and￨cc coach￨compound flight￨conj from￨case ap0￨obl to￨case ci0￨obl
+show￨root me￨iobj first￨amod class￨obj and￨cc coach￨compound flight￨conj from￨case ap0￨obl to￨case ci0￨obl
+what￨root is￨cop the￨det seat￨compound capac￨nsubj of￨case the￨det type￨nmod of￨case aircraft￨nmod ac0￨punct
+list￨root all￨det flight￨compound arriv￨obj or￨cc leav￨compound ci0￨conj between￨case ti0￨obl and￨cc ti1￨conj
+pleas￨nsubj list￨root all￨det flight￨obj from￨case ci0￨nmod to￨case ci1￨obl on￨case da0￨compound morn￨obl
+pleas￨nsubj list￨root the￨det flight￨obj from￨case ci0￨nmod to￨case ci1￨obl on￨case da0￨compound morn￨obl
+list￨root the￨det flight￨obj from￨case ci0￨nmod to￨case ci1￨obl that￨nsubj leav￨acl:relcl befor￨advmod ti0￨punct
+i￨nsubj would￨aux like￨root to￨mark leav￨xcomp da0￨det morn￨obj from￨case ci0￨obl to￨case ci1￨obl
+i￨nsubj would￨aux like￨root a￨det flight￨obj from￨case ci0￨nmod to￨mark ci1￨advcl on￨case al0￨obl
+what￨det type￨nsubj of￨case ground￨compound transport￨nsubj is￨cop there￨root at￨case the￨det ci0￨compound airport￨obl
+and￨cc a￨det flight￨root from￨case ci0￨nmod to￨mark ci1￨acl that￨det leav￨ccomp da0￨compound afternoon￨obj
+how￨root about￨case a￨det flight￨compound leav￨obl da0￨amod night￨nmod:tmod from￨case ci0￨nmod to￨case ci1￨nmod
+are￨cop there￨nmod:poss ani￨amod flight￨compound on￨case m￨compound n0￨compound dn0￨root from￨case ci0￨nmod to￨case ci1￨nmod
+could￨aux i￨nsubj have￨root flight￨nsubj inform￨xcomp on￨case flight￨obl from￨case ci0￨obl to￨case ci1￨compound pleas￨obl
+could￨aux i￨nsubj have￨root flight￨nsubj inform￨xcomp on￨case flight￨obl from￨case ci0￨obl to￨case ci1￨compound pleas￨obl
+i￨nsubj need￨root a￨det flight￨obj from￨case ci0￨nmod to￨case ci1￨obl leav￨case da0￨obl befor￨advmod ti0￨punct
+i￨nsubj need￨root a￨det flight￨obj from￨case ci0￨nmod to￨mark ci1￨advmod depart￨advcl da0￨advmod after￨advmod ti0￨punct
+what￨det type￨nsubj of￨case aircraft￨nmod are￨aux fli￨root from￨case ci0￨obl to￨case ci1￨obl befor￨advmod ti0￨punct
+give￨root me￨iobj the￨det round￨amod trip￨compound flight￨obj from￨case ci0￨nmod to￨case ci1￨det next￨amod da0￨obl
+give￨root me￨iobj the￨det flight￨obj from￨case ci0￨nmod to￨mark ci1￨advcl on￨case da0￨obl on￨case al0￨obl
+give￨root me￨iobj flight￨obj from￨case ci0￨nmod to￨case ci1￨obl that￨nsubj have￨acl:relcl meal￨obj on￨advmod al0￨punct
+give￨root me￨iobj the￨det da0￨compound morn￨compound flight￨obj with￨case meal￨nmod from￨case ci0￨obl to￨case ci1￨obl
+tell￨root me￨obj again￨advmod the￨det morn￨compound flight￨obj on￨case al0￨nmod from￨case ci0￨nmod to￨case ci1￨obl
+i￨nsubj want￨root a￨det flight￨obj from￨case ci0￨nmod to￨case ci1￨compound earli￨obl in￨case the￨det morn￨obl
+i￨nsubj would￨aux like￨root a￨det flight￨obj on￨case da0￨compound morn￨nmod from￨case ci0￨obl to￨case ci1￨obl
+what￨det type￨nsubj of￨case aircraft￨nmod is￨aux use￨root for￨case the￨det al0￨compound leav￨obl at￨case ti0￨nmod
+what￨root are￨cop the￨det flight￨nsubj from￨case ci1￨compound arizona￨nmod to￨case ci0￨compound minnesota￨nmod on￨case da0￨nmod
+what￨root are￨cop the￨det flight￨nsubj on￨case da0￨compound leav￨nmod from￨case ci0￨compound minnesota￨nmod to￨case ci1￨nmod
+what￨root are￨cop the￨det flight￨nsubj from￨case ci1￨nmod to￨case ci2￨nmod that￨nsubj stop￨acl:relcl in￨obl ci0￨punct
+i￨nsubj need￨root a￨det morn￨compound flight￨obj from￨case ci0￨nmod to￨mark ci1￨obl on￨advmod next￨amod da0￨obl:tmod
+how￨root about￨case a￨det flight￨obl from￨case ci1￨nmod to￨mark ci0￨acl that￨det leav￨obj da0￨amod night￨obl:tmod
+i￨nsubj need￨root a￨det flight￨obj from￨case ci1￨nmod to￨mark ci2￨advcl that￨nsubj goe￨ccomp through￨obl ci0￨punct
+pleas￨nsubj give￨root me￨iobj the￨det flight￨obj from￨case ci0￨nmod to￨case ci1￨obl on￨case mn0￨obl dn0￨punct
+pleas￨nsubj give￨root me￨iobj the￨det flight￨obj from￨case ci1￨nmod to￨case ci0￨obl on￨case mn0￨obl dn0￨punct
+pleas￨nsubj list￨root all￨det:predet the￨det flight￨obj from￨case ci0￨nmod to￨case ci1￨obl on￨case mn0￨obl dn0￨punct
+pleas￨nsubj list￨root all￨det:predet the￨det flight￨obj from￨case ci1￨nmod to￨case ci0￨obl on￨case mn0￨obl dn0￨punct
+i￨nsubj need￨root the￨det fare￨obj on￨case flight￨nmod from￨case ci0￨nmod to￨mark ci1￨advcl on￨case a￨det da0￨obl
+i￨nsubj need￨root a￨det flight￨obj depart￨xcomp from￨case ci0￨obl to￨case ci1￨obl leav￨case da0￨obl befor￨advmod ti0￨punct
+i￨nsubj need￨root a￨det flight￨obj from￨case ci1￨nmod to￨mark ci0￨advcl on￨case da0￨det depart￨obl after￨advmod ti0￨punct
+pleas￨compound list￨nsubj onli￨case the￨det flight￨nmod from￨case ci0￨nmod to￨case ci1￨nmod that￨nsubj leav￨root befor￨advmod ti0￨punct
+pleas￨nsubj list￨root all￨det flight￨obj from￨case ci0￨nmod to￨case ci1￨det ani￨compound ani￨compound type￨obl of￨case class￨nmod
+show￨root me￨iobj one￨nummod way￨compound flight￨obj from￨case ci0￨nmod to￨case ci1￨obl after￨mark ti0￨advcl on￨advmod da0￨punct
+give￨root me￨iobj the￨det flight￨obj from￨case ci0￨nmod to￨case ci1￨det da0￨compound morn￨obl that￨nsubj have￨acl:relcl meal￨obj
+list￨root all￨obj of￨case the￨det daili￨amod flight￨compound arriv￨nmod in￨case ci0￨obl between￨case ti0￨nmod and￨cc ti1￨conj
+list￨root all￨obj of￨case the￨det daili￨amod flight￨compound arriv￨nmod in￨case ci0￨obl from￨case ti0￨obl to￨case ti1￨obl
+pleas￨nsubj list￨root the￨det flight￨obj from￨case ci1￨nmod to￨case ci0￨compound citi￨obl on￨case a￨det da0￨amod night￨obl
+what￨root are￨cop the￨det flight￨nsubj from￨case ci0￨nmod to￨case ci1￨det north￨compound carolina￨compound leav￨nmod on￨case da0￨nmod
+what￨root are￨cop the￨det flight￨nsubj between￨case ci1￨nmod and￨cc ci0￨conj california￨obj which￨nsubj leav￨acl:relcl after￨advmod ti0￨punct
+i￨nsubj would￨aux like￨root to￨mark book￨xcomp a￨det round￨amod trip￨compound flight￨obj from￨case ci0￨nmod to￨case ci1￨obl
+i￨nsubj need￨root inform￨xcomp on￨case flight￨obl from￨case ci0￨nmod to￨mark ci1￨obl that￨nsubj leav￨advcl on￨case a￨det da0￨obl
+i￨nsubj need￨root the￨det flight￨compound number￨obj of￨case flight￨compound leav￨nmod from￨case ci0￨obl and￨cc arriv￨conj at￨case ci1￨nmod
+show￨root me￨iobj one￨nummod way￨compound flight￨obj from￨case ci0￨nmod to￨case ci1￨obl befor￨case ti0￨obl on￨case ani￨compound day￨obl
+list￨compound flight￨root from￨case ci0￨nmod to￨case ci1￨nmod on￨case da0￨nmod of￨case fare￨compound basi￨compound code￨nmod of￨case fb0￨nmod
+give￨root me￨iobj the￨det fare￨obj for￨case round￨amod trip￨compound flight￨nmod from￨case ci0￨nmod to￨case ci1￨det next￨amod da0￨obl
+give￨root me￨iobj the￨det flight￨obj from￨case ci0￨nmod to￨mark ci1￨advcl on￨case da0￨obl or￨cc da1￨conj on￨obl al0￨punct
+give￨root me￨iobj the￨det meal￨compound flight￨obj depart￨parataxis earli￨case da0￨compound morn￨obl from￨case ci0￨obl to￨case ci1￨obl nonstop￨advmod
+give￨root me￨iobj the￨det cheapest￨amod round￨amod trip￨compound flight￨obj from￨case ci0￨nmod to￨mark ci1￨advcl around￨advmod m￨compound n0￨obj dn0￨punct
+i￨nsubj would￨aux like￨root a￨det connect￨compound flight￨obj from￨case ci1￨nmod to￨case ci0￨compound leav￨obl after￨case ti0￨nummod o'clock￨obl
+show￨root me￨iobj all￨obj of￨case the￨det daili￨amod flight￨compound arriv￨nmod in￨case ci0￨obl between￨case ti0￨nmod and￨cc ti1￨conj
+give￨root me￨iobj the￨det flight￨obj from￨case ci0￨compound citi￨nmod to￨case ci1￨compound leav￨obl after￨mark ti0￨advcl on￨advmod da0￨punct
+i￨nsubj need￨root a￨det flight￨obj from￨case ci0￨nmod to￨mark ap0￨advcl that￨det arriv￨obj on￨case da0￨obl befor￨advmod ti0￨punct
+i￨nsubj 'd￨aux like￨root a￨det flight￨obj from￨case ci0￨nmod to￨mark ap0￨advcl that￨det arriv￨obj on￨case da0￨obl befor￨advmod ti0￨punct
+i￨nsubj need￨root a￨det flight￨obj on￨case al0￨nmod from￨case ci0￨obl to￨case ci1￨obl that￨nsubj arriv￨acl:relcl around￨advmod ti0￨punct
+can￨aux you￨nsubj find￨root me￨iobj anoth￨compound flight￨obj from￨case ci1￨nmod to￨case ci0￨nmod on￨case da0￨obl befor￨advmod ti0￨punct
+i￨nsubj 'd￨aux like￨root to￨mark fli￨xcomp from￨case ci0￨obl to￨mark ci1￨advcl on￨advmod on￨case al0￨det arriv￨obl around￨obl ti0￨punct
+yes￨discourse i￨nsubj 'd￨aux like￨root to￨mark find￨xcomp a￨det flight￨obj from￨case ci1￨nmod to￨mark ci2￨nsubj stop￨advcl in￨advmod ci0￨punct
+find￨root me￨iobj all￨det:predet the￨det round￨amod trip￨compound flight￨obj from￨case ci1￨nmod to￨mark ci2￨nsubj stop￨advcl in￨obl ci0￨punct
+find￨root me￨iobj a￨det flight￨obj from￨case ci1￨nmod to￨case ani￨compound airport￨nmod in￨case the￨det ci0￨compound citi￨compound area￨obl
+i￨nsubj need￨root flight￨compound inform￨obj for￨case a￨det flight￨nmod depart￨acl from￨case ci0￨obl to￨case ci1￨compound da0￨obl after￨advmod ti0￨punct
+i￨nsubj need￨root flight￨compound inform￨obj for￨case flight￨compound depart￨nmod from￨case ci0￨nmod to￨case ci1￨obl on￨case da0￨obl after￨advmod ti0￨punct
+i￨nsubj need￨root flight￨compound inform￨obj for￨case flight￨compound depart￨nmod from￨case ci0￨nmod to￨case ci1￨obl on￨case da0￨obl after￨advmod ti0￨punct
+i￨nsubj need￨root flight￨obj and￨cc fare￨conj inform￨xcomp depart￨xcomp from￨case ci1￨obl to￨case ci0￨obl on￨case da0￨obl befor￨advmod ti0￨punct
+pleas￨nsubj show￨root me￨iobj first￨amod class￨compound flight￨obj from￨case ci0￨nmod to￨case ci1￨det one￨nummod way￨obl leav￨case befor￨nmod ti0￨punct
+list￨compound flight￨root and￨cc fare￨conj from￨case ci0￨nmod to￨case ci1￨det round￨amod trip￨nmod leav￨case da0￨compound return￨nmod next￨case da0￨nmod
+give￨root me￨iobj the￨det flight￨obj and￨cc fare￨conj for￨case a￨det trip￨nmod to￨case ci0￨nmod from￨case ci1￨nmod on￨case da0￨obl
+give￨root me￨iobj the￨det flight￨obj from￨case ci0￨nmod to￨case ci1￨obl that￨nsubj have￨acl:relcl meal￨obj on￨case al0￨det da0￨compound morn￨obl
+give￨root me￨iobj the￨det da0￨compound morn￨compound flight￨obj on￨case al0￨nmod that￨nsubj have￨acl:relcl meal￨obj from￨case ci0￨obl to￨case ci1￨obl
+give￨root me￨iobj the￨det da0￨compound morn￨compound flight￨obj from￨case ci1￨nmod to￨case ci0￨nmod on￨case al0￨obl that￨nsubj have￨acl:relcl meal￨obj
+show￨root me￨iobj the￨det cost￨obj of￨case a￨det first￨amod class￨compound ticket￨nmod from￨case ci1￨nmod to￨case ci0￨obl and￨cc back￨conj
+list￨root all￨det flight￨obj on￨case all￨det type￨obl of￨case aircraft￨compound arriv￨nmod in￨case ci0￨obl between￨case ti0￨nmod and￨cc ti1￨conj
+i￨nsubj would￨aux like￨root a￨det flight￨obj that￨nsubj leav￨acl:relcl on￨case da0￨obl from￨case ci1￨compound quebec￨obl to￨case ci0￨compound california￨obl
+what￨root are￨cop the￨det flight￨nsubj on￨case da0￨nmod that￨nsubj travel￨acl:relcl from￨case ci0￨obl north￨compound carolina￨obl to￨case ci1￨compound arizona￨obl
+i￨nsubj need￨root flight￨compound inform￨obj for￨case a￨det flight￨nmod depart￨acl from￨case ci0￨obl to￨mark ci1￨advmod depart￨advcl da0￨obj at￨case ti0￨obl
+i￨nsubj need￨root flight￨compound inform￨obj for￨case flight￨nsubj depart￨acl from￨case ci0￨obl go￨advcl back￨advmod to￨case ci1￨compound da0￨obl after￨advmod ti0￨punct
+i￨nsubj 'd￨aux like￨root a￨det one￨nummod way￨compound ticket￨obj from￨case ci0￨nmod to￨mark ci1￨advcl either￨cc:preconj da0￨obj even￨advmod or￨cc da1￨compound morn￨obj
+give￨root me￨iobj the￨det flight￨obj from￨case ci0￨nmod to￨mark ci1￨advcl on￨case al0￨obl that￨nsubj have￨acl:relcl meal￨compound earli￨compound da0￨compound morn￨obj
+give￨root me￨iobj a￨det combin￨obj of￨case al0￨nmod from￨case ci0￨nmod to￨case ci1￨obl that￨nsubj have￨acl:relcl meal￨compound earli￨compound da0￨compound morn￨obj
+what￨root are￨cop the￨det nonstop￨amod flight￨nsubj from￨case ci0￨nmod to￨case ci1￨compound leav￨nmod after￨case ti0￨nmod and￨cc arriv￨conj befor￨advmod ti1￨punct
+i￨nsubj need￨root a￨det flight￨obj leav￨case ci0￨nmod to￨mark ci1￨advcl leav￨xcomp next￨amod da0￨obj and￨cc return￨conj the￨det follow￨compound day￨obl:tmod
+can￨aux you￨nsubj list￨root all￨obj of￨case the￨det al0￨nmod from￨case ci0￨obl to￨case ci1￨det next￨amod da0￨compound arriv￨obl befor￨advmod ti0￨punct
+i￨nsubj 'd￨aux like￨root to￨mark book￨xcomp a￨det flight￨obj from￨case ci1￨nmod to￨case ci0￨compound citi￨obl on￨case al0￨obl for￨case next￨amod da0￨obl
+i￨nsubj need￨root a￨det flight￨obj from￨case ci0￨nmod to￨mark ci1￨advcl that￨nmod:poss leav￨obj befor￨mark ti0￨mark see￨advcl if￨mark too￨advmod much￨advmod inform￨advcl
+i￨nsubj need￨root flight￨obj and￨cc fare￨conj inform￨acl for￨case da0￨obl depart￨xcomp prior￨case to￨fixed ti0￨nsubj from￨case ci1￨nmod go￨advcl to￨case ci0￨obl
+i￨nsubj need￨root flight￨compound number￨obj for￨case those￨det flight￨nmod depart￨ccomp on￨case da0￨obl befor￨case ti0￨obl from￨case ci1￨obl go￨advcl to￨case ci0￨obl
+now￨advmod show￨root me￨iobj all￨det round￨amod trip￨compound flight￨obj from￨case ci0￨nmod to￨case ci1￨nmod that￨obj arriv￨nsubj befor￨aux ti0￨acl:relcl in￨case ci1￨obl
+can￨aux you￨nsubj find￨root me￨iobj a￨det flight￨obj from￨case ci0￨nmod to￨case ci1￨det citi￨compound next￨amod da0￨obl:tmod befor￨case arriv￨obl befor￨advmod ti0￨punct
+i￨nsubj 'd￨aux like￨root a￨det round￨amod trip￨compound flight￨obj from￨case ci0￨nmod to￨case ci1￨obl on￨case da0￨compound mn0￨compound dn0￨compound arriv￨obl at￨case ti0￨nmod
+is￨root there￨expl one￨nummod airlin￨nsubj that￨nsubj fli￨acl:relcl from￨case ci1￨obl to￨mark ci2￨advcl to￨case ci0￨obl and￨cc from￨case ci0￨conj to￨case ci1￨nmod
+get￨root last￨amod flight￨obj from￨case ci1￨obl to￨case ci0￨obl on￨case da0￨obl or￨cc first￨amod flight￨conj from￨case ci1￨nmod to￨mark ci0￨nmod on￨obl da1￨punct
+i￨nsubj need￨root flight￨obj and￨cc airlin￨conj inform￨xcomp for￨case a￨det flight￨obl from￨case ci1￨nmod to￨mark ci0￨advcl on￨case da0￨det depart￨obl after￨advmod ti0￨punct
+i￨nsubj need￨root flight￨compound number￨obj and￨cc airlin￨conj for￨case flight￨nmod depart￨conj from￨case ci1￨obl to￨mark ci0￨advcl on￨case da0￨det depart￨obl befor￨advmod ti0￨punct
+is￨root there￨nmod:poss ground￨nsubj transport￨nsubj from￨case the￨det ap0￨nmod into￨case ci0￨det town￨obl when￨mark if￨mark i￨nsubj arriv￨advcl at￨case ti0￨obl in￨case the￨det morn￨obl
+i￨nsubj would￨aux like￨root a￨det flight￨obj on￨case da0￨nmod which￨nsubj leav￨acl:relcl from￨case ci0￨obl to￨case ci1￨compound indiana￨obl and￨cc that￨det leav￨conj in￨case the￨det afternoon￨nmod
+pleas￨nsubj find￨root a￨det flight￨obj from￨case ci0￨nmod to￨case ci1￨nmod that￨nsubj make￨acl:relcl a￨det stop￨obj in￨case ci2￨nmod on￨case mn0￨obl dn0￨case one￨nummod way￨obl with￨case dinner￨nmod
+pleas￨nsubj find￨root all￨det:predet the￨det flight￨obj from￨case ci1￨nmod to￨case ani￨compound airport￨nmod in￨case the￨det ci0￨compound citi￨compound area￨nmod that￨nsubj arriv￨acl:relcl next￨amod da0￨obj befor￨advmod ti0￨punct
+pleas￨nsubj find￨root a￨det flight￨compound round￨amod trip￨obj from￨case ci0￨nmod to￨mark ci2￨advcl washington￨obj with￨case a￨det stopov￨obl in￨case ci￨nmod 1￨nummod not￨advmod exceed￨advcl the￨det price￨obj of￨case do0￨nmod for￨case mn0￨compound dn0￨obl yr0￨punct
