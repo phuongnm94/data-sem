@@ -10,7 +10,7 @@ print( args.path)
 data = {}
 count_all = 0
 for file_name in ["X_test_5.tsv", "Y_test_5.tsv", "Y_pred_5.tsv"]:
-    with open(f"{args.path}/{file_name}", "rt", encoding="utf8") as f:
+    with open("{}/{}".format(args.path, file_name), "rt", encoding="utf8") as f:
         lines = [l.strip() for l in f.readlines()]
         count_all = len(lines)
         data[file_name] = lines
