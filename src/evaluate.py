@@ -28,14 +28,14 @@ for i, logic1 in enumerate(data["Y_test_5.tsv"]):
         count_true += 1.0
         b=True
     if a!=b:
+        print("++ sentence {}, logic gold == logic pred ++".format(i))
         print(logic1)
         print(logic2)
-        print(a, b)
     if a==b==False:
-        print("--")
+        print("-- sentence {}, logic gold != logic pred --".format(i))
         print(data["X_test_5.tsv"][i])
         print(logic1)
         print(logic2)
 
-print(count_true, count_all, count_true/ count_all)
-print(count_exact_matching, count_all, count_exact_matching/ count_all)
+print("logic tree acc :", count_true, count_all, count_true/ count_all)
+print("exact match acc:", count_exact_matching, count_all, count_exact_matching/ count_all)
