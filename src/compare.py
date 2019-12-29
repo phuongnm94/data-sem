@@ -37,6 +37,8 @@ def compare_semantic_form(s1, s2, data_name="", type=None):
     if "django" in data_name or type == "code":
         method_eq = is_code_eq
         obj_parser = SCode
+    if not isinstance(s1, str) or not isinstance(s2, str):
+        return False
     s1 = s1.strip()
     s2 = s2.strip()
     if s1 == s2:
@@ -83,10 +85,14 @@ def do_compare(opt):
             else:
                 if 'test' not in new_data.columns:
                     test_data = pd.read_csv(file_test, names=["test"])
-                    new_data = pd.merge(new_data, test_data, left_index=True, right_index=True)
+                    if test_data.shape[0] > 0:
+                        new_data = pd.merge(new_data, test_data, left_index=True, right_index=True)
                 if 'sentence' not in new_data.columns and os.path.exists(file_sentence):
-                    sentence_data = pd.read_csv(file_sentence, names=["sentence"])
-                    new_data = pd.merge(sentence_data, new_data, left_index=True, right_index=True)
+                    with open(file_sentence, "rt") as f:
+                        lines = [l.strip() for l in f.readlines()]
+                    sentence_data = pd.DataFrame(lines, columns=["sentence"], dtype=str)
+                    if sentence_data.shape[0] > 0:
+                        new_data = pd.merge(sentence_data, new_data, left_index=True, right_index=True)
                 new_data = pd.merge(new_data, pred_data, left_index=True, right_index=True)
 
             # save new data
