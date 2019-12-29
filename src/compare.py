@@ -57,7 +57,7 @@ def do_compare(opt):
         os.mkdir(opt.folder_out)
 
     directories = [x[0] for x in os.walk(directory)]
-    results = {"geo": None, "atis": None, "job": None}
+    results = {"geo": None, "atis": None, "job": None, "django": None}
     for directory_path in directories:
         directory_name = str(directory_path).split("/")[-1]
         if re.match(r"\d+_\w+_.*", directory_name) is not None:
