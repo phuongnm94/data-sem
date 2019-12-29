@@ -96,8 +96,9 @@ def do_compare(opt):
                 new_data = pd.merge(new_data, pred_data, left_index=True, right_index=True)
 
             # save new data
-            results[data_name] = new_data
-            print(results.get(data_name).count())
+            if new_data.shape[0] > 0:
+                results[data_name] = new_data
+            print(new_data.count())
 
     for k, df in results.items():
         if df is not None and 'test' in df.columns:
