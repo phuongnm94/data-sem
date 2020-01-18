@@ -77,23 +77,21 @@ def do_compare(opt):
                 continue
 
             new_data = results.get(data_name)
-            pred_data = pd.read_csv(file_pred, names=["pred_" + directory_name])
-
             if new_data is None:
-                test_data = pd.read_csv(file_test, names=["test"])
-                new_data = pd.merge(test_data, pred_data, left_index=True, right_index=True)
-            else:
-                if 'test' not in new_data.columns:
-                    test_data = pd.read_csv(file_test, names=["test"])
-                    if test_data.shape[0] > 0:
-                        new_data = pd.merge(new_data, test_data, left_index=True, right_index=True)
-                if 'sentence' not in new_data.columns and os.path.exists(file_sentence):
-                    with open(file_sentence, "rt") as f:
-                        lines = [l.strip() for l in f.readlines()]
-                    sentence_data = pd.DataFrame(lines, columns=["sentence"], dtype=str)
-                    if sentence_data.shape[0] > 0:
-                        new_data = pd.merge(sentence_data, new_data, left_index=True, right_index=True)
-                new_data = pd.merge(new_data, pred_data, left_index=True, right_index=True)
+                new_data = pd.DataFrame()
+            if 'sentence' not in new_data.columns and os.path.exists(file_sentence):
+                with open(file_sentence, "rt") as f:
+                    lines = [l.strip() for l in f.readlines()]
+                sentence_data = pd.DataFrame(lines, columns=["sentence"], dtype=str)
+                if sentence_data.shape[0] > 0:
+                    new_data["sentence"] = sentence_data["sentence"].iloc[:]
+
+            if 'test' not in new_data.columns:
+                test_data = pd.read_csv(file_test, header=None)
+                if test_data.shape[0] > 0:
+                    new_data["test"] = test_data.loc[:, 0]
+
+            new_data["pred_" + directory_name] = pd.read_csv(file_pred, header=None).loc[:, 0]
 
             # save new data
             if new_data.shape[0] > 0:
