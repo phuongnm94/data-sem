@@ -87,11 +87,14 @@ def do_compare(opt):
                     new_data["sentence"] = sentence_data["sentence"].iloc[:]
 
             if 'test' not in new_data.columns:
-                test_data = pd.read_csv(file_test, header=None)
+                test_data = pd.read_csv(file_test, delimiter="€€", header=None)
                 if test_data.shape[0] > 0:
                     new_data["test"] = test_data.loc[:, 0]
-
-            new_data["pred_" + directory_name] = pd.read_csv(file_pred, header=None).loc[:, 0]
+            try:
+                new_data["pred_" + directory_name] = pd.read_csv(file_pred, delimiter="€€", header=None).loc[:, 0]
+            except:
+                logging.warning("Exception when parsing file: {}".format(file_pred))
+                pass
 
             # save new data
             if new_data.shape[0] > 0:
