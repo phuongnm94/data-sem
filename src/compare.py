@@ -16,7 +16,7 @@ def method_filter_sem_form(row):
             s_pred = row[col_name]
             data_name = "_".join(col_name.split("_")[1:])
             if compare_semantic_form(s_gold, s_pred, data_name):
-                row[col_name] = ""
+                row[col_name] = "-[pass]-"
             else:
                 pass
 
@@ -87,14 +87,15 @@ def do_compare(opt):
                     new_data["sentence"] = sentence_data["sentence"].iloc[:]
 
             if 'test' not in new_data.columns:
-                test_data = pd.read_csv(file_test, delimiter="€€", header=None)
+                with open(file_test, "rt") as f:
+                    lines = [l.strip() for l in f.readlines()]
+                test_data = pd.DataFrame(lines, dtype=str)
                 if test_data.shape[0] > 0:
                     new_data["test"] = test_data.loc[:, 0]
-            try:
-                new_data["pred_" + directory_name] = pd.read_csv(file_pred, delimiter="€€", header=None).loc[:, 0]
-            except:
-                logging.warning("Exception when parsing file: {}".format(file_pred))
-                pass
+
+            with open(file_pred, "rt") as f:
+                lines = [l.strip() for l in f.readlines()]
+            new_data["pred_" + directory_name] = pd.DataFrame(lines, dtype=str).loc[:, 0]
 
             # save new data
             if new_data.shape[0] > 0:
