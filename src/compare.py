@@ -8,6 +8,7 @@ import pandas as pd
 from logical_utils.tree import is_tree_eq, STree
 from python_code_utils.scode import is_code_eq, SCode
 
+CORRECT_SIGNAL = "-[pass]-"
 
 def method_filter_sem_form(row):
     s_gold = row["test"]
@@ -16,7 +17,7 @@ def method_filter_sem_form(row):
             s_pred = row[col_name]
             data_name = "_".join(col_name.split("_")[1:])
             if compare_semantic_form(s_gold, s_pred, data_name):
-                row[col_name] = "-[pass]-"
+                row[col_name] = CORRECT_SIGNAL
             else:
                 pass
 
@@ -26,7 +27,7 @@ def method_filter_sem_form(row):
 def filter_error(row):
     for col_name in row.keys():
         if col_name.startswith("pred"):
-            if row[col_name] != "":
+            if row[col_name] != CORRECT_SIGNAL:
                 return True
     return False
 
@@ -95,7 +96,8 @@ def do_compare(opt):
 
             with open(file_pred, "rt") as f:
                 lines = [l.strip() for l in f.readlines()]
-            new_data["pred_" + directory_name] = pd.DataFrame(lines, dtype=str).loc[:, 0]
+            if len(lines) > 0:
+                new_data["pred_" + directory_name] = pd.DataFrame(lines, dtype=str).loc[:, 0]
 
             # save new data
             if new_data.shape[0] > 0:
