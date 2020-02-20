@@ -1,0 +1,491 @@
+) ) ) ci1 $0 to ( ) ci0 $0 from ( and ( e $0 lambda (
+) ) ) ci0 $0 to_city ( ) $0 ground_transport ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( and ( e $0 lambda (
+) ) ) ci0 $0 to_city ( ) $0 rapid_transit ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( and ( e $0 lambda (
+ap0
+sa:dc
+) ) ) ci1 $0 to ( ) ci0 $0 from ( and ( e $0 lambda (
+al0
+) ) ) ci1 $0 to ( ) ci0 $0 from ( and ( e $0 lambda (
+) ) ) ci0 $0 from ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( and ( e $0 lambda (
+ap0
+al0
+ap0
+) ) ) da0 $0 day ( ) ci1 $0 to ( ) ci0 $0 from ( and ( e $0 lambda (
+) ci0 al0 services (
+) ) ) ci0 $0 to_city ( ) $0 ground_transport ( and ( e $0 lambda (
+rc0
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 daily ( and ( e $0 lambda (
+rc0
+al0
+) ) ) ci0 $0 to ( ) ap0 $0 from ( and ( e $0 lambda (
+) ) ) ci0 $0 to_city ( ) $0 rental_car ( and ( e $0 lambda (
+) ) ) ci0 $0 services ( ) $0 airline ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) $0 ) $1 aircraft_code ( = ( ) fn0 $1 flight_number ( ) al0 $1 airline ( and ( $1 exists ( e $0 lambda (
+) ) ) ci0 $0 to ( ) ci1 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) ) ) $0 $1 from ( ) $0 $1 to ( or ( ) al0 $1 airline ( ) $1 flight ( and ( $1 exists ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) pm:pd $0 during_day ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci0 $0 to ( ) ci1 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci0 $0 to ( ) ci1 $0 from ( ) al0 $0 airline ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci0 $0 to ( ) ci1 $0 from ( ) al0 $0 airline ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+fb0
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+ap0
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) al0 $0 airline ( and ( e $0 lambda (
+) ) ) ci0 $0 loc:t ( ) $0 airport ( and ( e $0 lambda (
+) ) ) ci0 $0 from ( ) al0 $0 airline ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci0 $0 loc:t ( ) $0 airport ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) $0 ) $1 airline:e ( = ( ) ci0 $1 to ( and ( $1 exists ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) fn0 $0 flight_number ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci0 $0 to ( ) ci1 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ap0 $0 to ( ) $0 flight ( and ( $0 count (
+) ac0 capacity (
+) ) ) ci0 $0 to ( ) ci1 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci0 $0 to ( ) $0 flight ( and ( e $0 lambda (
+fb0
+) ) ) ci0 $0 to ( ) ci1 $0 from ( and ( e $0 lambda (
+) ) ) ci0 $0 to_city ( ) $0 ground_transport ( and ( e $0 lambda (
+) ) ) ) $0 ) $1 airline:e ( = ( ) ci0 $1 from ( ) $1 flight ( and ( $1 exists ( e $0 lambda (
+fb0
+fb0
+) ) $0 fare ( ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( $0 argmin (
+) ac0 capacity (
+) ) ) ci0 $0 to_city ( ) $0 ground_transport ( and ( e $0 lambda (
+) ) ) ci0 $0 to_city ( ) $0 limousine ( and ( e $0 lambda (
+) ) ) ci0 $0 to ( ) ci1 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci0 $0 to ( ) ci1 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) afternoon:pd $0 during_day ( and ( e $0 lambda (
+) ) ) ci0 $0 from ( ) ti0 $0 approx_departure_time ( ) al0 $0 airline ( ) $0 flight ( and ( e $0 lambda (
+) ) ) da0 $0 day ( ) ci1 $0 to ( ) ci0 $0 from ( ) al0 $0 airline ( and ( e $0 lambda (
+) ) ) ci0 $0 to ( ) ) ap0 $0 from ( ) ap1 $0 from ( or ( ) $0 flight ( and ( e $0 lambda (
+) ) ) $0 flight ( ) ci0 $0 to ( ) al0 $0 airline ( and ( $0 count (
+) ) ) ap0 $0 to ( ) $0 flight ( and ( e $0 lambda (
+fb0
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci0 $0 to_city ( ) $0 ground_transport ( and ( e $0 lambda (
+) ) ) ci0 $0 to ( ) ci1 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) al0 $0 airline ( ) $0 flight ( and ( e $0 lambda (
+) ) ) da0 $0 day ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci0 $0 to_city ( ) $0 rental_car ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) al0 $0 airline ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) $0 ) $1 airline:e ( = ( ) ci1 $1 to ( ) ci0 $1 from ( ) $1 flight ( and ( $1 exists ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) morning:pd $0 during_day ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci0 $0 to_city ( ) $0 ground_transport ( and ( e $0 lambda (
+) ) $0 departure_time ( ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( $0 argmin (
+) ) ) ) ) $0 $1 aircraft_code ( ) al0 $1 airline ( and ( $1 exists ( ) $0 aircraft_code:t ( and ( e $0 lambda (
+) ) ) ci0 $0 to ( ) ci1 $0 from ( ) $0 round_trip ( ) $0 flight ( and ( e $0 lambda (
+al0
+) ) ) ci0 $0 to_city ( ) $0 ground_transport ( and ( e $0 lambda (
+) ) ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) $0 ) $1 airline:e ( = ( ) ci0 $1 to ( ) ci1 $1 from ( ) $1 flight ( and ( $1 exists ( e $0 lambda (
+) ) ) ci0 $0 to ( ) ci1 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) $0 ) $1 booking_class ( = ( ) al0 $1 airline ( and ( $1 exists ( e $0 lambda (
+) ) $0 departure_time ( ) ) ap0 $0 to ( ) $0 flight ( and ( $0 argmax (
+) ) ) ci0 $0 to_city ( ) $0 ground_transport ( and ( e $0 lambda (
+ac0
+) ) ) ) $0 ) $1 fare ( = ( ) ci1 $1 to ( ) ci0 $1 from ( and ( $1 exists ( e $0 lambda (
+) ) ) ) $0 ) $1 fare ( = ( ) ci0 $1 to ( ) ci1 $1 from ( and ( $1 exists ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) $0 ) $1 fare ( = ( ) ci1 $1 to ( ) ci0 $1 from ( ) $1 flight ( and ( $1 exists ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) $0 ) $1 fare ( = ( ) ci1 $1 to ( ) ci0 $1 from ( and ( $1 exists ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci0 $0 to ( ) ci1 $0 from ( ) $0 round_trip ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 nonstop ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( and ( e $0 lambda (
+) ) ) ci0 $0 to ( ) ci1 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) al0 $0 airline ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci0 $0 to_city ( ) $0 ground_transport ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) $0 ) $1 booking_class ( = ( ) al0 $1 airline ( and ( $1 exists ( e $0 lambda (
+) ) ) ) ap0 $0 to ( ) ap0 $0 from ( or ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) $0 ) $1 airline:e ( = ( ) ci1 $1 to ( ) ci0 $1 from ( and ( $1 exists ( e $0 lambda (
+) ) ) $0 al0 services ( ) $0 city ( and ( e $0 lambda (
+) ) ) ) $0 ) $1 airline:e ( = ( ) ci1 $1 to ( ) ci0 $1 from ( and ( $1 exists ( e $0 lambda (
+) ) ) ci0 $0 to ( ) ap0 $0 from ( ) al0 $0 airline ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) $0 fare ( ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( $0 argmin (
+) ) ) ) $0 ) $1 ground_fare ( = ( ) ci0 $1 to_city ( ) $1 rental_car ( and ( $1 exists ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) da0 $0 day ( ) ci1 $0 to ( ) ci0 $0 from ( ) morning:pd $0 during_day ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci0 $0 from ( ) ti0 ) $0 departure_time ( < ( ) al0 $0 airline ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ap0 $0 to ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ap0 $0 from_airport ( ) $0 limousine ( and ( e $0 lambda (
+) ) $0 departure_time ( ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( $0 argmin (
+) ) ) ap0 $0 to ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci0 $0 to ( ) ci1 $0 from ( and ( e $0 lambda (
+) ) ) ) $0 ) $1 fare ( = ( ) ci0 $1 to ( ) ci1 $1 from ( and ( $1 exists ( e $0 lambda (
+) ) ) ci0 $0 to ( ) ci1 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) $0 tomorrow ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) afternoon:pd $0 during_day ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci0 $0 to ( ) ci1 $0 from ( ) $0 nonstop ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) al0 $0 airline ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) al0 $0 airline ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) early:pd $0 during_day ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) $0 ) $1 aircraft_code ( = ( ) ci0 $1 to ( ) ci1 $1 from ( ) $1 flight ( and ( $1 exists ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) $0 al1 services ( ) $0 al0 services ( ) $0 city ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) $0 departure_time ( ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( $0 argmin (
+) ) ) ) $0 ) $1 airline:e ( = ( ) da0 $1 day ( ) ci1 $1 to ( ) ci0 $1 from ( ) $1 flight ( and ( $1 exists ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) al0 $0 airline ( ) $0 flight ( and ( e $0 lambda (
+) ) $0 departure_time ( ) ) ci0 $0 to ( ) ci1 $0 from ( ) $0 flight ( and ( $0 argmin (
+) ) ) $0 rental_car ( ) da0 $0 day ( ) ap0 $0 from_airport ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) $1 ) $0 fare ( = ( ) ci1 $0 to ( ) ci0 $0 from ( ) al0 $0 airline ( ) $0 nonstop ( and ( $1 exists ( e $0 lambda (
+) ) ) ci0 $0 to ( ) ci1 $0 from ( ) $0 economy ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci0 $0 to ( ) ci1 $0 from ( ) $0 nonstop ( ) $0 flight ( and ( e $0 lambda (
+) ) $0 booking_class:t ( e $0 lambda (
+) ) ) ) $0 ) $1 ground_fare ( = ( ) ci0 $1 to_city ( ) $1 limousine ( and ( $1 exists ( e $0 lambda (
+) ) ) ) $0 ) $1 airline:e ( = ( ) ci1 $1 to ( ) ci0 $1 from ( ) $1 nonstop ( ) $1 flight ( and ( $1 exists ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 nonstop ( ) $0 flight ( and ( e $0 lambda (
+) ) ) da0 $0 day_arrival ( ) ci0 $0 to ( ) al0 $0 airline ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ap0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) al0 $0 airline ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) al0 $0 airline ( ) $0 flight ( and ( e $0 lambda (
+) ) ) da0 $0 day ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) mn0 $0 month ( ) dn0 $0 day_number ( ) ci0 $0 to ( ) ci1 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ap0 $0 from_airport ( ) ci0 $0 to_city ( ) $0 ground_transport ( and ( e $0 lambda (
+) ) ) ci0 $0 to ( ) ci1 $0 from ( ) al0 $0 airline ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci0 $0 to ( ) ci1 $0 from ( ) afternoon:pd $0 during_day ( ) $0 flight ( and ( e $0 lambda (
+) ) ) $0 departure_time ( ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( $0 argmin ( departure_time (
+) ) $0 departure_time ( ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( $0 argmin (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) $0 weekday ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) da0 $0 day ( ) ci0 $0 from ( ) morning:pd $0 during_day ( ) early:pd $0 during_day ( ) al0 $0 airline ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) al0 $0 airline ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci0 $0 to ( ) ci1 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) da0 $0 day ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci0 $0 to ( ) ci1 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci0 $0 to_city ( ) $0 ground_transport ( and ( e $0 lambda (
+) ) ) ci0 $0 to ( ) ci1 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci0 $0 to ( ) ci1 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) al0 $0 airline ( ) $0 flight ( and ( e $0 lambda (
+) ) ) da0 $0 day ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) $0 ) $1 fare ( = ( ) ci1 $1 to ( ) ci0 $1 from ( ) $1 economy ( and ( $1 exists ( e $0 lambda (
+) ) ) $0 today ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) $0 ) $1 departure_time ( = ( ) ci1 $1 to ( ) ci0 $1 from ( ) $1 flight ( and ( $1 exists ( e $0 lambda (
+) ) ) ci0 $0 to_city ( ) $0 ground_transport ( and ( e $0 lambda (
+) ) ) ) $0 ) $1 fare ( = ( ) ci0 $1 to ( ) ci1 $1 from ( ) $1 round_trip ( and ( $1 exists ( e $0 lambda (
+) ) ) ) $0 ) $1 fare ( = ( ) ci1 $1 to ( ) ci0 $1 from ( and ( $1 exists ( $0 min (
+) ) ) da0 $0 day ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) al0 $0 airline ( ) $0 daily ( ) $0 flight ( and ( e $0 lambda (
+) ) ) $0 today ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) ci1 $1 from ( ) ci0 $1 to ( ) dn0 $1 day_number ( ) mn0 $1 month ( ) $0 ) $1 flight_number ( = ( and ( $1 exists ( e $0 lambda (
+) ) ) ap0 $0 stop ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) da0 $0 day ( ) ci0 $0 to ( ) ci1 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci2 $0 stop ( ) ci0 $0 to ( ) ci1 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) da0 $0 day ( ) ci1 $0 to ( ) ci0 $0 from ( ) al0 $0 airline ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) al0 $0 airline ( ) $0 flight ( and ( e $0 lambda (
+) ) $0 departure_time ( ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( $0 argmin (
+) ) ) mn0 $0 month ( ) dn0 $0 day_number ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) da0 $0 day ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) al0 $0 airline ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) $0 ) $1 fare ( = ( ) ci1 $1 to ( ) ci0 $1 from ( ) business:cl $1 class_type ( ) al0 $1 airline ( and ( $1 exists ( e $0 lambda (
+) ) ) ci2 $0 stop ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) $0 ) $1 fare ( = ( ) ci1 $1 to ( ) ci0 $1 from ( ) first:cl $1 class_type ( and ( $1 exists ( e $0 lambda (
+) ) ) ) $0 ) $1 fare ( = ( ) ci0 $1 to ( ) ci1 $1 from ( ) al0 $1 airline ( ) $1 flight ( and ( $1 exists ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) al0 $0 airline ( ) $0 nonstop ( ) $0 flight ( and ( e $0 lambda (
+) ) ) da0 $0 day ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) $0 fare ( ) ) ci0 $0 to ( ) $0 flight ( and ( $0 argmax (
+) ) ) ) da1 $0 day ( ) da0 $0 day ( or ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 round_trip ( ) $0 flight ( and ( e $0 lambda (
+) ) ) da0 $0 day ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) da0 $0 day ( ) ci0 $0 to ( ) ci1 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ap0 $0 from_airport ( ) ci0 $0 to_city ( ) $0 miles_distant ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) al0 $0 airline ( ) $0 nonstop ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci0 $0 to ( ) ci1 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) $0 ) $1 fare ( = ( ) $1 round_trip ( ) ap0 $1 to ( ) ci0 $1 from ( and ( $1 exists ( $0 min (
+) ) ) ci0 $0 to ( ) ci1 $0 from ( ) ti0 ) $0 departure_time ( < ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 from ( ) $0 flight ( ) ci1 $0 from ( ) ) ci0 $0 to ( not ( ) ci2 $0 to ( and ( e $0 lambda (
+) ) ) $0 round_trip ( ) coach:cl $0 class_type ( ) $0 flight ( ) ci1 $0 from ( ) ci0 $0 to ( ) $0 economy ( and ( e $0 lambda (
+) ) ) ) $1 ) $0 fare ( = ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( $1 exists ( e $0 lambda (
+) ) ) ci0 $0 stop ( ) al0 $0 airline ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) morning:pd $0 during_day ( ) $0 flight ( and ( e $0 lambda (
+) ) ) da0 $0 day ( ) ci0 $0 to ( ) ci1 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) ti0 ) $0 arrival_time ( > ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) ) $1 $0 from ( ) $1 airport ( and ( $1 exists ( ) ap0 $0 to ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) $0 ) $1 fare ( = ( ) ci1 $1 to ( ) ci0 $1 from ( ) al0 $1 airline ( ) $1 flight ( and ( $1 exists ( e $0 lambda (
+) ) $0 arrival_time ( ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( $0 argmin (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) al0 $0 airline ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ap0 $0 from_airport ( ) ci0 $0 to_city ( ) $0 ground_transport ( and ( e $0 lambda (
+) ) $0 departure_time ( ) ) $0 tomorrow ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( $0 argmin (
+) ) $0 departure_time ( ) ) ci0 $0 to ( ) ci1 $0 from ( ) $0 flight ( and ( $0 argmax (
+) ) ) ) $0 ) $1 fare ( = ( ) ci1 $1 to ( ) ci0 $1 from ( ) first:cl $1 class_type ( ) $1 round_trip ( and ( $1 exists ( e $0 lambda (
+) ) ) da0 $0 day ( ) ci1 $0 to ( ) ci0 $0 from ( ) morning:pd $0 during_day ( ) $0 flight ( and ( e $0 lambda (
+) ) ) mn0 $0 month ( ) dn0 $0 day_number ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) da0 $0 day ( ) ci1 $0 to ( ) ci0 $0 from ( ) afternoon:pd $0 during_day ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci2 $0 stop ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) $0 departure_time ( ) ) ci1 $0 to ( ) ci0 $0 from ( ) evening:pd $0 during_day ( ) $0 flight ( and ( $0 argmax (
+) ) ) ) da1 $0 day ( ) da0 $0 day ( or ( ) ci1 $0 to ( ) ci0 $0 from ( ) al0 $0 airline ( ) $0 flight ( and ( e $0 lambda (
+) ) ) $0 tomorrow ( ) ci1 $0 to ( ) ci0 $0 from ( ) morning:pd $0 during_day ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) morning:pd $0 during_day ( ) early:pd $0 during_day ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) $0 ) $1 fare ( = ( ) ci1 $1 to ( ) ci0 $1 from ( ) $1 oneway ( and ( $1 exists ( $0 min (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) al0 $0 airline ( ) $0 nonstop ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci0 $0 stop ( ) ci2 $0 to ( ) ci1 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) $0 ) $1 fare ( = ( ) ci0 $1 to ( ) ci1 $1 from ( ) fn0 $1 flight_number ( ) al0 $1 airline ( ) $1 flight ( and ( $1 exists ( e $0 lambda (
+) ) ) ap0 $0 from_airport ( ) ci0 $0 to_city ( ) $0 ground_transport ( and ( e $0 lambda (
+) ) ) ) $0 ) $1 aircraft_code ( = ( ) ci1 $1 to ( ) ci0 $1 from ( ) $1 flight ( and ( $1 exists ( e $0 lambda (
+) ) ) da0 $0 day ( ) ci1 $0 to ( ) ci0 $0 from ( ) al0 $0 airline ( ) $0 flight ( and ( e $0 lambda (
+) ) $0 fare ( ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( $0 argmin (
+) ) ) ) $0 ) $1 airline:e ( = ( ) ) ) $2 $1 stop ( ) $2 city ( and ( $2 exists ( ) ci0 $1 to ( ) ci1 $1 from ( ) $1 flight ( and ( $1 exists ( e $0 lambda (
+) ) ) ) $0 ) $1 fare ( = ( ) ) ) $2 $1 to ( ) $2 city ( and ( $2 exists ( ) $1 round_trip ( ) ci0 $1 from ( and ( $1 exists ( $0 min (
+) ) ) da0 $0 day ( ) ci1 $0 to ( ) ci0 $0 from ( ) al0 $0 airline ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) ti0 ) $0 departure_time ( > ( ) al0 $0 airline ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) $0 ) $1 fare ( = ( ) ci1 $1 to ( ) ci0 $1 from ( ) fn0 $1 flight_number ( ) al0 $1 airline ( ) $1 flight ( and ( $1 exists ( e $0 lambda (
+) ) ) ) $0 ) $1 fare ( = ( ) $1 tomorrow ( ) ci1 $1 to ( ) ci0 $1 from ( ) $1 flight ( and ( $1 exists ( e $0 lambda (
+) ) ) da0 $0 day ( ) ci1 $0 to ( ) ci0 $0 from ( ) morning:pd $0 during_day ( ) $0 flight ( and ( e $0 lambda (
+) ) ) da0 $0 day ( ) ci1 $0 to ( ) ci0 $0 from ( ) morning:pd $0 during_day ( ) $0 flight ( and ( e $0 lambda (
+) ) $0 fare ( ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 oneway ( ) $0 flight ( and ( $0 argmin (
+) ) ) da0 $0 day ( ) ci1 $0 to ( ) ci0 $0 from ( ) morning:pd $0 during_day ( ) $0 flight ( and ( e $0 lambda (
+) ) $0 departure_time ( ) ) ap0 $0 to ( ) ci0 $0 from ( ) lunch:me $0 meal ( ) $0 flight ( and ( $0 argmin (
+) ) $0 departure_time ( ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( $0 argmax (
+) ) ) da0 $0 day ( ) ci1 $0 to ( ) ci0 $0 from ( ) dinner:me $0 meal ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci0 $0 to ( ) ci1 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) da0 $0 day ( ) ci0 $0 from ( ) ti0 ) $0 departure_time ( > ( ) al0 $0 airline ( ) $0 flight ( and ( e $0 lambda (
+) ) ) da0 $0 day ( ) ci1 $0 to ( ) ci0 $0 from ( ) ti0 ) $0 departure_time ( > ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) $0 ) $1 fare ( = ( ) ci1 $1 to ( ) ci0 $1 from ( ) $1 oneway ( and ( $1 exists ( $0 min (
+) ) ) ) $0 ) $1 fare ( = ( ) ci0 $1 to ( ) ci1 $1 from ( ) $1 flight ( and ( $1 exists ( e $0 lambda (
+) ) ) fn0 $0 flight_number ( ) al0 $0 airline ( ) $0 flight ( ) ci0 $0 from ( ) ci1 $0 to ( ) $0 has_meal ( and ( e $0 lambda (
+) ) ) da0 $0 day ( ) ci1 $0 to ( ) ci0 $0 from ( ) al0 $0 airline ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) $0 ) $1 fare ( = ( ) ci1 $1 to ( ) ci0 $1 from ( ) fn0 $1 flight_number ( ) al0 $1 airline ( ) $1 flight ( and ( $1 exists ( e $0 lambda (
+) ) ) ap0 $0 from_airport ( ) ci0 $0 to_city ( ) $0 ground_transport ( and ( e $0 lambda (
+) ) ) ) $0 ) $1 fare ( = ( ) ci0 $1 to ( ) ci1 $1 from ( ) fn0 $1 flight_number ( ) al0 $1 airline ( ) $1 flight ( and ( $1 exists ( e $0 lambda (
+) ) ) ) ci3 $0 to ( ) ci2 $0 to ( ) ci1 $0 to ( or ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) morning:pd $0 during_day ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) ap0 $0 to ( ) ap0 $0 from ( or ( ) $0 flight ( and ( e $0 lambda (
+) ) ) da0 $0 day ( ) ci0 $0 to ( ) ci1 $0 from ( ) ti0 $0 approx_arrival_time ( ) $0 flight ( and ( e $0 lambda (
+) ) ) da0 $0 day ( ) ci0 $0 to ( ) ci1 $0 from ( ) morning:pd $0 during_day ( ) $0 flight ( and ( e $0 lambda (
+) ) $0 departure_time ( ) ) da0 $0 day ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( $0 argmin (
+) ) ) ci0 $0 to ( ) ci1 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) $0 departure_time ( ) ) $0 tomorrow ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( $0 argmin (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) 1:i $0 stops ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) mn0 $0 month ( ) dn0 $0 day_number ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) da0 $0 day ( ) ci1 $0 to ( ) ci0 $0 from ( ) evening:pd $0 during_day ( ) $0 flight ( and ( e $0 lambda (
+) ) $0 fare ( ) ) $0 round_trip ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( $0 argmin (
+) ) ) da0 $0 day ( ) ci0 $0 to ( ) ci1 $0 from ( ) afternoon:pd $0 during_day ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) morning:pd $0 during_day ( ) do0 $0 fare ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) ti0 $0 approx_departure_time ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) $0 ) $1 fare ( = ( ) ci1 $1 to ( ) ci0 $1 from ( ) ti0 $1 departure_time ( ) al0 $1 airline ( ) $1 flight ( and ( $1 exists ( e $0 lambda (
+) ) ) da0 $0 day ( ) ci1 $0 to ( ) ci0 $0 from ( ) morning:pd $0 during_day ( and ( e $0 lambda (
+) ) ) mn0 $0 month ( ) dn0 $0 day_number ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) da0 $0 day ( ) ci1 $0 to ( ) ci0 $0 from ( ) ti0 ) $0 departure_time ( < ( ) $0 nonstop ( ) $0 flight ( and ( e $0 lambda (
+) ) ) da0 $0 day ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) $0 ) $1 fare ( = ( ) ci1 $1 to ( ) ci0 $1 from ( ) $1 round_trip ( and ( $1 exists ( e $0 lambda (
+) ) ) da0 $0 day ( ) ci0 $0 to ( ) ci1 $0 from ( ) evening:pd $0 during_day ( ) $0 flight ( and ( e $0 lambda (
+) ) ) da0 $0 day ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 has_meal ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) $0 ) $1 time_elapsed ( = ( ) ci1 $1 to ( ) ci0 $1 from ( and ( $1 exists ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) ti0 ) $0 departure_time ( < ( ) $0 flight ( and ( e $0 lambda (
+) ) ) da0 $0 day ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) mn0 $0 month ( ) dn0 $0 day_number ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) $0 ) $1 fare ( = ( ) ci0 $1 to ( ) ci1 $1 from ( ) fn0 $1 flight_number ( ) al0 $1 airline ( ) $1 flight ( and ( $1 exists ( e $0 lambda (
+) ) ) da0 $0 day ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) $0 ) $1 fare ( = ( ) ci1 $1 to ( ) ci0 $1 from ( ) fn0 $1 flight_number ( ) al0 $1 airline ( ) $1 flight ( and ( $1 exists ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) da0 $0 day ( ) ci1 $0 to ( ) ci0 $0 from ( ) morning:pd $0 during_day ( and ( e $0 lambda (
+) ) ) ap0 $0 from_airport ( ) ci0 $0 to_city ( ) $0 ground_transport ( and ( e $0 lambda (
+) ) ) ap0 $0 to ( ) ci0 $0 from ( ) ac0 $0 aircraft_code ( ) boeing:mf $0 manufacturer ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) ti0 ) $0 departure_time ( < ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) ) ci2 $0 to ( ) ci0 $0 from ( and ( ) ) ci1 $0 to ( ) ci0 $0 from ( and ( or ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 round_trip ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) ti0 ) $0 arrival_time ( < ( ) $0 flight ( and ( e $0 lambda (
+) ) ) mn0 $0 month ( ) dn0 $0 day_number ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( $0 count (
+) ) ) ap0 $0 from_airport ( ) ci0 $0 to_city ( ) $0 ground_transport ( and ( e $0 lambda (
+) ) ) ap0 $0 from_airport ( ) ci0 $0 to_city ( ) $0 ground_transport ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) ti0 ) $0 departure_time ( > ( ) al0 $0 airline ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) ti0 ) $0 departure_time ( > ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) $0 ) $1 fare ( = ( ) ci1 $1 to ( ) ci0 $1 from ( ) first:cl $1 class_type ( ) $1 round_trip ( and ( $1 exists ( e $0 lambda (
+) ) ) da0 $0 day ( ) ci0 $0 to ( ) first:cl $0 class_type ( ) al0 $0 airline ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) $0 ) $1 airline:e ( = ( ) ci1 $1 to ( ) ci0 $1 from ( ) afternoon:pd $1 during_day ( ) early:pd $1 during_day ( ) $1 flight ( and ( $1 exists ( e $0 lambda (
+) ) ) ) da1 $0 day ( ) da0 $0 day ( or ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) afternoon:pd $0 during_day ( ) late:pd $0 during_day ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) ti0 ) $0 departure_time ( < ( ) al0 $0 airline ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) $0 ) $1 fare ( = ( ) ci1 $1 to ( ) ci0 $1 from ( ) $1 economy ( ) $1 oneway ( and ( $1 exists ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) ti0 $0 approx_departure_time ( ) $0 flight ( and ( e $0 lambda (
+) ) ) mn0 $0 month ( ) dn0 $0 day_number ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) mn0 $0 month ( ) dn0 $0 day_number ( ) da0 $0 day ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci0 $0 to ( ) ci1 $0 from ( ) 3:i ) $0 stops ( > ( ) $0 flight ( and ( e $0 lambda (
+) ) $0 departure_time ( ) ) da0 $0 day ( ) ci0 $0 to ( ) ci1 $0 from ( ) $0 flight ( and ( $0 argmax (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) ti0 ) $0 arrival_time ( > ( ) $0 nonstop ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ap0 $0 from_airport ( ) ci0 $0 to_city ( ) $0 ground_transport ( and ( e $0 lambda (
+) ) ) ci0 $0 to ( ) ci1 $0 from ( ) ac0 $0 aircraft_code ( ) boeing:mf $0 manufacturer ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) ci2 $0 to ( ) ci1 $0 to ( or ( ) ci0 $0 from ( ) $0 nonstop ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) afternoon:pd $0 during_day ( ) $0 flight ( and ( e $0 lambda (
+) ) $0 fare ( ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 has_meal ( ) $0 flight ( and ( $0 argmin (
+) ) ) dn0 $0 day_number ( ) da0 $0 day ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) da0 $0 day ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) $0 ) $1 fare ( = ( ) ci1 $1 to ( ) ci0 $1 from ( ) coach:cl $1 class_type ( ) $1 flight ( and ( $1 exists ( e $0 lambda (
+) ) $0 departure_time ( ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( $0 argmin (
+) ) ) mn0 $0 month ( ) dn0 $0 day_number ( ) da0 $0 day ( ) ci0 $0 to ( ) ci1 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci0 $0 to ( ) ap0 $0 from ( ) afternoon:pd $0 during_day ( ) $0 nonstop ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci2 $0 stop ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) $0 ) $1 fare ( = ( ) mn0 $1 month ( ) dn0 $1 day_number ( ) ci1 $1 to ( ) ci0 $1 from ( ) $1 flight ( and ( $1 exists ( e $0 lambda (
+) ) ) ) $0 ) $1 fare ( = ( ) da0 $1 day ( ) ci1 $1 to ( ) ci0 $1 from ( and ( $1 exists ( e $0 lambda (
+) ) ) da0 $0 day ( ) ci1 $0 to ( ) ci0 $0 from ( ) al0 $0 airline ( ) $0 flight ( and ( e $0 lambda (
+) ) ) da0 $0 day ( ) ci1 $0 to ( ) ci0 $0 from ( ) ti0 $0 approx_arrival_time ( ) $0 flight ( and ( e $0 lambda (
+) ) ) yr0 $0 year ( ) mn0 $0 month ( ) dn0 $0 day_number ( ) ci0 $0 to ( ) ci1 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci2 $0 stop ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) $0 departure_time ( ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( $0 argmin (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) evening:pd $0 during_day ( ) $0 flight ( and ( e $0 lambda (
+) ) $0 stops ( ) ) ci0 $0 to ( ) ci1 $0 from ( ) $0 flight ( and ( $0 argmax (
+) ) ) ci0 $0 to ( ) ci1 $0 from ( ) ti0 $0 approx_arrival_time ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) $1 ) $0 fare ( = ( ) da0 $0 day ( ) ci1 $0 to ( ) ci0 $0 from ( ) morning:pd $0 during_day ( ) $0 flight ( and ( $1 exists ( e $0 lambda (
+) ) ) ci0 $0 to ( ) ci1 $0 from ( ) ti1 ) $0 departure_time ( < ( ) ti0 ) $0 departure_time ( > ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) $0 ) $1 fare ( = ( ) da0 $1 day ( ) ci0 $1 to ( ) ci1 $1 from ( ) late:pd $1 during_day ( ) fn0 $1 flight_number ( ) al0 $1 airline ( ) $1 flight ( and ( $1 exists ( e $0 lambda (
+) ) ) ci2 $0 stop ( ) ci0 $0 to ( ) ci1 $0 from ( ) al0 $0 airline ( ) $0 flight ( and ( e $0 lambda (
+) ) ) da0 $0 day ( ) ci1 $0 to ( ) ci0 $0 from ( ) morning:pd $0 during_day ( ) early:pd $0 during_day ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) ti1 ) $0 arrival_time ( < ( ) ti0 ) $0 arrival_time ( > ( ) $0 flight ( and ( e $0 lambda (
+) ) ) mn0 $0 month ( ) dn0 $0 day_number ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 round_trip ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) $0 ) $1 aircraft_code ( = ( ) ci0 $1 to ( ) ci1 $1 from ( ) ti0 ) $1 departure_time ( < ( ) $1 flight ( and ( $1 exists ( e $0 lambda (
+) ) ) ) $0 ) $1 departure_time ( = ( ) da0 $1 day ( ) morning:pd $1 during_day ( ) ci0 $1 to_city ( ) $1 ground_transport ( and ( $1 exists ( e $0 lambda (
+) ) $0 departure_time ( ) ) mn0 $0 month ( ) dn0 $0 day_number ( ) da0 $0 day ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( $0 argmin (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) afternoon:pd $0 during_day ( ) al0 $0 airline ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci2 $0 stop ( ) ci1 $0 to ( ) ci0 $0 from ( ) al0 $0 airline ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci3 $0 stop ( ) ci0 $0 to ( ) ) ci2 $0 from ( ) ci1 $0 from ( or ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) morning:pd $0 during_day ( ) early:pd $0 during_day ( ) al0 $0 airline ( ) $0 flight ( and ( e $0 lambda (
+) ) ) mn0 $0 month ( ) dn0 $0 day_number ( ) ci0 $0 to ( ) ci1 $0 from ( ) ti0 ) $0 departure_time ( > ( ) $0 economy ( ) $0 flight ( and ( e $0 lambda (
+) ) $0 fare ( ) ) mn0 $0 month ( ) dn0 $0 day_number ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( $0 argmin (
+) ) ) ) $0 ) $1 fare ( = ( ) ci1 $1 to ( ) ci0 $1 from ( ) al0 $1 airline ( ) $1 flight ( and ( $1 exists ( e $0 lambda (
+) ) ) $0 today ( ) first:cl $0 class_type ( ) al0 $0 airline ( ) $0 flight ( and ( $0 count (
+) ) ) ci2 $0 stop ( ) ci0 $0 to ( ) ci1 $0 from ( and ( e $0 lambda (
+) ) ) ci0 $0 stop ( ) ci2 $0 to ( ) ci1 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) $0 ) $1 aircraft_code ( = ( ) ci1 $1 to ( ) ci0 $1 from ( ) ti0 ) $1 departure_time ( < ( ) al0 $1 airline ( ) $1 flight ( and ( $1 exists ( e $0 lambda (
+) ) ) yr0 $0 year ( ) mn0 $0 month ( ) dn0 $0 day_number ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 nonstop ( ) $0 flight ( and ( $0 count (
+) ) ) da0 $0 day ( ) ci1 $0 to ( ) ci0 $0 from ( ) ti0 ) $0 departure_time ( < ( ) $0 flight ( and ( e $0 lambda (
+) ) ) da0 $0 day ( ) ci1 $0 to ( ) ci0 $0 from ( ) ti0 ) $0 departure_time ( > ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) ) $1 $0 from ( ) $1 airport ( and ( $1 exists ( ) morning:pd $0 during_day ( ) ti0 ) $0 arrival_time ( < ( ) ci0 $0 to ( ) da0 $0 day_arrival ( and ( e $0 lambda (
+) ) $0 fare ( ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 oneway ( ) $0 flight ( and ( $0 argmin (
+) ) ) ) $0 ) $1 airline:e ( = ( ) ci1 $1 to ( ) ci0 $1 from ( ) $1 flight ( and ( $1 exists ( e $0 lambda (
+) ) ) da0 $0 day ( ) ci0 $0 to ( ) ci1 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) da0 $0 day ( ) ci1 $0 to ( ) ci0 $0 from ( ) ti0 ) $0 departure_time ( < ( ) al0 $0 airline ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) $0 ) $1 fare ( = ( ) ci0 $1 to ( ) ci1 $1 from ( ) first:cl $1 class_type ( ) al0 $1 airline ( ) $1 round_trip ( and ( $1 exists ( e $0 lambda (
+) ) ) ) $0 ) $1 fare ( = ( ) ci1 $1 to ( ) ci0 $1 from ( ) $1 oneway ( and ( $1 exists ( $0 min (
+) ) ) da0 $0 day ( ) ci1 $0 to ( ) ci0 $0 from ( ) ti0 ) $0 arrival_time ( < ( ) $0 nonstop ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ap0 $0 from_airport ( ) ci0 $0 to_city ( ) $0 ground_transport ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) ) al0 $0 airline ( ) al1 $0 airline ( or ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) ti1 ) $0 arrival_time ( < ( ) ti0 ) $0 arrival_time ( > ( ) $0 nonstop ( ) $0 flight ( and ( e $0 lambda (
+) ) ) yr0 $0 year ( ) mn0 $0 month ( ) dn0 $0 day_number ( ) ci1 $0 to ( ) ci0 $0 from ( ) first:cl $0 class_type ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) $0 ) $1 fare ( = ( ) mn0 $1 month ( ) dn0 $1 day_number ( ) ci1 $1 to ( ) ci0 $1 from ( ) $1 oneway ( and ( $1 exists ( e $0 lambda (
+) ) ) da0 $0 day ( ) ci0 $0 to ( ) ci1 $0 from ( ) ti0 ) $0 departure_time ( < ( ) $0 flight ( and ( e $0 lambda (
+) ) $0 fare ( ) ) $0 flight ( ) ci0 $0 from ( ) ci1 $0 to ( ) da0 $0 day ( ) ti0 ) $0 departure_time ( > ( and ( $0 argmin (
+) ) ) ) $0 ) $1 aircraft_code ( = ( ) ci1 $1 to ( ) ci0 $1 from ( ) ti0 $1 departure_time ( ) $1 flight ( and ( $1 exists ( e $0 lambda (
+) ) ) ) $0 ) $1 fare ( = ( ) $1 round_trip ( ) ci1 $1 to ( ) ci0 $1 from ( and ( $1 exists ( $0 min (
+) ) $0 departure_time ( ) ) mn0 $0 month_arrival ( ) dn0 $0 day_number_arrival ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( $0 argmin (
+) ) ) mn0 $0 month ( ) dn0 $0 day_number ( ) da0 $0 day ( ) ci1 $0 to ( ) ci0 $0 from ( ) al0 $0 airline ( ) $0 flight ( and ( e $0 lambda (
+) ) ) al0 $0 airline ( ) $0 tomorrow ( ) morning:pd $0 during_day ( ) 1:i $0 stops ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci0 $0 to ( ) ci1 $0 from ( ) ti1 ) $0 departure_time ( < ( ) ti0 ) $0 departure_time ( > ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) $0 ) $1 fare ( = ( ) ci1 $1 to ( ) ci0 $1 from ( ) first:cl $1 class_type ( ) $1 round_trip ( and ( $1 exists ( e $0 lambda (
+) ) $0 departure_time ( ) ) $0 tomorrow ( ) ci1 $0 to ( ) ci0 $0 from ( ) al0 $0 airline ( ) $0 flight ( and ( $0 argmax (
+) ) ) da0 $0 day ( ) ci1 $0 to ( ) ci0 $0 from ( ) first:cl $0 class_type ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) $1 ) $0 fare ( = ( ) mn0 $0 month ( ) dn0 $0 day_number ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( $1 exists ( e $0 lambda (
+) ) ) ci2 $0 stop ( ) ci0 $0 to ( ) ci1 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) $0 ) $1 fare ( = ( ) ci1 $1 to ( ) ci0 $1 from ( ) $1 oneway ( and ( $1 exists ( $0 min (
+) ) ) ) $0 ) $1 fare ( = ( ) da0 $1 day ( ) ci1 $1 to ( ) ci0 $1 from ( ) first:cl $1 class_type ( and ( $1 exists ( e $0 lambda (
+) ) ) da0 $0 day ( ) ci1 $0 to ( ) ci0 $0 from ( ) morning:pd $0 during_day ( ) early:pd $0 during_day ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) $0 ) $1 airline:e ( = ( ) mn0 $1 month ( ) dn0 $1 day_number ( ) da0 $1 day ( ) ci0 $1 to ( ) ci1 $1 from ( ) $1 flight ( and ( $1 exists ( e $0 lambda (
+) ) ) ) $0 ) $1 fare ( = ( ) $1 round_trip ( ) mn0 $1 month ( ) dn0 $1 day_number ( ) ci1 $1 to ( ) ci0 $1 from ( and ( $1 exists ( $0 min (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) ti1 ) $0 departure_time ( < ( ) ti0 ) $0 departure_time ( > ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ap0 $0 from_airport ( ) ci0 $0 to_city ( ) $0 ground_transport ( and ( e $0 lambda (
+) ) ) ) $1 ) $0 fare ( = ( ) ci1 $0 to ( ) ci0 $0 from ( ) do0 ) $0 fare ( < ( ) ti0 ) $0 departure_time ( > ( ) $0 flight ( and ( $1 exists ( e $0 lambda (
+) ) ) ci0 $0 from ( ) ti1 ) $0 departure_time ( < ( ) ti0 ) $0 departure_time ( > ( ) al0 $0 airline ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) $1 ) $0 fare ( = ( ) ci1 $0 to ( ) ci0 $0 from ( ) do0 ) $0 fare ( < ( ) ti0 ) $0 departure_time ( > ( ) $0 flight ( and ( $1 exists ( e $0 lambda (
+) ) $0 departure_time ( ) ) da0 $0 day ( ) ci0 $0 to ( ) ci1 $0 from ( ) $0 nonstop ( ) $0 flight ( and ( $0 argmin (
+) ) ) ) $0 ) $1 fare ( = ( ) mn0 $1 month ( ) dn0 $1 day_number ( ) ci1 $1 to ( ) ci0 $1 from ( ) $1 oneway ( and ( $1 exists ( e $0 lambda (
+) ) ) ci2 $0 stop ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci2 $0 stop ( ) ci0 $0 to ( ) ci1 $0 from ( and ( e $0 lambda (
+) ) ) ci1 $0 stop ( ) ci0 $0 to ( ) ci2 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) mn0 $0 month ( ) dn0 $0 day_number ( ) da0 $0 day ( ) ci1 $0 to ( ) ci0 $0 from ( ) morning:pd $0 during_day ( ) $0 flight ( and ( e $0 lambda (
+) ) $0 fare ( ) ) mn0 $0 month ( ) dn0 $0 day_number ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 oneway ( ) $0 flight ( and ( $0 argmin (
+) ) ) mn0 $0 month ( ) dn0 $0 day_number ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) ti0 $0 arrival_time ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) ti0 ) $0 arrival_time ( < ( ) al0 $0 airline ( ) $0 round_trip ( and ( e $0 lambda (
+) ) ) da1 $0 day ( ) da0 $0 day ( ) ci1 $0 to ( ) ci0 $0 from ( ) ti0 ) $0 departure_time ( > ( ) $0 flight ( and ( e $0 lambda (
+) ) ) da1 $0 day_return ( ) da0 $0 day ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) first:cl $0 class_type ( ) al0 $0 airline ( ) $0 round_trip ( ) $0 flight ( and ( e $0 lambda (
+) ) $0 fare ( ) ) $0 round_trip ( ) ci1 $0 to ( ) ci0 $0 from ( ) first:cl $0 class_type ( ) al0 $0 airline ( and ( $0 argmin (
+) ) ) ) $0 ) $1 fare ( = ( ) mn0 $1 month ( ) dn0 $1 day_number ( ) da0 $1 day ( ) ci1 $1 to ( ) ci0 $1 from ( ) $1 oneway ( and ( $1 exists ( $0 min (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) afternoon:pd $0 during_day ( ) early:pd $0 during_day_arrival ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) $0 ) $1 fare ( = ( ) ci1 $1 to ( ) ci0 $1 from ( ) $1 round_trip ( ) $1 flight ( and ( $1 exists ( e $0 lambda (
+) ) ) ) $0 ) $1 fare ( = ( ) mn0 $1 month ( ) dn0 $1 day_number ( ) ci1 $1 to ( ) ci0 $1 from ( ) $1 oneway ( and ( $1 exists ( $0 min (
+) ) ) ) ci1 $1 from ( ) ci0 $1 to ( ) $1 flight ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( $1 exists ( e $0 lambda (
+) ) ) ci0 $0 to ( ) ci1 $0 from ( ) afternoon:pd $0 during_day ( ) al0 $0 airline ( ) $0 flight ( and ( e $0 lambda (
+) ) ) mn0 $0 month ( ) dn0 $0 day_number ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) ti1 $0 arrival_time ( ) ti0 $0 departure_time ( ) $0 flight ( and ( e $0 lambda (
+) ) ) da0 $0 day ( ) ci1 $0 to ( ) ci0 $0 from ( ) ti0 ) $0 arrival_time ( < ( ) $0 flight ( and ( e $0 lambda (
+) ) ) da0 $0 day ( ) ci0 $0 to ( ) ci1 $0 from ( ) ti0 ) $0 arrival_time ( < ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) $1 ) $0 ground_fare ( = ( ) ap0 $0 from_airport ( ) ci0 $0 to_city ( ) $0 ground_transport ( and ( $1 exists ( e $0 lambda (
+) ) ) da0 $0 day ( ) ci0 $0 to ( ) ci1 $0 from ( ) morning:pd $0 during_day ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) $0 ) $1 fare ( = ( ) da0 $1 day ( ) ci1 $1 to ( ) ci0 $1 from ( ) ti0 ) $1 departure_time ( < ( ) $1 flight ( and ( $1 exists ( e $0 lambda (
+) ) ) ) $0 ) $1 departure_time ( = ( ) mn0 $1 month ( ) dn0 $1 day_number ( ) ci0 $1 to ( ) ci1 $1 from ( ) morning:pd $1 during_day ( ) al0 $1 airline ( and ( $1 exists ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) ti0 $0 approx_departure_time ( ) $0 flight ( and ( e $0 lambda (
+) ) $0 fare ( ) ) da0 $0 day ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 oneway ( ) $0 flight ( and ( $0 argmin (
+) ) ) da0 $0 day ( ) ci0 $0 to ( ) ci1 $0 from ( ) ti0 ) $0 departure_time ( > ( ) $0 flight ( and ( e $0 lambda (
+) ) ) $0 fare ( ) ) $0 round_trip ( ) ci1 $0 to ( ) ci0 $0 from ( ) first:cl $0 class_type ( ) al0 $0 airline ( and ( $0 argmin ( fare (
+) ) ) ci0 $0 to ( ) ci1 $0 from ( ) early:pd $0 during_day ( ) breakfast:me $0 meal ( ) $0 flight ( and ( e $0 lambda (
+) ) $0 departure_time ( ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( $0 argmin (
+) ) $0 fare ( ) ) da0 $0 day ( ) ci1 $0 to ( ) ci0 $0 from ( ) ti0 ) $0 arrival_time ( > ( ) $0 oneway ( ) $0 flight ( and ( $0 argmin (
+) ) ) ci0 $0 to ( ) ci1 $0 from ( ) afternoon:pd $0 during_day ( ) ti0 $0 arrival_time ( ) $0 flight ( and ( e $0 lambda (
+) ) $0 departure_time ( ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( $0 argmin (
+) ) $0 fare ( ) ) mn0 $0 month ( ) dn0 $0 day_number ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 oneway ( ) $0 flight ( and ( $0 argmin (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) ti0 $0 arrival_time ( ) ac0 $0 aircraft_code ( ) $0 nonstop ( ) boeing:mf $0 manufacturer ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ci1 $0 to ( ) ci0 $0 from ( ) ti0 $0 departure_time ( ) al0 $0 airline ( ) $0 flight ( and ( e $0 lambda (
+) ) ) mn0 $0 month ( ) dn0 $0 day_number ( ) ci1 $0 to ( ) ci0 $0 from ( ) morning:pd $0 during_day ( ) early:pd $0 during_day ( ) $0 flight ( and ( e $0 lambda (
+) ) $0 departure_time ( ) ) ci1 $0 to ( ) ci0 $0 from ( ) $0 has_meal ( ) $0 flight ( and ( $0 argmin (
+) ) ) da0 $0 day_arrival ( ) ci0 $0 to ( ) ci1 $0 from ( ) ti0 $0 arrival_time ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) $0 ) $1 departure_time ( = ( ) ci1 $1 to ( ) ci0 $1 from ( ) morning:pd $1 during_day ( ) ti0 ) $1 departure_time ( < ( ) $1 flight ( and ( $1 exists ( e $0 lambda (
+) ) ) ci0 $0 stop ( ) ci2 $0 to ( ) ci1 $0 from ( ) al0 $0 airline ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) ) ci1 $0 to ( ) ci3 $0 from ( and ( ) ) ci1 $0 to ( ) ci2 $0 from ( and ( ) ) ci1 $0 to ( ) ci0 $0 from ( and ( or ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) ) $0 ) $1 fare ( = ( ) ) ci1 $1 to ( ) ci0 $1 from ( ) fn1 $1 flight_number ( ) al0 $1 airline ( ) $1 flight ( and ( ) ) ci1 $1 to ( ) ci0 $1 from ( ) fn0 $1 flight_number ( ) al0 $1 airline ( ) $1 flight ( and ( or ( and ( $1 exists ( e $0 lambda (
+) ) ) ci0 $0 stop ( ) ci2 $0 to ( ) ci1 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) $0 ) $1 airline:e ( = ( ) ci0 $1 to ( ) ci1 $1 from ( and ( $1 exists ( e $0 lambda (
+) ) ) mn0 $0 month ( ) dn0 $0 day_number ( ) da0 $0 day ( ) ci0 $0 to ( ) ci1 $0 from ( ) ti0 $0 approx_arrival_time ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) $0 ) $1 aircraft_code ( = ( ) ci0 $1 to ( ) ci1 $1 from ( ) ti0 ) $1 departure_time ( < ( ) al0 $1 airline ( ) $1 flight ( and ( $1 exists ( e $0 lambda (
+) ) ) ) $0 $1 stop ( ) ci1 $1 to ( ) ci0 $1 from ( ) fn0 $1 flight_number ( ) al0 $1 airline ( ) $1 flight ( and ( $1 exists ( e $0 lambda (
+) ) ) ) ci1 $0 to ( ) ci0 $0 from ( ) ti0 ) $0 departure_time ( > ( ) $0 flight ( ) $1 ) $0 airline:e ( = ( and ( $1 exists ( e $0 lambda (
+) ) ) dn0 $0 day_number ( ) ti0 $0 approx_departure_time ( ) mn0 $0 month ( ) late:pd $0 during_day ( ) ci1 $0 to ( ) ci0 $0 from ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) da0 $1 day ( ) ci0 $1 to ( ) ) ci2 $1 from ( ) ci1 $1 from ( or ( ) $1 flight ( and ( $1 exists ( e $0 lambda (
+) ) ) ci0 $0 to ( ) ci1 $0 from ( ) early:pd $0 during_day ( ) al0 $0 airline ( ) $0 flight ( and ( e $0 lambda (
+) ) ) ) ) ) $2 departure_time ( ) ) ci1 $0 from ( ) ci0 $0 to ( ) $2 flight ( and ( $2 argmax ( $1 equals ( ) ) ) $2 arrival_time ( ) ) ci1 $0 to ( ) ci0 $0 from ( ) $2 flight ( and ( $2 argmin ( $0 equals ( and ( $1 exists ( e $0 lambda (
+) ) ) ) ) ) $2 departure_time ( ) ) ci1 $0 from ( ) ci0 $0 to ( ) $2 flight ( and ( $2 argmax ( $1 equals ( ) ) ) $2 arrival_time ( ) ) ci1 $0 to ( ) ci0 $0 from ( ) $2 flight ( and ( $2 argmin ( $0 equals ( and ( $1 exists ( e $0 lambda (
