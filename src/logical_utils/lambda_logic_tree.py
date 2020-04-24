@@ -18,8 +18,8 @@ class LogicElement:
     DEFAULT_ALLOW_CHILD_DUPLICATION = {"and", "or", ""}
 
     def __init__(self, value="", child=None, relax_child_order=False, allow_child_duplication=False):
-        self.child: List[LogicElement] = child or []
-        self.value: str = str(value)
+        self.child = child or []
+        self.value = str(value)
         if value in LogicElement.DEFAULT_RELAX_CHILD_ORDER:
             relax_child_order = True
         self.relax_child_order = relax_child_order
@@ -34,7 +34,7 @@ class LogicElement:
         if isinstance(child, LogicElement):
             self.child.append(child)
         else:
-            logger.warning(f"Can't add child that is not object LogicElement: {child}")
+            logger.warning("Can't add child that is not object LogicElement: {}"%{child})
 
     def is_variable_node(self, term_check=r'[\$\?][^\s\n]*'):
         if len(self.child) == 0 and re.fullmatch(term_check, self.value):
