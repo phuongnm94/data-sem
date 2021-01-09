@@ -17,7 +17,9 @@ class LogicElement:
     DEFAULT_RELAX_CHILD_ORDER = {"and", "or", "", "next_to"}
     DEFAULT_ALLOW_CHILD_DUPLICATION = {"and", "or", ""}
 
-    def __init__(self, value="", child=None, relax_child_order=False, allow_child_duplication=False):
+    def __init__(self, value="", child=None, relax_child_order=False, allow_child_duplication=False,
+                 is_hierarchical=False):
+        self.is_hierarchical = is_hierarchical
         self.child = child or []
         self.value = str(value)
         if value in LogicElement.DEFAULT_RELAX_CHILD_ORDER:
@@ -34,7 +36,7 @@ class LogicElement:
         if isinstance(child, LogicElement):
             self.child.append(child)
         else:
-            logger.warning("Can't add child that is not object LogicElement: {}"%{child})
+            logger.warning("Can't add child that is not object LogicElement: {}" % {child})
 
     def is_variable_node(self, term_check=r'[\$\?][^\s\n]*'):
         if len(self.child) == 0 and re.fullmatch(term_check, self.value):
@@ -73,6 +75,26 @@ class LogicElement:
         self.leaf_nodes = tmp_leaf_nodes
         return tmp_leaf_nodes
 
+    def get_triple_name(self):
+        tmp_triple_name = []
+        if self.is_triple():
+            tmp_triple_name.append(self.value)
+
+        if len(self.child) > 0:
+            for e in self.child:
+                tmp_triple_name += e.get_triple_name()
+
+        return tmp_triple_name
+
+    def get_constant(self):
+        tmp_triple_name = []
+        if self.is_constant():
+            return [self.value]
+        for e in self.child:
+            tmp_triple_name += e.get_constant()
+
+        return tmp_triple_name
+
     @staticmethod
     def _collapse_list_logic(logics: List) -> List:
         len_logic = len(logics)
@@ -91,6 +113,13 @@ class LogicElement:
     def __eq__(self, other):
         if not isinstance(other, LogicElement) or not self.value == other.value:
             return False
+        if self.is_hierarchical:
+            check = True
+            for c in self.child:
+                if len(c.child) == 0:
+                    check = False
+                    break
+            self.relax_child_order = check
 
         if self.allow_child_duplication and self.relax_child_order:
             self_child = copy.deepcopy(self.child)
@@ -120,18 +149,32 @@ class LogicElement:
                         return False
             return True
 
+    def get_path_to_leaf_nodes(self, path_to_leaf_nodes=None, cur_path=None):
+        path_to_leaf_nodes = [] if path_to_leaf_nodes is None else path_to_leaf_nodes
+        cur_path = [] if cur_path is None else copy.deepcopy(cur_path)
+        if len(self.value) > 0:
+            cur_path.append(self.value)
+        if self.is_leaf_node():
+            path_to_leaf_nodes.append(cur_path)
+        else:
+            for e in self.child:
+                e.get_path_to_leaf_nodes(path_to_leaf_nodes, cur_path)
+        return path_to_leaf_nodes
+
     def __str__(self):
+        separate_logic_1 = "[" if self.is_hierarchical else "("
+        separate_logic_2 = "]" if self.is_hierarchical else ")"
         if len(self.child) == 0:
             return self.value
         child_str = " ".join([str(v) for v in self.child])
         if len(self.value) > 0 and len(child_str) > 0:
-            return "( {} {} )".format(self.value, child_str)
+            return "{} {} {} {}".format(separate_logic_1, self.value, child_str, separate_logic_2)
         elif len(self.value) > 0:
-            return "( {} )".format(self.value)
+            return "{} {} {}".format(separate_logic_1, self.value, separate_logic_2)
         elif len(child_str) > 0:
-            return "( {} )".format(child_str)
+            return "{} {} {}".format(separate_logic_1, child_str, separate_logic_2)
         else:
-            return "( )"
+            return "{} {}".format(separate_logic_1, separate_logic_2)
 
     @staticmethod
     def _norm_variable_name(name):
@@ -213,7 +256,33 @@ def parse_lambda(logic_str: str):
         else:
             tmp_logic[-1].add_child(LogicElement(value=tk))
 
-    return lg_parent
+    return lg_parent if len(lg_parent.child) > 1 else lg_parent.child[0]
+
+
+def parse_hierarchical_logic(logic_str: str):
+    lg_parent = LogicElement(is_hierarchical=True)
+    tk_arr = logic_str.replace("[", " [ ").split()
+    tk_arr = [tk for tk in tk_arr if tk != "," and len(tk) > 0]
+    tmp_logic = [lg_parent]
+    j = 0
+    for i in range(len(tk_arr)):
+        if i + j >= len(tk_arr):
+            break
+        tk = tk_arr[i + j]
+        if tk == "[":
+            if i + j + 1 < len(tk_arr) and not tk_arr[i + j + 1] == "(":
+                new_lg = LogicElement(value=tk_arr[i + j + 1], is_hierarchical=True)
+                j += 1
+            else:
+                new_lg = LogicElement(is_hierarchical=True)
+            tmp_logic[-1].add_child(new_lg)
+            tmp_logic.append(new_lg)
+        elif tk == "]":
+            tmp_logic.pop()
+        else:
+            tmp_logic[-1].add_child(LogicElement(value=tk, is_hierarchical=True))
+
+    return lg_parent if len(lg_parent.child) > 1 else lg_parent.child[0]
 
 
 def parse_prolog(logic_str: str):
@@ -249,8 +318,9 @@ if __name__ == "__main__":
     # logic_s = "( lambda ?x exist ?y ( and ( mso:@@ wine.@@ wine.@@ gra@@ pe_@@ vari@@ ety 2005 _ joseph _ car@@ r _ nap@@ a _ valley _ ca@@ ber@@ net _ s@@ au@@ vi@@ gn@@ on ?y ) ( mso:@@ wine.@@ gra@@ pe_@@ vari@@ e@@ ty_@@ composi@@ tion.@@ gra@@ pe_@@ vari@@ ety ?y pe@@ ti@@ t _ ver@@ do@@ t ) ( mso:@@ wine.@@ gra@@ pe_@@ vari@@ e@@ ty_@@ composition@@ .per@@ cent@@ age ?y ?x ) ) )"
     logic_s2 = "( lambda ?x exist ?y ( and ( mso:@@ wine.@@ gra@@ pe_@@ vari@@ e@@ ty_@@ composi@@ tion.@@ gra@@ pe_@@ vari@@ ety ?y pe@@ ti@@ t _ ver@@ do@@ t ) ( mso:@@ wine.@@ wine.@@ gra@@ pe_@@ vari@@ ety 2005 _ joseph _ car@@ r _ nap@@ a _ valley _ ca@@ ber@@ net _ s@@ au@@ vi@@ gn@@ on ?y ) ( mso:@@ wine.@@ gra@@ pe_@@ vari@@ e@@ ty_@@ composition@@ .per@@ cent@@ age ?y ?x ) ) )"
     # logic_s = "( count $0 ( and ( state:t $0 ) ( exists $1 ( and ( place:t $1 ) ( loc:t $1 $0 ) ( > ( elevation:i $1 ) ( elevation:i ( argmax $2 ( and ( place:t $2 ) ( exists $3 ( and ( loc:t $2 $3 ) ( state:t $3 ) ( loc:t $3 co0 ) ( loc:t ( argmax $4 ( and ( capital:t $4 ) ( city:t $4 ) ) ( size:i $4 ) ) $3 ( size:i $4 ) ) ) ) ) ( elevation:i $2 ) ) ) ) ) ) ) )"
-    # logic_s2 = "( count $0 ( and ( state:t $0 ) ( exists $1 ( and  ( loc:t $1 $0 ) ( place:t $1 ) ( > ( elevation:i $1 ) ( elevation:i ( argmax $2 ( and ( place:t $2 ) ( exists $3 ( and ( loc:t $2 $3 ) ( state:t $3 ) ( loc:t $3 co0 ) ( loc:t ( argmax $4 ( and ( capital:t $4 ) ( city:t $4 ) ) ( size:i $4 ) ) $3 ( size:i $4 ) ) ) ) ) ( elevation:i $2 ) ) ) ) ) ) ) )"
-    logic_s2 = "( lambda ?x exist ?y ( and ( mso:people.person.marriage meghan_markle ?y ) ( mso:time.event.start_date ?y 9/10/2011 ) ( mso:time.event.location ?y ?x ) ) )"
+    logic_s2 = "( count $0 ( and ( state:t $0 ) ( exists $1 ( and  ( loc:t $1 $0 ) ( place:t $1 ) ( > ( elevation:i $1 ) ( elevation:i ( argmax $2 ( and ( place:t $2 ) ( exists $3 ( and ( loc:t $2 $3 ) ( state:t $3 ) ( loc:t $3 co0 ) ( loc:t ( argmax $4 ( and ( capital:t $4 ) ( city:t $4 ) ) ( size:i $4 ) ) $3 ( size:i $4 ) ) ) ) ) ( elevation:i $2 ) ) ) ) ) ) ) )"
+    logic_s2 = "( ROOT ( S ( SBAR ( WHNP ( ( WDT which ) ) ) ) ( NP ( NNS airline ) ) ( VP ( VBP serve ) ( NP ( NN ci0 ) ) ) ) )"
+    # logic_s2 = "( lambda ?x exist ?y ( and ( mso:people.person.marriage meghan_markle ?y ) ( mso:time.event.start_date ?y 9/10/2011 ) ( mso:time.event.location ?y ?x ) ) )"
     # x = function_collapse(logic_s)
     # print(x)
     # print(len(x.split()))
@@ -258,9 +328,14 @@ if __name__ == "__main__":
     # print(parse_lambda(logic_s) == parse_lambda(logic_s2))
     # print(parse_lambda(logic_s))
     s2 = parse_lambda(logic_s2)
+    print(s2)
     # print(s2)
     leaf = s2.get_leaf_nodes()
-    print(s2.to_amr())
+    # print(s2.get_triple_name())
+    # print(s2.get_constant())
+    print(s2.get_path_to_leaf_nodes())
+
+    # print(s2.to_amr())
     # for l in leaf:
     #     if l.is_variable_node():
     #         print(l.to_amr({}))
