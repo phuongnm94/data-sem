@@ -99,6 +99,7 @@ def do_compare(opt):
             file_pred = directory_path + "/Y_pred_5.tsv"
             file_test = directory_path + "/Y_dev_5.tsv"
             file_sentence = directory_path + "/X_dev_5.tsv"
+            file_meta = directory_path + "/dev_meta_info.csv"
             if not os.path.exists(file_pred) or not os.path.exists(file_test):
                 logging.warning("skip files {}, {}".format(file_pred, file_pred))
                 continue
@@ -124,6 +125,11 @@ def do_compare(opt):
                 lines = [l.strip() for l in f.readlines()]
             if len(lines) > 0:
                 new_data["pred_" + directory_name] = pd.DataFrame(lines, dtype=str).loc[:, 0]
+
+            # question type as meta information
+            if os.path.exists(file_meta):
+                meta_df = pd.read_csv(file_meta)
+                new_data = new_data.join(meta_df)
 
             # save new data
             if new_data.shape[0] > 0:
